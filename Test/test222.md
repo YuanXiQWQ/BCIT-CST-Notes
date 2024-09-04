@@ -1,1 +1,0 @@
-Hi, my name is ![[Pasted image 20240830153514.png]] Vincent!
