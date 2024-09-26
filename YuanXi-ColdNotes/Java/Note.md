@@ -537,7 +537,7 @@ public class Note {
             private:代码只能在声明的类中访问  
   
             修饰符/访问场景    同一类内部   同一包内所有类   不同包的子类   不同包的非子类   同一包的非子类  
-                public         √           √             √            √             √                protected      √           √             √            ×             √                default        √           √             ×            ×             √                private        √            ×             ×            ×             ×        */  
+            public         √           √             √            √             √              protected      √           √             √            ×             √              default        √           √             ×            ×             √              private        √            ×             ×            ×             ×        */  
         /*非访问修饰符  
           对于类Class  
             final:这个类不能被其他类继承  
