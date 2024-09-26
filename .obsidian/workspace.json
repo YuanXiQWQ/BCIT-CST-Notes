@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/关系数据库模型-数据结构.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/关系数据库模型-数据结构.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/关系数据库模型-数据结构.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/关系数据库模型-数据结构.md"
+                "file": "YuanXi-ColdNotes/Computer Organisation/汉明码.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "8d5a480b8a19a603",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Database/6-关系数据库模型-数据结构(1).md",
+    "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
+    "YuanXi-ColdNotes/Computer Organisation/Hamming.md",
+    "YuanXi-ColdNotes/Computer Organisation/未命名",
+    "YuanXi-ColdNotes/Computer Organisation",
+    "YuanXi-ColdNotes/未命名.md",
+    "YuanXi-ColdNotes/Database/7-关系数据模型-数据结构(2)和数据操作.md",
     "YuanXi-ColdNotes/Java/Note.md",
-    "YuanXi-ColdNotes/Database/关系数据库模型-数据结构.md",
     "YuanXi-ColdNotes/Database",
     "Test/imgs/Pasted image 20240830153514.png",
     "YuanXi-ColdNotes/Java",
