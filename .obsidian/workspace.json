@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
+                "file": "YuanXi-ColdNotes/Java/面向对象/3.面向对象三大特性-封装(Encapsulation).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af0f8e24b6bed7e5",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
+                "file": "YuanXi-ColdNotes/Java/面向对象/3.面向对象三大特性-封装(Encapsulation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
+                "file": "YuanXi-ColdNotes/Java/面向对象/3.面向对象三大特性-封装(Encapsulation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/汉明码.md"
+                "file": "YuanXi-ColdNotes/Java/面向对象/3.面向对象三大特性-封装(Encapsulation).md"
               }
             }
           }
@@ -150,9 +149,14 @@
   },
   "active": "8d5a480b8a19a603",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Java/面向对象/2.面向对象三大特性-继承(Inheritance).md",
+    "YuanXi-ColdNotes/Java/面向对象/3.面向对象三大特性-封装(Encapsulation).md",
+    "YuanXi-ColdNotes/Java/面向对象/1.this, static 关键字.md",
+    "YuanXi-ColdNotes/Java/面向对象/static初始化块.md",
+    "YuanXi-ColdNotes/Java/面向对象",
+    "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
     "YuanXi-ColdNotes/Database/6-关系数据库模型-数据结构(1).md",
     "YuanXi-ColdNotes/Java/Note.md",
-    "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
     "YuanXi-ColdNotes/Computer Organisation/Hamming.md",
     "YuanXi-ColdNotes/Computer Organisation/未命名",
     "YuanXi-ColdNotes/Computer Organisation",
