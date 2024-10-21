@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/8-关系数据模型-完整性约束.md",
+                "file": "YuanXi-ColdNotes/Database/11.关系代数-投影和选择.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/8-关系数据模型-完整性约束.md",
+                "file": "YuanXi-ColdNotes/Database/11.关系代数-投影和选择.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/8-关系数据模型-完整性约束.md",
+                "file": "YuanXi-ColdNotes/Database/11.关系代数-投影和选择.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/8-关系数据模型-完整性约束.md"
+                "file": "YuanXi-ColdNotes/Database/11.关系代数-投影和选择.md"
               }
             }
+          },
+          {
+            "id": "71820b2949661824",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,9 +158,12 @@
   },
   "active": "8d5a480b8a19a603",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Database/7-关系数据模型-数据结构(2)和数据操作.md",
-    "YuanXi-ColdNotes/Database/8-关系数据模型-完整性约束.md",
-    "YuanXi-ColdNotes/Database/6-关系数据库模型-数据结构(1).md",
+    "YuanXi-ColdNotes/Database/6.关系数据库模型-数据结构(1).md",
+    "YuanXi-ColdNotes/Database/7.关系数据模型-数据结构(2)和数据操作.md",
+    "YuanXi-ColdNotes/Database/8.关系数据模型-完整性约束.md",
+    "YuanXi-ColdNotes/Database/9.关系数据语言.md",
+    "YuanXi-ColdNotes/Database/10.关系代数-传统的集合运算.md",
+    "YuanXi-ColdNotes/Database/11.关系代数-投影和选择.md",
     "YuanXi-ColdNotes/Java/面向对象/3.面向对象三大特性-封装(Encapsulation).md",
     "YuanXi-ColdNotes/Java/面向对象/2.面向对象三大特性-继承(Inheritance).md",
     "YuanXi-ColdNotes/Java/面向对象/1.this, static 关键字.md",
