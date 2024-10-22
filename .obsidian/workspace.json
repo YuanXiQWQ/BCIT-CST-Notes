@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
+                "file": "YuanXi-ColdNotes/Java/面向对象/102.※面向对象-继承(Inheritance).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
+                "file": "YuanXi-ColdNotes/Java/面向对象/102.※面向对象-继承(Inheritance).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
+                "file": "YuanXi-ColdNotes/Java/面向对象/102.※面向对象-继承(Inheritance).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md"
+                "file": "YuanXi-ColdNotes/Java/面向对象/102.※面向对象-继承(Inheritance).md"
               }
             }
           },
@@ -171,6 +171,11 @@
   },
   "active": "30749b9641bb6c9e",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Java/面向对象/100.※面向对象-多态(Polymorphism).md",
+    "YuanXi-ColdNotes/Java/面向对象/102.※面向对象-继承(Inheritance).md",
+    "YuanXi-ColdNotes/Java/面向对象/1.this, static 关键字.md",
+    "YuanXi-ColdNotes/Java/面向对象/3.面向对象三大特性-封装(Encapsulation).md",
+    "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022083903.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022083824.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022083554.png",
@@ -178,7 +183,6 @@
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022081833.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022081552.png",
     "YuanXi-ColdNotes/Database/29.※数据库设计-ER模型转换关系模型.md",
-    "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022080559.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022075918.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022074320.png",
@@ -196,12 +200,8 @@
     "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
     "YuanXi-ColdNotes/Database/28.※数据库设计-ER模型.md",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022072340.png",
-    "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022070110.png",
     "YuanXi-ColdNotes/Database/imgs",
     "YuanXi-ColdNotes/Java/Note.md",
-    "YuanXi-ColdNotes/Java/面向对象/3.面向对象三大特性-封装(Encapsulation).md",
-    "YuanXi-ColdNotes/Java/面向对象/2.面向对象三大特性-继承(Inheritance).md",
-    "YuanXi-ColdNotes/Java/面向对象/1.this, static 关键字.md",
     "YuanXi-ColdNotes/Database/7.关系数据模型-数据结构(2)和数据操作.md",
     "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
     "YuanXi-ColdNotes/Database/6.关系数据库模型-数据结构(1).md",
