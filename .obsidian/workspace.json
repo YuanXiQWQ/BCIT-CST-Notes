@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md",
+                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md",
+                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md",
+                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md"
+                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "8d5a480b8a19a603",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Database/29.数据库设计-ER模型转换关系模型.md",
+    "YuanXi-ColdNotes/Database/28.数据库设计-ER模型.md",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022070110.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022070025.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022065735.png",
@@ -165,7 +167,6 @@
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022065510.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022065219.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022064215.png",
-    "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022064502.png",
     "YuanXi-ColdNotes/Database/imgs",
     "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
