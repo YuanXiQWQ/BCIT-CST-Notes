@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/164.※容器-泛型(Generics).md",
+                "file": "YuanXi-ColdNotes/Java/Lambda表达式.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/164.※容器-泛型(Generics).md",
+                "file": "YuanXi-ColdNotes/Java/Lambda表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/164.※容器-泛型(Generics).md",
+                "file": "YuanXi-ColdNotes/Java/Lambda表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/164.※容器-泛型(Generics).md"
+                "file": "YuanXi-ColdNotes/Java/Lambda表达式.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "30749b9641bb6c9e",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Java/144.异常-自定义异常.md",
     "YuanXi-ColdNotes/Java/164.※容器-泛型(Generics).md",
+    "YuanXi-ColdNotes/Java/Lambda表达式.md",
+    "YuanXi-ColdNotes/Java/144.异常-自定义异常.md",
     "YuanXi-ColdNotes/Java/100.※面向对象-多态(Polymorphism).md",
     "YuanXi-ColdNotes/Java/1.this, static 关键字.md",
     "YuanXi-ColdNotes/Java/Note.md",
@@ -207,7 +208,6 @@
     "YuanXi-ColdNotes/Database/7.关系数据模型-数据结构(2)和数据操作.md",
     "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
     "YuanXi-ColdNotes/Database/6.关系数据库模型-数据结构(1).md",
-    "YuanXi-ColdNotes/Java/面向对象/static初始化块.md",
     "YuanXi-ColdNotes/Java/面向对象",
     "YuanXi-ColdNotes/Computer Organisation/未命名",
     "YuanXi-ColdNotes/Computer Organisation",
