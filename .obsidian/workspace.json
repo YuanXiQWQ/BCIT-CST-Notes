@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
+                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
+                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
+                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md"
+                "file": "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "8d5a480b8a19a603",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022064215.png",
+    "YuanXi-ColdNotes/Database/imgs",
+    "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
+    "YuanXi-ColdNotes/Database/28.数据库设计-ER模型做概念设计.md",
     "YuanXi-ColdNotes/Database/17.SQL-数据定义语言DDL.md",
     "YuanXi-ColdNotes/Database/16.SQL-概述.md",
-    "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
     "YuanXi-ColdNotes/Database/25.SQL-数据更新.md",
     "YuanXi-ColdNotes/Database/9.关系数据语言.md",
     "YuanXi-ColdNotes/Database/10.关系代数-传统的集合运算.md",
@@ -178,7 +181,6 @@
     "YuanXi-ColdNotes/Database/6.关系数据库模型-数据结构(1).md",
     "YuanXi-ColdNotes/Database/8.关系数据模型-完整性约束.md",
     "YuanXi-ColdNotes/Database/imgs/0186BE84.png",
-    "YuanXi-ColdNotes/Database/imgs",
     "YuanXi-ColdNotes/Java/面向对象/static初始化块.md",
     "YuanXi-ColdNotes/Java/面向对象",
     "YuanXi-ColdNotes/Computer Organisation/Hamming.md",
