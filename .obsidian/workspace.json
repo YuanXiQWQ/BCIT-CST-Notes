@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "af0f8e24b6bed7e5",
@@ -158,18 +158,18 @@
   },
   "active": "8d5a480b8a19a603",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
-    "YuanXi-ColdNotes/Database/17.SQL-数据定义语言DDL.md",
-    "YuanXi-ColdNotes/Database/6.关系数据库模型-数据结构(1).md",
     "YuanXi-ColdNotes/Database/7.关系数据模型-数据结构(2)和数据操作.md",
+    "YuanXi-ColdNotes/Database/14.关系代数-运算符优先级.md",
+    "YuanXi-ColdNotes/Database/16.SQL-概述.md",
+    "YuanXi-ColdNotes/Database/17.SQL-数据定义语言DDL.md",
+    "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
+    "YuanXi-ColdNotes/Database/6.关系数据库模型-数据结构(1).md",
     "YuanXi-ColdNotes/Database/8.关系数据模型-完整性约束.md",
     "YuanXi-ColdNotes/Database/9.关系数据语言.md",
     "YuanXi-ColdNotes/Database/10.关系代数-传统的集合运算.md",
     "YuanXi-ColdNotes/Database/11.关系代数-投影和选择.md",
     "YuanXi-ColdNotes/Database/12.关系代数-笛卡尔积和连接.md",
     "YuanXi-ColdNotes/Database/13.关系代数-重命名.md",
-    "YuanXi-ColdNotes/Database/14.关系代数-运算符优先级.md",
-    "YuanXi-ColdNotes/Database/16.SQL-概述.md",
     "YuanXi-ColdNotes/Database/imgs/0186BE84.png",
     "YuanXi-ColdNotes/Database/imgs",
     "YuanXi-ColdNotes/Java/面向对象/3.面向对象三大特性-封装(Encapsulation).md",
