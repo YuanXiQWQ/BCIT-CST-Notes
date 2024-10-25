@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Discrete Mathematics/※排列组合.md",
+                "file": "YuanXi-ColdNotes/C/26.数组.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "※排列组合"
+              "title": "26.数组"
             }
           }
         ]
@@ -176,8 +176,10 @@
   },
   "active": "f7d931b025974d0a",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Java/164.※容器-泛型(Generics).md",
     "YuanXi-ColdNotes/Discrete Mathematics/※排列组合.md",
+    "YuanXi-ColdNotes/C/26.数组.md",
+    "YuanXi-ColdNotes/C",
+    "YuanXi-ColdNotes/Java/164.※容器-泛型(Generics).md",
     "YuanXi-ColdNotes/Discrete Mathematics",
     "YuanXi-ColdNotes/Database/29.※数据库设计-ER模型转换关系模型.md",
     "YuanXi-ColdNotes/Java/Lambda表达式.md",
@@ -213,14 +215,12 @@
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022072340.png",
     "YuanXi-ColdNotes/Database/imgs",
     "YuanXi-ColdNotes/Database/7.关系数据模型-数据结构(2)和数据操作.md",
-    "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
     "YuanXi-ColdNotes/Java/面向对象",
     "YuanXi-ColdNotes/Computer Organisation/未命名",
     "YuanXi-ColdNotes/Computer Organisation",
     "YuanXi-ColdNotes/Database",
     "YuanXi-ColdNotes/Java",
     "YuanXi-ColdNotes",
-    "Test/imgs",
-    "Test"
+    "Test/imgs"
   ]
 }
