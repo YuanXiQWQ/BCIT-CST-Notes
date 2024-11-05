@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Discrete Mathematics/有限状态机FSM.md",
+                "file": "YuanXi-ColdNotes/Discrete Mathematics/有限状态机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "有限状态机FSM"
+              "title": "有限状态机"
             }
           }
         ]
@@ -176,8 +176,13 @@
   },
   "active": "f7d931b025974d0a",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Discrete Mathematics/imgs/Pasted image 20241104163631.png",
+    "YuanXi-ColdNotes/Discrete Mathematics/imgs/Pasted image 20241104162558.png",
+    "YuanXi-ColdNotes/Discrete Mathematics/imgs/Pasted image 20241104160530.png",
+    "YuanXi-ColdNotes/Discrete Mathematics/imgs",
+    "YuanXi-ColdNotes/Discrete Mathematics/有限状态机-.md",
+    "YuanXi-ColdNotes/Discrete Mathematics/有限状态机.md",
     "YuanXi-ColdNotes/C/34.typedef关键字.md",
-    "YuanXi-ColdNotes/Discrete Mathematics/有限状态机FSM.md",
     "YuanXi-ColdNotes/C/33.组合数据类型-结构体和联合体.md",
     "YuanXi-ColdNotes/C/41.全局变量与局部变量.md",
     "YuanXi-ColdNotes/Discrete Mathematics/1.命题及命题的真值.md",
@@ -200,8 +205,6 @@
     "YuanXi-ColdNotes/Database/16.SQL-概述.md",
     "YuanXi-ColdNotes/Database/14.关系代数-运算符优先级.md",
     "YuanXi-ColdNotes/Database/13.关系代数-重命名.md",
-    "YuanXi-ColdNotes/Database/12.关系代数-笛卡尔积和连接.md",
-    "YuanXi-ColdNotes/Database/11.关系代数-投影和选择.md",
     "YuanXi-ColdNotes/C",
     "YuanXi-ColdNotes/Discrete Mathematics",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022083903.png",
@@ -212,15 +215,12 @@
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022081552.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022080559.png",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022075918.png",
-    "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022074320.png",
-    "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022072340.png",
     "YuanXi-ColdNotes/Database/imgs",
     "YuanXi-ColdNotes/Java/面向对象",
     "YuanXi-ColdNotes/Computer Organisation/未命名",
     "YuanXi-ColdNotes/Computer Organisation",
     "YuanXi-ColdNotes/Database",
     "YuanXi-ColdNotes/Java",
-    "YuanXi-ColdNotes",
-    "Test/imgs"
+    "YuanXi-ColdNotes"
   ]
 }
