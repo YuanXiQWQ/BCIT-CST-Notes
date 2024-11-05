@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7d931b025974d0a",
+            "id": "03772ead66a21841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Discrete Mathematics/同余.md",
+                "file": "草纸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "同余"
+              "title": "草纸"
             }
           }
         ]
@@ -174,9 +174,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7d931b025974d0a",
+  "active": "03772ead66a21841",
   "lastOpenFiles": [
     "YuanXi-ColdNotes/Discrete Mathematics/有限状态机.md",
+    "草纸.md",
+    "YuanXi-ColdNotes/Discrete Mathematics/命题及命题的真值.md",
     "YuanXi-ColdNotes/Discrete Mathematics/同余.md",
     "YuanXi-ColdNotes/Discrete Mathematics/imgs/Pasted image 20241104163631.png",
     "YuanXi-ColdNotes/Discrete Mathematics/imgs/Pasted image 20241104162558.png",
@@ -186,7 +188,6 @@
     "YuanXi-ColdNotes/C/34.typedef关键字.md",
     "YuanXi-ColdNotes/C/33.组合数据类型-结构体和联合体.md",
     "YuanXi-ColdNotes/C/41.全局变量与局部变量.md",
-    "YuanXi-ColdNotes/Discrete Mathematics/1.命题及命题的真值.md",
     "YuanXi-ColdNotes/Discrete Mathematics/※排列组合.md",
     "YuanXi-ColdNotes/C/17.位运算.md",
     "YuanXi-ColdNotes/Git推送.md",
@@ -205,7 +206,6 @@
     "YuanXi-ColdNotes/Database/17.※SQL-数据定义语言DDL.md",
     "YuanXi-ColdNotes/Database/16.SQL-概述.md",
     "YuanXi-ColdNotes/Database/14.关系代数-运算符优先级.md",
-    "YuanXi-ColdNotes/Database/13.关系代数-重命名.md",
     "YuanXi-ColdNotes/C",
     "YuanXi-ColdNotes/Discrete Mathematics",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022083903.png",
