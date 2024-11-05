@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/C/57.※指针与动态内存分配.md",
+                "file": "YuanXi-ColdNotes/Discrete Mathematics/图论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "57.※指针与动态内存分配"
+              "title": "图论"
             }
           }
         ]
@@ -176,6 +176,9 @@
   },
   "active": "03772ead66a21841",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Discrete Mathematics/imgs/Pasted image 20241105100143.png",
+    "YuanXi-ColdNotes/C/57.※指针与动态内存分配.md",
+    "YuanXi-ColdNotes/Discrete Mathematics/图论.md",
     "草纸.md",
     "imgs/Pasted image 20241104222625.png",
     "imgs",
@@ -198,7 +201,6 @@
     "YuanXi-ColdNotes/Discrete Mathematics/有限状态机-.md",
     "YuanXi-ColdNotes/Discrete Mathematics/※排列组合.md",
     "YuanXi-ColdNotes/Git推送.md",
-    "YuanXi-ColdNotes/C/57.※指针与动态内存分配.md",
     "YuanXi-ColdNotes/C/83.※动态内存.md",
     "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
     "YuanXi-ColdNotes/Database/29.※数据库设计-ER模型转换关系模型.md",
@@ -206,7 +208,6 @@
     "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
     "YuanXi-ColdNotes/Database/25.SQL-数据更新.md",
     "YuanXi-ColdNotes/Database/18.SQL-SELECT单表查询.md",
-    "YuanXi-ColdNotes/Database/17.※SQL-数据定义语言DDL.md",
     "YuanXi-ColdNotes/C",
     "YuanXi-ColdNotes/Discrete Mathematics",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241022083903.png",
