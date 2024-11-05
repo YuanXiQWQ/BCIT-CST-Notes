@@ -1,11 +1,11 @@
 {
-  "obsidian-git:commit": [
+  "editor:save-file": [],
+  "obsidian-git:push": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "S"
     }
-  ],
-  "editor:save-file": []
+  ]
 }
