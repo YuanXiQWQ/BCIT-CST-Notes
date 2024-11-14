@@ -55,7 +55,8 @@ public class Note {
         /*变量标识符命名规则：  
            开头:a-z(推荐),A-Z,$,_  
            内容:a-z,A-Z,$,_  
-           不能包含空格和保留字(如 int,boolean)        */        String UserName;  
+           不能包含空格和保留字(如 int,boolean)        */        
+           String UserName;  
         UserName = "MUTT";  
   
         /*使用逗号可以一次性声明多个变量；使用等于号可以使多个变量对应一个值*/  
