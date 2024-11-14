@@ -128,8 +128,8 @@ primaryStage.show();
 
 ```
 
-## 锚点布局
-- `AnchorPane` 将组件固定在与窗口边界特定距离的位置
+## 锚点面板
+- `AnchorPane` 将组件固定在与面板边界特定距离的位置
 - 可以通过设定锚点约束动态调整以适应窗口大小变化
 ```java
 Button button = new Button("Click Me");
@@ -145,7 +145,7 @@ primaryStage.setTitle("AnchorPane Example");
 primaryStage.show();
 ```
 
-## 边界布局
+## 边界面板
 - `BorderPane` 将布局分为五个区域: 
 	- 顶部 (Top)
 	- 底部 (Bottom)
@@ -165,3 +165,21 @@ primaryStage.setScene(scene);
 primaryStage.setTitle("BorderPane 示例");
 primaryStage.show();
 ```
+
+## 堆叠面板
+- `StackPane` 允许节点相互叠加. 先添加的在底部, 按照栈式排列
+- 适合分层组件, 例如图像上显示文本
+```java
+@Override
+public void start(Stage stage) {
+    ImageView imageView = new ImageView(new Image("file:sky.jpg"));
+    Label overlayText = new Label("享受生活！");
+    overlayText.setStyle("-fx-text-fill: white;");
+
+    StackPane stackPane = new StackPane(imageView, overlayText);
+    stage.setScene(new Scene(stackPane, 300, 200));
+    stage.show();
+}
+```
+
+// P
