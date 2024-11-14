@@ -41,10 +41,56 @@ public void start(Stage primaryStage) {
 	- 按钮(Button): 用于触发操作
 	- 标签(Label): 显示文本信息
 	- 文本框(TextField): 输入单行文本
-### 创建按钮
-- 按钮应避免分配过长的标签，因为这可能会影响可读性并导致对齐问题。
+### 按钮
+- 使用 `Button` 类创建
+- 应避免分配过长的标签，否则可能会影响可读性并导致对齐问题。
 ```java
 Button button = new Button("Submit");
 VBox layout = new VBox(button);
+Scene scene = new Scene(layout, 200, 100);
+```
+
+### 标签
+- 使用 `Label` 类创建
+- 是非交互式的 (只读), 用户无法直接修改文本
+- 因为其只读性, 通常用来显示指令或状态更新
+```java
+Label greeting = new Label("Welcome to JavaFX!");
+VBox layout = new VBox(greeting);
+Scene scene = new Scene(layout, 300, 150);
+
+```
+
+### 文本框
+- 使用 `TextField` 类创建
+- 用于单行文本输入
+- 使用 `setText()` 设置初始文本, `getText()` 获取用户输入
+```java
+TextField nameField = new TextField();
+nameField.setPromptText("Enter your name"); // 占位符文本
+String userName = nameField.getText();      // 获取输入
+```
+
+以下是 `TextArea` 控件的使用说明：
+
+### 文本区 (TextArea)
+- 使用 `TextArea 类创建
+- 用于多行文本输入，非常适合用于较长的输入内容，如描述、评论或消息
+- 使用 `setText()` 设置初始文本, `getText()` 获取用户输入
+- 支持自动换行，水平和垂直滚动条，当内容超过可见区域时会自动出现滚动条
+```java
+TextArea commentsArea = new TextArea();
+commentsArea.setPromptText("Enter your comments"); // 占位符文本
+String comments = commentsArea.getText();          // 获取输入
+```
+
+## 在布局容器中添加控件
+**所有控件必须添加到布局容器中**, 不允许直接添加到场景中, 否则将导致编译错误
+```java
+// 编译错误
+Scene scene = new Scene(button);
+
+// 正确
+Vbox layout = new VBox(button);
 Scene scene = new Scene(layout, 200, 100);
 ```
