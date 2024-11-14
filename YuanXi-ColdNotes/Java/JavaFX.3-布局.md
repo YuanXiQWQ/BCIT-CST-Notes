@@ -1,4 +1,4 @@
-## 布局 (Layouts)
+## 布局容器 (Layouts Containers)
 - 常见布局包括
 	- VBox (Vertical Box, 垂直布局)
 	- HBox (Horizontal Box, 水平布局)
