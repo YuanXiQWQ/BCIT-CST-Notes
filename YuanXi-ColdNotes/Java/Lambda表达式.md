@@ -5,13 +5,14 @@
 - 当接口只有唯一一个抽象函数时, 可以对该接口的继承类实例使用 Lambda 表达式快速地重写抽象方法, 而不必显式地创建一个匿名内部类再重写方法
 - 例
 ```java
+// FunctionInterface 标签用来标注这种只有唯一一个抽象函数的接口, 表示该接口是一个函数接口, 可以直接使用 Lambda 表达式重写方法
 @FunctionalInterface
 interface Runnable() {
 	void run(){}
 }
 
 // 正常调用只有一个抽象方法的接口 Runnable 的步骤
-// 创建继承接口 Runnable 的匿名内部类, 实例化为task
+/* 由于接口不能被实例化,所以该语句实际上是创建了一个继承了接口 Runnable 的内部匿名类并当场实现接口的抽象方法, 然后再将该内部类实例化为 task. */
 Runnable task = new Runnable() {
 	// 重写抽象方法
     @Override
@@ -25,7 +26,8 @@ task.run();
 Runnable task = () -> System.out.println("Task is running");
 task.run();
 
-
+// 该语句符合 Lambda 的基本句式
+(<参数列表(这里为void)>) -> {<重写方法体(这里为sout)>}
 ```
 ## 核心原则
 - 可推导可省略
