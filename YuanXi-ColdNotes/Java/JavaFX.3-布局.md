@@ -36,7 +36,7 @@ public void start(Stage primaryStage) {
 
 ## 控件
 - 使用户能够输入数据并接受反馈
-- 是可以添加到布局容器 (如VBox, HBox)的节点
+- 是可以添加到布局容器 (如VBox, HBox) 的节点
 - 常见的控件包括
 	- 按钮(Button): 用于触发操作
 	- 标签(Label): 显示文本信息
