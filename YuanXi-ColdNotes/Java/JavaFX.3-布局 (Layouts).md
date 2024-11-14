@@ -98,5 +98,70 @@ Scene scene = new Scene(layout, 200, 100);
 ## 表格布局
 - `GridPane` 将组件按行和列排列, 类似表格结构
 - 可以为每个组件指定行和列, 并设置间距和填充
+```java
+// 创建一个带有单元格间距的 GridPane 布局
+GridPane grid = new GridPane();
+grid.setHgap(10); // 设置单元格之间的水平间距
+grid.setVgap(10); // 设置单元格之间的垂直间距
+
+// 向网格添加组件
+Label nameLabel = new Label("Name:");
+TextField nameField = new TextField();
+grid.add(nameLabel, 0, 0); // 列 0，行 0
+grid.add(nameField, 1, 0); // 列 1，行 0
+
+Label emailLabel = new Label("Email:");
+TextField emailField = new TextField();
+grid.add(emailLabel, 0, 1); // 列 0，行 1
+grid.add(emailField, 1, 1); // 列 1，行 1
+
+Label phoneLabel = new Label("Phone:");
+TextField phoneField = new TextField();
+grid.add(phoneLabel, 0, 2); // 列 0，行 2
+grid.add(phoneField, 1, 2); // 列 1，行 2
+
+// 创建和设置场景
+Scene scene = new Scene(grid, 300, 200);
+primaryStage.setScene(scene);
+primaryStage.setTitle("GridPane Example");
+primaryStage.show();
+
 ```
+
+## 锚点布局
+- `AnchorPane` 将组件固定在与窗口边界特定距离的位置
+- 可以通过设定锚点约束动态调整以适应窗口大小变化
+```java
+Button button = new Button("Click Me");
+
+AnchorPane.setTopAnchor(button, 10.0); // 距顶部10像素
+AnchorPane.setLeftAnchor(button, 20.0); // 距左侧20像素
+
+anchorPane.getChildren().add(button);
+
+Scene scene = new Scene(anchorPane, 300, 200);
+primaryStage.setScene(scene);
+primaryStage.setTitle("AnchorPane Example");
+primaryStage.show();
+```
+
+## 边界布局
+- `BorderPane` 将布局分为五个区域: 
+	- 顶部 (Top)
+	- 底部 (Bottom)
+	- 左侧 (Left)
+	- 右侧 (Right)
+	- 中心 (Center)
+```java
+BorderPane borderPane = new BorderPane();
+borderPane.setTop(new Label("顶部区域"));
+borderPane.setLeft(new Label("左侧区域"));
+borderPane.setCenter(new Label("中心区域"));
+borderPane.setRight(new Label("右侧区域"));
+borderPane.setBottom(new Label("底部区域"));
+
+Scene scene = new Scene(borderPane, 300, 200);
+primaryStage.setScene(scene);
+primaryStage.setTitle("BorderPane 示例");
+primaryStage.show();
 ```
