@@ -46,9 +46,7 @@ new Thread(new Runnable(){
 ```
 可以使用Lambda格式进行修改,修改后如下:
 ```java
-new Thread(()->{
-	System.out.println(123);
-}).start();
+new Thread(() -> System.out.println(123); ).start();
 ```
 -  现有如下方法,其中IntBinaryOperator是一个接口. 先使用匿名内部类的写法调用该方法
 ```java
