@@ -42,7 +42,7 @@ private VBox createLayout() {
 ```
 ![[Pasted image 20241114081047.png]]
 
-## 组容器
+## 容器
 ![[Pasted image 20241114081340.png]]
 - `Stage` 表示一个顶级容器, 相当于窗口
 - `Scene` 是显示在该舞台内的内容, 包括按钮, 文本字段和布局等节点
