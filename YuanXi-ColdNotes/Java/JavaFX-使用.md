@@ -38,5 +38,22 @@ private VBox createLayout() {
     Button button = new Button("Click me!");
     return new VBox(label, button);
 }
-
+```
+![[Pasted image 20241114081047.png]]
+## 组件
+![[Pasted image 20241114081340.png]]
+- `Stage` 表示一个顶级容器, 相当于窗口
+- `Scene` 是显示在该舞台内的内容, 包括按钮, 文本字段和布局等节点
+- 每个 JavaFX 应用程序都有一个由 `start()` 方法管理的主舞台
+- `Scene Graphs` 是场景中组织应用程序的视觉组件
+- 节点在场景图中排列, 每个节点可以包含子节点
+```java
+// 创建窗口
+Stage stage = new Stage();
+// 创建场景
+Scene scene = new Scene(new VBox(), 400, 300);
+// 指定窗口的场景
+stage.setScene(scene);
+// 显示窗口
+stage.show();
 ```
