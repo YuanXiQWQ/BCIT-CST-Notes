@@ -21,3 +21,22 @@ public static void main(final String[] args){
 	launch(args);
 }
 ```
+### 最佳方法实践
+在组织 JavaFX 应用程序时, 将逻辑与 `start()` 方法分开, 以保持代码可读性. 在单独的方法中初始化复杂组件 (如按钮和布局), 并从 `start()` 中调用他们.
+```java
+@Override
+public void start(final Stage stage) {
+    VBox layout = createLayout();
+    Scene scene = new Scene(layout, 300, 200);
+    stage.setScene(scene);
+    stage.setTitle("Structured JavaFX App");
+    stage.show();
+}
+
+private VBox createLayout() {
+    Label label = new Label("Welcome to JavaFX!");
+    Button button = new Button("Click me!");
+    return new VBox(label, button);
+}
+
+```
