@@ -41,3 +41,10 @@ public void start(Stage primaryStage) {
 	- 按钮(Button): 用于触发操作
 	- 标签(Label): 显示文本信息
 	- 文本框(TextField): 输入单行文本
+### 创建按钮
+- 按钮应避免分配过长的标签，因为这可能会影响可读性并导致对齐问题。
+```java
+Button button = new Button("Submit");
+VBox layout = new VBox(button);
+Scene scene = new Scene(layout, 200, 100);
+```
