@@ -8,6 +8,6 @@ public class TestJavaFX extends Application {
 		primaryStage.setTitle("Hello JavaFX!");
 		primaryStage.show();
 	}
-
 }
 ```
+- 在 JavaFX 项目中,main方法仅用于调用 `Application.launch(args)` , 这会初始化 JavaFX 环境并调用 `start()` 方法. 该方法将应用程序逻辑与 GUI 创建分开
