@@ -51,6 +51,12 @@ private void performCalculations() {
 4. 在菜单中放入菜单项
 5. 给菜单项添加 `setOnAction()` 方法
 ```java
+import javafx.application.Application;  
+import javafx.scene.Scene;  
+import javafx.scene.control.*;  
+import javafx.scene.layout.BorderPane;  
+import javafx.stage.Stage;
+
 public class MenuExample extends Application {
     @Override
     public void start(Stage stage) {
@@ -93,5 +99,5 @@ public class MenuExample extends Application {
         System.out.println("调用了关于方法！");
     }
 }
-
 ```
+![[Pasted image 20241114101134.png]]

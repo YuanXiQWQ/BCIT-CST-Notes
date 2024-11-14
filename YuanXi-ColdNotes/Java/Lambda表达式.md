@@ -2,6 +2,24 @@
 - Lambda是JDK8中的一个语法糖, 可以对一些匿名内部类的写法进行简化.
 - 是函数式编程思想的一个重要体现
 	- 不关注对象,更关注对数据进行的操作
+- 当接口只有唯一一个抽象函数时, 可以对该接口的继承类实例使用 Lambda 表达式快速地重写抽象方法, 而不必显式地创建一个匿名内部类再重写方法
+- 例
+```java
+@FunctionalInterface
+interface Runnable() {
+	void run(){}
+}
+
+Runnable task = new Runnable() {
+    @Override
+    public void run() {
+        System.out.println("Task is running");
+    }
+};
+task.run();
+
+
+```
 ## 核心原则
 - 可推导可省略
 	- 如果参数的类型/方法名可以被推导出来,则可以省略类型/方法名
