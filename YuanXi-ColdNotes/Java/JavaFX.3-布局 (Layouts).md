@@ -94,3 +94,9 @@ Scene scene = new Scene(button);
 Vbox layout = new VBox(button);
 Scene scene = new Scene(layout, 200, 100);
 ```
+
+## 表格布局
+- `GridPane` 将组件按行和列排列, 类似表格结构
+- 可以为每个组件指定行和列, 并设置间距和填充
+```
+```
