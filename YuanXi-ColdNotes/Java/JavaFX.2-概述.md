@@ -86,6 +86,7 @@ primaryStage.setScene(s1);
 // 替换为场景2
 primaryStage.setScene(s2);
 ```
+
 #### 切换场景
 ```java
 @Override
