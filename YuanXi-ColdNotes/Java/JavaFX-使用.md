@@ -54,6 +54,6 @@ Stage stage = new Stage();
 Scene scene = new Scene(new VBox(), 400, 300);
 // 指定窗口的场景
 stage.setScene(scene);
-// 显示窗口
+// 显示包含了场景窗口
 stage.show();
 ```
