@@ -54,6 +54,29 @@ Stage stage = new Stage();
 Scene scene = new Scene(new VBox(), 400, 300);
 // 指定窗口的场景
 stage.setScene(scene);
-// 显示包含了场景窗口
+// 显示包含了场景的窗口
 stage.show();
+```
+### 场景图
+- JavaFX 将组件组织成一个层次化的场景图, 其中每个组件都是一个节点, 节点可以与其子节点组成树状结构, 根节点(例如布局容器) 位于顶部
+- 从一个单一的根节点 (如VBox, HBox)开始, 以有效管理子节点
+```java
+VBox root = new VBox();
+Button btn = new Button("Click Me");
+Label label = new Label("Hello, JavaFX");
+root.getChildren().addAll(label, btn);
+Scene scene = new Scene(root, 300, 200);
+
+primaryStage.setScene(scene);
+primaryStage.setTitle("My JavaFX GUI");
+primaryStage.show();
+```
+![[Pasted image 20241114082616.png]]
+### 舞台
+- 一次只能在一个舞台上显示一个场景, 因此要切换视图, 需要在同一个舞台上设置一个新场景
+```java
+// 显示场景1
+primaryStage.setScene(s1);
+// 替换为场景2
+primaryStage.setScene(s2);
 ```
