@@ -10,12 +10,19 @@ interface Runnable() {
 	void run(){}
 }
 
+// 正常调用只有一个抽象方法的接口 Runnable 的步骤
+// 创建继承接口 Runnable 的匿名内部类, 实例化为task
 Runnable task = new Runnable() {
+	// 重写抽象方法
     @Override
     public void run() {
         System.out.println("Task is running");
     }
 };
+task.run();
+
+// 使用 Lambda 表达式简化步骤
+Runnable task = () -> System.out.println("Task is running");
 task.run();
 
 
