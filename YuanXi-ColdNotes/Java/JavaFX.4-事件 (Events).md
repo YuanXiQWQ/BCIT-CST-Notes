@@ -101,3 +101,47 @@ public class MenuExample extends Application {
 }
 ```
 ![[Pasted image 20241114101134.png]]
+## 线程 (Threading)和图形用户界面 (GUI)
+- JavaFX 采用单线程 UI 模型, 所有 UI 更改必须在 JavaFX 应用程序线程上进行
+### JavaFX 应用程序线程 (the JavaFX Application Thread) 
+- JavaFX 用来进行所有 UI 更新的主线程
+- 如果在该线程上运行耗时的操作, 整个方法栈会被阻塞, 导致界面无响应
+- 使用 `javafx.concurrent` 包提供的 `Task<V>` 和 `Service<V>` 类帮助在应用程序线程之外运行耗时的任务, 并在任务完成时安全地更新 UI
+	- `Task<V>`: 表示一个单独的后台操作, 适用于一次性任务
+	- `Service<V>`: 适合需要多次运行或重新启动的任务
+- `Task<V>` 和 `Service<V>` 类支持像 `onSucceeded`, `onFailed`, `onCancelled` 这样的属性, 可以用来指定任务在对应状态时的处理方式
+
+### `Task<V>`
+- `V`
+	- 任务的返回值类型
+	- 是一个泛型参数, 因此在创建 `Task` 时指定类型, 就可以定义任务完成后产生的结果类型
+	- 是 `Task` 类的方法 `call()` 返回的结果类型
+- 当 `Task` 执行成功后, 可以用该类的 `getValue()` 方法获取结果. 该结果的类型为 `V`
+- 例1: 返回一个字符串结果
+```java
+Task<String> stringTask = new Task<>() {
+    @Override
+    protected String call() {
+        return "Hello, World!";
+    }
+};
+```
+- 例2: 返回一个整数结果
+```java
+Task<Integer> intTask = new Task<>() {
+    @Override
+    protected Integer call() {
+        return 42;
+    }
+};
+```
+- 例3: 无返回值
+```java
+Task<Void> voidTask = new Task<>() {
+    @Override
+    protected Void call() {
+        System.out.println("Doing some work...");
+        return null; // Void 需要返回 null
+    }
+};
+```
