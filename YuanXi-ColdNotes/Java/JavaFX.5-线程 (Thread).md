@@ -53,15 +53,15 @@ Task<Void> voidTask = new Task<>() {
 public class Gui extends Application {
     @Override
     public void start(Stage stage) {
-        Label statusLabel = new Label("Waiting...");
-        Button startButton = new Button("Start Task");
+        Label statusLabel = new Label("等待中...");
+        Button startButton = new Button("开始任务");
 
         // 定义一个返回字符串结果的 Task
         Task<String> task = new Task<>() {
             @Override
             protected String call() throws InterruptedException {
                 Thread.sleep(2000); // 模拟后台工作
-                return "Task Completed Successfully!";
+                return "任务成功完成！";
             }
         };
 
@@ -76,13 +76,14 @@ public class Gui extends Application {
 
         VBox root = new VBox(10, statusLabel, startButton);
         stage.setScene(new Scene(root, 300, 150));
-        stage.setTitle("Task Example with getValue()");
+        stage.setTitle("带 getValue() 的任务示例");
         stage.show();
     }
 
     public static void main(String[] args) {
         launch(args);
     }
+}
 ```
 - 例2: 点击按钮后执行任务并在 `statusLabel` 中返回任务状态, 同时更改按钮文字. 该任务会在失败时自动重启.
 ```java
@@ -152,7 +153,7 @@ public class Gui extends Application {
 - JavaFX (以及大多数GUI框架) 为了确保线程安全和 UI 渲染稳定性, 采用单线程模型处理 UI 更新. 对于 JavvaFX 来说, 该线程就是 JavaFX 应用线程
 - 除此之外, 很多操作系统及底层图形库都是单线程设计, 因此多线程更新 UI 可能会导致未定义行为. 因此, JavaFX 禁止在外部线程直接更新 UI, 否则会抛出运行时错误:  `IlleagalStateException`
 - 如果要在后台任务线程中更新 UI, 需要使用方法 `Platform.runLater()` . 该方法可以将更新操作发送到 JavaFX 应用线程的事件队列中, 保证操作按顺序在线程上执行, 从而确保线程安全和数据一致性.
-- 例
+- 例: 开一个新线程来更新UI
 ```java
 public class Gui extends Application {
     @Override
