@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/JavaFX.3-布局 (Layouts).md",
+                "file": "YuanXi-ColdNotes/Java/JavaFX.4-事件 (Events).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaFX.3-布局 (Layouts)"
+              "title": "JavaFX.4-事件 (Events)"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "03772ead66a21841",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Java/JavaFX.4-事件(Events).md",
-    "YuanXi-ColdNotes/Java/JavaFX.3-布局 (Layouts).md",
     "YuanXi-ColdNotes/Java/JavaFX.2-概述.md",
+    "YuanXi-ColdNotes/Java/JavaFX.3-布局 (Layouts).md",
+    "YuanXi-ColdNotes/Java/JavaFX.4-事件 (Events).md",
     "YuanXi-ColdNotes/Java/JavaFX.1-配置.md",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241114083728.png",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241114083342.png",
