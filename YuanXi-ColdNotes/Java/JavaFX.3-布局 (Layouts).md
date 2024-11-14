@@ -182,4 +182,32 @@ public void start(Stage stage) {
 }
 ```
 
-// P
+## 灵活布局
+- 避免使用固定尺寸, 使用布局容器自动调整布局
+```java
+// 不推荐的做法：固定宽度按钮
+Button fixedWidthButton = new Button("固定宽度按钮");
+fixedWidthButton.setPrefWidth(300); // 可能在较小屏幕上适配不佳
+
+// 推荐的做法：灵活宽度按钮
+Button flexibleWidthButton = new Button("灵活宽度按钮");
+flexibleWidthButton.setMaxWidth(Double.MAX_VALUE); // 根据屏幕大小自适应
+
+// 布局
+VBox badPracticeBox = new VBox(10, fixedWidthButton);
+badPracticeBox.setPadding(new Insets(10));
+badPracticeBox.setStyle("-fx-border-color: red; -fx-border-width: 2; -fx-padding: 10;");
+
+VBox goodPracticeBox = new VBox(10, flexibleWidthButton);
+goodPracticeBox.setPadding(new Insets(10));
+goodPracticeBox.setStyle("-fx-border-color: green; -fx-border-width: 2; -fx-padding: 10;");
+
+// 将两者添加到 HBox 中以进行并排比较
+HBox root = new HBox(20, badPracticeBox, goodPracticeBox);
+root.setPadding(new Insets(20));
+
+Scene scene = new Scene(root, 600, 200);
+stage.setScene(scene);
+stage.setTitle("布局实践：不推荐 vs 推荐");
+stage.show();
+```
