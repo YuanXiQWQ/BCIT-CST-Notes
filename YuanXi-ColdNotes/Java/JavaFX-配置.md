@@ -1,4 +1,3 @@
-## 配置
 0. [下载 JavaFX - Gluon](https://gluonhq.com/products/javafx/)
 1. 新建项目
 2. 添加 JavaFX 库
@@ -29,7 +28,7 @@
 - 编辑配置模板...
 - 应用程序
 - 修改选项
-- 之后步骤后同上
+- 之后步骤同上
 ![[Pasted image 20241114073211.png]]
 ![[Pasted image 20241114073244.png]]
 ![[Pasted image 20241114073359.png]]
