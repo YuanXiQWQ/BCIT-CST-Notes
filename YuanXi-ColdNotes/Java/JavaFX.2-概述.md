@@ -21,6 +21,7 @@ public static void main(final String[] args){
 	launch(args);
 }
 ```
+
 ### 最佳方法实践
 在组织 JavaFX 应用程序时, 将逻辑与 `start()` 方法分开, 以保持代码可读性. 在单独的方法中初始化复杂组件 (如按钮和布局), 并从 `start()` 中调用他们.
 ```java
@@ -40,6 +41,7 @@ private VBox createLayout() {
 }
 ```
 ![[Pasted image 20241114081047.png]]
+
 ## 组件
 ![[Pasted image 20241114081340.png]]
 - `Stage` 表示一个顶级容器, 相当于窗口
@@ -57,6 +59,7 @@ stage.setScene(scene);
 // 显示包含了场景的窗口
 stage.show();
 ```
+
 ### 场景图
 - JavaFX 将组件组织成一个层次化的场景图, 其中每个组件都是一个节点, 节点可以与其子节点组成树状结构, 根节点(例如布局容器) 位于顶部
 - 从一个单一的根节点 (如VBox, HBox)开始, 以有效管理子节点
@@ -72,8 +75,11 @@ primaryStage.setTitle("My JavaFX GUI");
 primaryStage.show();
 ```
 ![[Pasted image 20241114082616.png]]
+
 ### 舞台
-- 一次只能在一个舞台上显示一个场景, 因此要切换视图, 需要在同一个舞台上设置一个新场景
+- **一个舞台（Stage）只能包含一个场景（Scene）**：每个 `Stage` 只能加载一个 `Scene`，**不能把多个场景直接添加到同一个 `Stage` 中**，也**不能直接把一个场景嵌套到另一个场景中**。
+    
+- **一次只能在一个舞台上显示一个场景**：如果需要切换不同的显示内容（例如从一个界面切换到另一个界面），需要在同一个 `Stage` 上设置新的 `Scene`。这种切换可以通过 `Stage.setScene(newScene)` 方法实现。
 ```java
 // 显示场景1
 primaryStage.setScene(s1);
