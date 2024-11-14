@@ -1,0 +1,1 @@
+JavaFX 必须扩展 `Application` 类并重写 `start()` 
