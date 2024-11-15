@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/JavaFX/JavaFX.1-配置.md",
+                "file": "YuanXi-ColdNotes/Java/设计模式.1-概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaFX.1-配置"
+              "title": "设计模式.1-概述"
             }
           }
         ]
@@ -176,6 +176,8 @@
   },
   "active": "03772ead66a21841",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.1-配置.md",
+    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.2-概述.md",
     "YuanXi-ColdNotes/Java/设计模式.1-概述.md",
     "YuanXi-ColdNotes/Java/Note.md",
     "YuanXi-ColdNotes/Discrete Mathematics/图论.md",
@@ -188,8 +190,6 @@
     "YuanXi-ColdNotes/Java/JavaFX",
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.4-事件 (Events).md",
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.3-布局 (Layouts).md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.2-概述.md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.1-配置.md",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241114101134.png",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241114083728.png",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241114083342.png",
