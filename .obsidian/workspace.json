@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/设计模式.1-概述.md",
+                "file": "YuanXi-ColdNotes/Java/设计模式/设计模式.4-行为型模式.14-命令模式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "设计模式.1-概述"
+              "title": "设计模式.4-行为型模式.14-命令模式"
             }
           }
         ]
@@ -176,9 +176,11 @@
   },
   "active": "03772ead66a21841",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Java/设计模式/设计模式.1-概述.md",
+    "YuanXi-ColdNotes/Java/设计模式/设计模式.4-行为型模式.14-命令模式.md",
+    "YuanXi-ColdNotes/Java/设计模式",
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.1-配置.md",
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.2-概述.md",
-    "YuanXi-ColdNotes/Java/设计模式.1-概述.md",
     "YuanXi-ColdNotes/Java/Note.md",
     "YuanXi-ColdNotes/Discrete Mathematics/图论.md",
     "YuanXi-ColdNotes/Discrete Mathematics/同余 (Congruence).md",
@@ -215,12 +217,10 @@
     "YuanXi-ColdNotes/C/6.格式化输入输出.md",
     "YuanXi-ColdNotes/Discrete Mathematics/命题及命题的真值.md",
     "YuanXi-ColdNotes/Discrete Mathematics/imgs",
-    "YuanXi-ColdNotes/Discrete Mathematics/有限状态机-.md",
     "YuanXi-ColdNotes/C",
     "YuanXi-ColdNotes/Discrete Mathematics",
     "YuanXi-ColdNotes/Database/imgs",
     "YuanXi-ColdNotes/Java/面向对象",
-    "YuanXi-ColdNotes/Computer Organisation/未命名",
-    "YuanXi-ColdNotes/Computer Organisation"
+    "YuanXi-ColdNotes/Computer Organisation/未命名"
   ]
 }
