@@ -33,6 +33,8 @@ GA
 Gs
 Gk
 GraphicEditor
+GUI
+GridPane
 Vertices
 Vjt
 VT
@@ -56,6 +58,12 @@ Vg
 Vertex
 Vehicle
 Visitor
+Value
+VBox
+Virtual
+Vertical
+Vbox
+VALUE
 Edges
 EZ
 EK
@@ -97,6 +105,9 @@ Es
 EU
 Edge
 Email
+Element
+Enter
+Example
 Degree
 Df
 Dt
@@ -132,6 +143,7 @@ Dh
 Design
 DependecyInversion
 Decorator
+Double
 Walk
 WbO
 WM
@@ -208,6 +220,8 @@ args
 abstract
 address
 app
+add
+anchorPane
 Closed
 Circuit
 Cycle
@@ -260,6 +274,9 @@ Command
 ComcreteCommand
 ConcreteCommand
 Client
+Containers
+Click
+CSS
 Path
 PNG
 Pjs
@@ -305,6 +322,9 @@ Printing
 Pattern
 Prototype
 Proxy
+Polymorphism
+Program
+Phone
 IHDR
 IDATx
 Iorz
@@ -347,6 +367,14 @@ Itv
 Interpreter
 Iterator
 Invoker
+Inheritance
+IntBinaryOperator
+InteliJ
+IDEA
+ImageView
+Image
+Insets
+ID
 kB
 ki
 kFQ
@@ -412,6 +440,8 @@ runWater
 receive
 return
 receiver
+red
+root
 RD
 RO
 RF
@@ -489,6 +519,7 @@ ysO
 yX
 yQ
 yJ
+your
 mG
 md
 mx
@@ -516,6 +547,7 @@ mS
 mz
 main
 mType
+male
 SY
 SUJ
 ST
@@ -573,6 +605,11 @@ SMS
 Shape
 Singleton
 Strategy
+Stage
+Scene
+Settings
+StackPane
+Static
 OI
 Ob
 OoH
@@ -608,6 +645,7 @@ Override
 OpenAndClose
 Ocp
 Observer
+Object
 cR
 cQ
 cN
@@ -642,6 +680,8 @@ class
 cityName
 city
 color
+commentsArea
+comments
 vRS
 vG
 vP
@@ -668,6 +708,7 @@ vLg
 vn
 void
 vehicle
+vs
 jyMB
 js
 ju
@@ -703,6 +744,7 @@ jL
 jjE
 jk
 java
+jpg
 sO
 sf
 sW
@@ -732,6 +774,29 @@ sWVG
 static
 setTv
 super
+setText
+setPromptText
+scene
+setHgap
+setVgap
+setScene
+setTitle
+show
+setTopAnchor
+setLeftAnchor
+setTop
+setLeft
+setCenter
+setRight
+setBottom
+start
+stage
+sky
+setStyle
+stackPane
+setPrefWidth
+setMaxWidth
+setPadding
 Ta
 Tls
 Tz
@@ -759,6 +824,11 @@ TX
 To
 Triangle
 Template
+Type
+TextField
+TextArea
+Thread
+This
 zQ
 zg
 zlJ
@@ -815,6 +885,10 @@ JI
 JWJ
 Jqz
 Java
+JDK
+JAVA
+JavaFX
+JavvaFX
 YG
 YX
 Ye
@@ -881,6 +955,10 @@ Liskov
 LightReceiver
 LightOnCommand
 LightOffCommand
+Lambda
+Libraries
+Layouts
+Label
 gJ
 gIf
 gC
@@ -917,6 +995,12 @@ ge
 getCityName
 getCity
 getAddress
+getText
+grid
+getChildren
+goodPracticeBox
+green
+get
 Xa
 XU
 XE
@@ -944,6 +1028,7 @@ XJ
 XG
 Xi
 XYv
+XML
 UJ
 UWj
 Ul
@@ -998,6 +1083,8 @@ FSM
 Factory
 Facade
 Flyweight
+Files
+FXML
 iw
 iIH
 iC
@@ -1041,6 +1128,7 @@ implements
 int
 if
 in
+imageView
 en
 ek
 ef
@@ -1073,6 +1161,8 @@ er
 email
 extends
 else
+emailLabel
+emailField
 lJ
 ll
 lD
@@ -1104,6 +1194,7 @@ lZJ
 lW
 lM
 lq
+layout
 Qb
 QvxP
 Qc
@@ -1186,6 +1277,7 @@ wp
 wS
 ww
 white
+width
 Mt
 My
 MH
@@ -1227,6 +1319,9 @@ Machine
 Method
 Mediator
 Memento
+Map
+Me
+MAX
 KNb
 KV
 KX
@@ -1264,6 +1359,7 @@ Kr
 Ku
 KL
 Kleene
+Key
 xT
 xf
 xR
@@ -1319,6 +1415,8 @@ Nn
 Nq
 Neighborhood
 NoCommand
+Number
+Name
 nw
 nUu
 nW
@@ -1342,6 +1440,8 @@ na
 nx
 nbY
 new
+nameLabel
+nameField
 fZ
 fn
 fwzQ
@@ -1370,6 +1470,11 @@ fG
 fw
 final
 func
+file
+fx
+fill
+fixedWidthButton
+flexibleWidthButton
 AM
 Azi
 Ama
@@ -1409,6 +1514,8 @@ Adding
 Abstract
 Adapter
 App
+AnchorPane
+Application
 hH
 hO
 hi
@@ -1472,6 +1579,7 @@ oC
 out
 operation
 open
+overlayText
 dZ
 dJHI
 du
@@ -1537,6 +1645,9 @@ Br
 Base
 Builder
 Bridge
+Box
+Button
+BorderPane
 qW
 qÖ
 qNk
@@ -1589,6 +1700,11 @@ bK
 baab
 boid
 black
+button
+borderPane
+badPracticeBox
+border
+boolean
 HX
 HK
 HF
@@ -1620,6 +1736,9 @@ Hp
 HIa
 HV
 Hello
+Human
+HBox
+Horizontal
 tT
 ty
 tA
@@ -1651,6 +1770,8 @@ tQ
 tNj
 tJ
 this
+text
+the
 pz
 py
 pL
@@ -1680,6 +1801,10 @@ play
 private
 print
 printer
+phoneLabel
+phoneField
+primaryStage
+padding
 Zv
 ZyH
 ZYF

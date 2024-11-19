@@ -1,4 +1,4 @@
-JavaFX支持使用CSS和FXML来样式化GUI组件, 以便将设计, 结构与逻辑分离
+JavaFX 支持使用 CSS 和 FXML 来样式化 GUI 组件, 以便将设计, 结构与逻辑分离
 - CSS
 	- 对 GUI 进行样式设置
 	- 使用 `scene.getStylesheets().add()` 加载 `.css` 文件

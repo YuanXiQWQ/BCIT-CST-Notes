@@ -8,7 +8,7 @@ Button button = new Button("Click Me");
 button.setOnAction(event -> System.out.println("Hello!"));
 ```
 
-#### Lambda表达式使用准则
+#### Lambda 表达式使用准则
 - 避免在 Lambda 中使用长事件代码, 将长代码拆分为单独方法
 ```java
 // 带有长 lambda 表达式的按钮

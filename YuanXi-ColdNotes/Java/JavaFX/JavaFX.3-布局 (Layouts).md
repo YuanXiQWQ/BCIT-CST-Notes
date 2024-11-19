@@ -3,7 +3,7 @@
 	- VBox (Vertical Box, 垂直布局)
 	- HBox (Horizontal Box, 水平布局)
 	- GridPane (表格布局)
-- 布局避免了绝对定位(`setLayoutX()` , `setLayoutY()`), 提供响应式设计
+- 布局避免了绝对定位 (`setLayoutX()` , `setLayoutY()`), 提供响应式设计
 ```java
 @Override
 public void start(Stage primaryStage) {
@@ -36,11 +36,11 @@ public void start(Stage primaryStage) {
 
 ## 控件
 - 使用户能够输入数据并接受反馈
-- 是可以添加到布局容器 (如VBox, HBox) 的节点
+- 是可以添加到布局容器 (如 VBox, HBox) 的节点
 - 常见的控件包括
-	- 按钮(Button): 用于触发操作
-	- 标签(Label): 显示文本信息
-	- 文本框(TextField): 输入单行文本
+	- 按钮 (Button): 用于触发操作
+	- 标签 (Label): 显示文本信息
+	- 文本框 (TextField): 输入单行文本
 ### 按钮
 - 使用 `Button` 类创建
 - 应避免分配过长的标签，否则可能会影响可读性并导致对齐问题。

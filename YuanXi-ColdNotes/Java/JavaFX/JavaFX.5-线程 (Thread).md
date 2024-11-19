@@ -15,7 +15,7 @@ JavaFX 采用单线程 UI 模型, 所有 UI 更改必须在 JavaFX 应用程序�
 	- 是一个泛型参数, 因此在创建 `Task` 时指定类型, 就可以定义任务完成后产生的结果类型
 	- 是 `Task` 类的方法 `call()` 返回的结果类型
 - 当 `Task` 执行成功后, 可以用该类的 `getValue()` 方法获取结果. 该结果的类型为 `V`
-- 例1: 返回一个字符串结果
+- 例 1: 返回一个字符串结果
 ```java
 Task<String> stringTask = new Task<>() {
     @Override
@@ -24,7 +24,7 @@ Task<String> stringTask = new Task<>() {
     }
 };
 ```
-- 例2: 返回一个整数结果
+- 例 2: 返回一个整数结果
 ```java
 Task<Integer> intTask = new Task<>() {
     @Override
@@ -33,7 +33,7 @@ Task<Integer> intTask = new Task<>() {
     }
 };
 ```
-- 例3: 无返回值
+- 例 3: 无返回值
 ```java
 Task<Void> voidTask = new Task<>() {
     @Override
@@ -48,7 +48,7 @@ Task<Void> voidTask = new Task<>() {
 - 只是一个负责管理任务创建, 启动, 停止, 重启等操作的框架, 本身并没有直接执行后台任务的职能, 不能直接替代 `Task<V>`. 
 
 ## 方法回调
-- 例1: 在点击按钮后, 唤起 `task` 任务. 该任务会在执行成功后用返回值更新 `statusLabel`.
+- 例 1: 在点击按钮后, 唤起 `task` 任务. 该任务会在执行成功后用返回值更新 `statusLabel`.
 ```java
 public class Gui extends Application {
     @Override
@@ -85,7 +85,7 @@ public class Gui extends Application {
     }
 }
 ```
-- 例2: 点击按钮后执行任务并在 `statusLabel` 中返回任务状态, 同时更改按钮文字. 该任务会在失败时自动重启.
+- 例 2: 点击按钮后执行任务并在 `statusLabel` 中返回任务状态, 同时更改按钮文字. 该任务会在失败时自动重启.
 ```java
 public class Gui extends Application {
     @Override
@@ -149,11 +149,11 @@ public class Gui extends Application {
     }
 }
 ```
-## 直接更新UI
-- JavaFX (以及大多数GUI框架) 为了确保线程安全和 UI 渲染稳定性, 采用单线程模型处理 UI 更新. 对于 JavvaFX 来说, 该线程就是 JavaFX 应用线程
+## 直接更新 UI
+- JavaFX (以及大多数 GUI 框架) 为了确保线程安全和 UI 渲染稳定性, 采用单线程模型处理 UI 更新. 对于 JavvaFX 来说, 该线程就是 JavaFX 应用线程
 - 除此之外, 很多操作系统及底层图形库都是单线程设计, 因此多线程更新 UI 可能会导致未定义行为. 因此, JavaFX 禁止在外部线程直接更新 UI, 否则会抛出运行时错误:  `IlleagalStateException`
 - 如果要在后台任务线程中更新 UI, 需要使用方法 `Platform.runLater()` . 该方法可以将更新操作发送到 JavaFX 应用线程的事件队列中, 保证操作按顺序在线程上执行, 从而确保线程安全和数据一致性.
-- 例: 开一个新线程来更新UI
+- 例: 开一个新线程来更新 UI
 ```java
 public class Gui extends Application {
     @Override

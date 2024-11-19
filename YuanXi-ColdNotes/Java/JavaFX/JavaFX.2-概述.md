@@ -13,7 +13,7 @@ public class TestJavaFX extends Application {
 ```
 
 ## 启用
-在 JavaFX 项目中,main方法仅用于调用 `Application.launch(args)` , 这会初始化 JavaFX 环境并调用 `start()` 方法. 该方法将应用程序逻辑与 GUI 创建分开.
+在 JavaFX 项目中, main 方法仅用于调用 `Application.launch(args)` , 这会初始化 JavaFX 环境并调用 `start()` 方法. 该方法将应用程序逻辑与 GUI 创建分开.
 ```java
 public static void main(final String[] args){
 	Application.launch(args);
@@ -61,8 +61,8 @@ stage.show();
 ```
 
 ### 场景图
-- JavaFX 将组件组织成一个层次化的场景图, 其中每个组件都是一个节点, 节点可以与其子节点组成树状结构, 根节点(例如布局容器) 位于顶部
-- 从一个单一的根节点 (如VBox, HBox)开始, 以有效管理子节点
+- JavaFX 将组件组织成一个层次化的场景图, 其中每个组件都是一个节点, 节点可以与其子节点组成树状结构, 根节点 (例如布局容器) 位于顶部
+- 从一个单一的根节点 (如 VBox, HBox) 开始, 以有效管理子节点
 ```java
 VBox root = new VBox();
 Button btn = new Button("Click Me");
