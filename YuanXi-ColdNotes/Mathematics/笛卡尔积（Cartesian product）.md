@@ -3,7 +3,7 @@
 $$
 X \times Y = \{(x, y) \mid x \in X \land y \in Y\}
 $$
-- 例如, 如果如果集合 $X$ 是13个元素的点数集合 $\{A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2\}$，而集合 $Y$ 是4个元素的花色集合 $\{\spadesuit, \heartsuit, \diamondsuit, \clubsuit\}$，则这两个集合的笛卡儿积是有52个元素的标准扑克牌的集合：
+- 例如, 如果如果集合 $X$ 是 13 个元素的点数集合 $\{A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2\}$，而集合 $Y$ 是 4 个元素的花色集合 $\{\spadesuit, \heartsuit, \diamondsuit, \clubsuit\}$，则这两个集合的笛卡儿积是有 52 个元素的标准扑克牌的集合：
 $$
 \{(A, \spadesuit), (K, \spadesuit), (Q, \spadesuit), \dots, (2, \spadesuit), \dots, (A, \clubsuit), \dots, (3, \clubsuit), (2, \clubsuit)\}.
 $$

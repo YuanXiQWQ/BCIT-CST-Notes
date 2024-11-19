@@ -52,6 +52,7 @@ VUE
 VKW
 VJ
 Vg
+Vertex
 Edges
 EZ
 EK
@@ -91,6 +92,7 @@ Et
 EO
 Es
 EU
+Edge
 Degree
 Df
 Dt
@@ -306,6 +308,7 @@ IQK
 IDATX
 IW
 Ia
+Independent
 kB
 ki
 kFQ
@@ -507,6 +510,9 @@ SW
 SeR
 See
 State
+Simple
+Subgraph
+Set
 OI
 Ob
 OoH
@@ -1209,6 +1215,7 @@ NY
 Nm
 Nn
 Nq
+Neighborhood
 nw
 nUu
 nW
@@ -1381,6 +1388,7 @@ dlU
 dOv
 dQ
 dt
+deleted
 Bg
 Bn
 BE
