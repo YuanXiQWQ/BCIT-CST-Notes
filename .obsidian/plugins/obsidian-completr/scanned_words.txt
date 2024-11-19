@@ -38,6 +38,8 @@ GridPane
 GRANT
 Grade
 GROUP
+GCC
+Global
 Vertices
 Vjt
 VT
@@ -69,6 +71,7 @@ Vbox
 VALUE
 View
 VIEW
+Variable
 Edges
 EZ
 EK
@@ -120,6 +123,8 @@ External
 Exact
 ER
 Even
+ExistingType
+EOF
 Degree
 Df
 Dt
@@ -340,6 +345,7 @@ Composition
 Compositions
 Compensation
 Complete
+Clang
 Path
 PNG
 Pjs
@@ -533,6 +539,7 @@ relation
 real
 relationship
 referential
+result
 RD
 RO
 RF
@@ -734,6 +741,7 @@ SUM
 StudentCount
 Subclass
 Superclass
+Structure
 OI
 Ob
 OoH
@@ -949,6 +957,7 @@ setAddr
 sellsBud
 sup
 short
+scope
 Ta
 Tls
 Tz
@@ -1130,6 +1139,7 @@ LastName
 Lena
 Language
 LIKE
+Local
 gJ
 gIf
 gC
@@ -1273,6 +1283,7 @@ Foreign
 FOREIGN
 Floating
 FROM
+FuncPtr
 iw
 iIH
 iC
@@ -1385,6 +1396,7 @@ lM
 lq
 layout
 long
+lifetime
 Qb
 QvxP
 Qc
@@ -1622,6 +1634,7 @@ Natural
 NULL
 NOT
 Numeric
+NewTypeName
 nw
 nUu
 nW
@@ -1683,6 +1696,7 @@ fill
 fixedWidthButton
 flexibleWidthButton
 float
+filename
 AM
 Azi
 Ama
@@ -2025,6 +2039,7 @@ tinyint
 time
 table
 tr
+typedef
 pz
 py
 pL
