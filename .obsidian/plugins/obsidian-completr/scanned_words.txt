@@ -439,6 +439,8 @@ CO
 Cw
 CutO
 CrA
+Connected
+Complement
 Path
 PNG
 Pjs
@@ -511,6 +513,7 @@ Pu
 Py
 Pn
 PO
+Pasted
 IHDR
 IDATx
 Iorz
@@ -752,6 +755,7 @@ Rts
 RYl
 Rtj
 RvRz
+Rooted
 yl
 yh
 yf
@@ -1293,6 +1297,7 @@ TsM
 Tg
 TvQ
 TQN
+Tree
 zQ
 zg
 zlJ
@@ -1751,6 +1756,7 @@ il
 iG
 iq
 it
+image
 en
 ek
 ef
@@ -2566,6 +2572,7 @@ Bt
 BWm
 BTx
 BQ
+Bipartite
 qW
 qÖ
 qNk
@@ -2810,6 +2817,7 @@ pi
 paA
 pj
 ppp
+png
 Zv
 ZyH
 ZYF
