@@ -207,6 +207,7 @@ ababba
 args
 abstract
 address
+app
 Closed
 Circuit
 Cycle
@@ -256,6 +257,9 @@ ColorPrinter
 Composite
 Chain
 Command
+ComcreteCommand
+ConcreteCommand
+Client
 Path
 PNG
 Pjs
@@ -342,6 +346,7 @@ ITV
 Itv
 Interpreter
 Iterator
+Invoker
 kB
 ki
 kFQ
@@ -451,6 +456,8 @@ Ry
 Rv
 Responsibility
 Rectangle
+Receiver
+RemoteContriller
 yl
 yh
 yf
@@ -870,6 +877,9 @@ Ld
 Lg
 Lemma
 Liskov
+LightReceiver
+LightOnCommand
+LightOffCommand
 gJ
 gIf
 gC
@@ -1307,6 +1317,7 @@ Nm
 Nn
 Nq
 Neighborhood
+NoCommand
 nw
 nUu
 nW
@@ -1396,6 +1407,7 @@ Address
 Adding
 Abstract
 Adapter
+App
 hH
 hO
 hi
