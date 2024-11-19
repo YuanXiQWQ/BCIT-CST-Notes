@@ -119,6 +119,7 @@ Equi
 External
 Exact
 ER
+Even
 Degree
 Df
 Dt
@@ -181,6 +182,7 @@ Database
 DBD
 DBA
 Disjoint
+Distance
 Walk
 WbO
 WM
@@ -396,6 +398,7 @@ PRIMARY
 Point
 PK
 Partial
+Parity
 IHDR
 IDATx
 Iorz
@@ -772,6 +775,7 @@ Operations
 ORDER
 OR
 Overlapping
+Odd
 cR
 cQ
 cN
@@ -943,6 +947,8 @@ strong
 setName
 setAddr
 sellsBud
+sup
+short
 Ta
 Tls
 Tz
@@ -1197,6 +1203,7 @@ Xi
 XYv
 XML
 XIA
+XOR
 UJ
 UWj
 Ul
@@ -1377,6 +1384,7 @@ lW
 lM
 lq
 layout
+long
 Qb
 QvxP
 Qc
@@ -1434,6 +1442,7 @@ uF
 un
 uE
 uRu
+unsigned
 wm
 wiZF
 wZ
@@ -1842,6 +1851,7 @@ defined
 decimal
 date
 datetime
+double
 Bg
 Bn
 BE
@@ -1939,6 +1949,7 @@ boolean
 bigint
 bit
 br
+bits
 HX
 HK
 HF
@@ -1976,6 +1987,7 @@ Horizontal
 Hand
 HH
 HAVING
+Hamming
 tT
 ty
 tA
