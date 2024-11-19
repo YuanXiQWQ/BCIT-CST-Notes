@@ -1,0 +1,7 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-lavender",
+  "catppuccin-icon-styles@@ctp-icon-hide": false,
+  "catppuccin-interface-styles@@ctp-bold-folder-title": true,
+  "catppuccin-font-styles@@ctp-blockquote": "var(--ctp-lavender)"
+}
