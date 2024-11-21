@@ -240,6 +240,7 @@ DJ
 DK
 Dc
 DetT
+DOS
 Walk
 WbO
 WM
@@ -293,6 +294,8 @@ WYg
 WHXN
 WCB
 WF
+Word
+Windows
 and
 aq
 aaX
@@ -443,6 +446,7 @@ CutO
 CrA
 Connected
 Complement
+CPU
 Path
 PNG
 Pjs
@@ -518,6 +522,7 @@ PO
 Pasted
 Planar
 Partitioning
+PASCAL
 IHDR
 IDATx
 Iorz
@@ -605,6 +610,8 @@ IGo
 Iw
 Iv
 IWG
+IC
+IOS
 kB
 ki
 kFQ
@@ -1509,6 +1516,7 @@ LtF
 LTe
 La
 Ln
+Length
 gJ
 gIf
 gC
@@ -1711,6 +1719,7 @@ FcB
 Faces
 Face
 Formula
+FORTRAN
 iw
 iIH
 iC
@@ -2064,6 +2073,7 @@ MN
 Mn
 MGt
 Matrix
+Microprocessor
 KNb
 KV
 KX
@@ -2389,6 +2399,7 @@ AD
 AF
 AZ
 Adjacency
+Android
 hH
 hO
 hi
