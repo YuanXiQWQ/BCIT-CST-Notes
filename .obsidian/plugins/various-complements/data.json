@@ -49,69 +49,15 @@
         "hideHotkeyGuide": false
       }
     ],
-    "select 1st": [
-      {
-        "modifiers": [],
-        "key": "1",
-        "hideHotkeyGuide": false
-      }
-    ],
-    "select 2nd": [
-      {
-        "modifiers": [],
-        "key": "2",
-        "hideHotkeyGuide": false
-      }
-    ],
-    "select 3rd": [
-      {
-        "modifiers": [],
-        "key": "3",
-        "hideHotkeyGuide": false
-      }
-    ],
-    "select 4th": [
-      {
-        "modifiers": [],
-        "key": "4",
-        "hideHotkeyGuide": false
-      }
-    ],
-    "select 5th": [
-      {
-        "modifiers": [],
-        "key": "5",
-        "hideHotkeyGuide": false
-      }
-    ],
-    "select 6th": [
-      {
-        "modifiers": [],
-        "key": "6",
-        "hideHotkeyGuide": false
-      }
-    ],
-    "select 7th": [
-      {
-        "modifiers": [],
-        "key": "7",
-        "hideHotkeyGuide": false
-      }
-    ],
-    "select 8th": [
-      {
-        "modifiers": [],
-        "key": "8",
-        "hideHotkeyGuide": false
-      }
-    ],
-    "select 9th": [
-      {
-        "modifiers": [],
-        "key": "9",
-        "hideHotkeyGuide": false
-      }
-    ],
+    "select 1st": [],
+    "select 2nd": [],
+    "select 3rd": [],
+    "select 4th": [],
+    "select 5th": [],
+    "select 6th": [],
+    "select 7th": [],
+    "select 8th": [],
+    "select 9th": [],
     "open": [],
     "completion": [],
     "insert as text": []

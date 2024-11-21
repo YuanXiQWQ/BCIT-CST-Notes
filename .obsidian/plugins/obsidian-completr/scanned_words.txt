@@ -164,6 +164,8 @@ EI
 El
 Em
 EuW
+Embedding
+Euler
 Degree
 Df
 Dt
@@ -514,6 +516,8 @@ Py
 Pn
 PO
 Pasted
+Planar
+Partitioning
 IHDR
 IDATx
 Iorz
@@ -756,6 +760,7 @@ RYl
 Rtj
 RvRz
 Rooted
+Ramsey
 yl
 yh
 yf
@@ -949,6 +954,8 @@ Sr
 Sus
 Sb
 Sy
+Schur
+Spanning
 OI
 Ob
 OoH
@@ -1013,6 +1020,7 @@ OTZI
 OT
 OC
 Oq
+Outer
 cR
 cQ
 cN
@@ -1246,6 +1254,7 @@ sG
 seGI
 sss
 sq
+search
 Ta
 Tls
 Tz
@@ -1298,6 +1307,7 @@ Tg
 TvQ
 TQN
 Tree
+Theorem
 zQ
 zg
 zlJ
@@ -1698,6 +1708,9 @@ FwG
 FdD
 Fu
 FcB
+Faces
+Face
+Formula
 iw
 iIH
 iC
@@ -2050,6 +2063,7 @@ Mp
 MN
 Mn
 MGt
+Matrix
 KNb
 KV
 KX
@@ -2104,6 +2118,7 @@ Kt
 KNs
 KJ
 Ky
+Kuratowski
 xT
 xf
 xR
@@ -2298,6 +2313,7 @@ fyL
 fy
 ft
 fO
+first
 AM
 Azi
 Ama
@@ -2372,6 +2388,7 @@ Ackl
 AD
 AF
 AZ
+Adjacency
 hH
 hO
 hi
@@ -2573,6 +2590,8 @@ BWm
 BTx
 BQ
 Bipartite
+Breadth
+BFS
 qW
 qÖ
 qNk
