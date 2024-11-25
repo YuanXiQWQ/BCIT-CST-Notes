@@ -71,6 +71,7 @@ Gz
 Gfff
 Gtz
 GLL
+Green
 Vertices
 Vjt
 VT
@@ -302,6 +303,7 @@ DP
 DFF
 DdY
 Dnn
+Deadline
 Walk
 WbO
 WM
@@ -374,6 +376,7 @@ Wb
 WE
 WDw
 Wy
+Week
 and
 aq
 aaX
@@ -563,6 +566,7 @@ CGp
 Ctz
 CV
 CkL
+CISC
 Path
 PNG
 Pjs
@@ -760,6 +764,7 @@ Im
 IRI
 IDATq
 IQbVV
+IEEE
 kB
 ki
 kFQ
@@ -977,6 +982,8 @@ RYTX
 RZ
 RwA
 RKs
+Red
+RISC
 yl
 yh
 yf
@@ -1930,6 +1937,7 @@ Ym
 Yk
 YLP
 YHlYRz
+Yellow
 LQgw
 LsYY
 LG
@@ -2005,6 +2013,7 @@ LhQ
 Lx
 Lj
 Lq
+Lab
 gJ
 gIf
 gC
@@ -2790,6 +2799,7 @@ MVrTV
 MEE
 MMIM
 MoFl
+Makefile
 KNb
 KV
 KX
@@ -2998,6 +3008,7 @@ NVP
 NJ
 NF
 NE
+Nov
 nw
 nUu
 nW
