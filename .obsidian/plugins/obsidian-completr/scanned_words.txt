@@ -78,6 +78,8 @@ MR
 Mea
 MY
 Mno
+Minimum
+MST
 Address
 ACC
 Accumulator
@@ -684,6 +686,7 @@ aar
 aQh
 aEb
 aaX
+algorithm
 Logic
 LOAD
 Length
@@ -960,6 +963,7 @@ Pab
 PZp
 PEV
 Permutation
+Prim
 Counter
 CU
 Control
@@ -1226,6 +1230,7 @@ tfd
 trB
 tzi
 tpk
+tree
 style
 solid
 sT
@@ -1322,6 +1327,7 @@ sL
 sCCg
 sF
 svp
+spanning
 collapse
 center
 colspan
