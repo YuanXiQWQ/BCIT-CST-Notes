@@ -2546,6 +2546,8 @@ sSo
 sHH
 sNb
 skZ
+sup
+sub
 collapse
 center
 colspan
@@ -4518,6 +4520,7 @@ nLa
 nkK
 nRBO
 nDT
+nlog
 Nanosecond
 Nm
 Nd
@@ -7334,6 +7337,7 @@ lKf
 lcd
 ljhr
 left
+log
 ukE
 uF
 ue
