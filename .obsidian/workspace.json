@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1图的存储-邻接矩阵.md",
+                "file": "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.1图的存储-邻接矩阵.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图论.1图的存储-邻接矩阵"
+              "title": "图.1图的存储-邻接矩阵"
+            }
+          },
+          {
+            "id": "5dfbe9bb6ae7d7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.3图的深度优先遍历(DFS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "图.3图的深度优先遍历(DFS)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +189,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf39658642e9263c",
+  "active": "5dfbe9bb6ae7d7ba",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125195228.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125194655.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125194633.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125193056.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.2-树.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.3图的深度优先遍历(DFS).md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.1图的存储-邻接矩阵.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125190518.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125184413.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125183308.png",
@@ -183,20 +205,14 @@
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119024711.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119064224.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119064220.png",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119064242.png",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119071823.png",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1图的存储-邻接矩阵.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1-基础定义.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.3错误检测与纠正-无符号整数的表示和运算.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/图的存储-邻接矩阵.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.2-树.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.4错误检测与纠正-带符号整数的表示和运算.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.2错误检测与纠正-BCD码.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.1错误检测与纠正-计算机数值表示和运算基础.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.3计算机组成基础-计算机系统的层次结构.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.2※计算机组成基础-硬件的工作原理.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241125121842.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241125121707.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.1计算机组成基础-硬件的基本组成.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.4※计算机组成基础-计算机的性能指标.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.时钟与流水线.md",
@@ -213,7 +229,6 @@
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1-图(Graph).md",
     "YuanXi-ColdNotes/C/57.※指针与动态内存分配.md",
     "YuanXi-ColdNotes/C/55.※文件操作.md",
-    "YuanXi-ColdNotes/C/54.文件分解.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/imgs",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/img",
