@@ -685,6 +685,7 @@ Dlb
 DHn
 DTC
 DDF
+DRAM
 word
 width
 weight
@@ -2049,6 +2050,7 @@ CKk
 CXl
 CwT
 CUIi
+Cache
 IR
 Instruction
 IEEE
@@ -4373,6 +4375,7 @@ SWT
 SQE
 SXC
 SXGr
+SRAM
 ns
 nD
 npS
