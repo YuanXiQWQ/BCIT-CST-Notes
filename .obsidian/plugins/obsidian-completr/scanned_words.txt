@@ -957,6 +957,7 @@ Pgg
 Pab
 PZp
 PEV
+Permutation
 Counter
 CU
 Control
@@ -1046,6 +1047,7 @@ CTiX
 CsyW
 CGa
 CBq
+Combination
 IR
 Instruction
 IEEE
