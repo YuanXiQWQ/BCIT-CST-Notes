@@ -1181,6 +1181,7 @@ Ctm
 CAG
 CnF
 CT
+Coding
 IR
 Instruction
 IEEE
@@ -2146,6 +2147,7 @@ gqnb
 gZwz
 gAQ
 gcJ
+green
 Frequency
 Femtosecond
 FLOPS
@@ -2359,6 +2361,7 @@ HQu
 HRFZ
 Huz
 Hup
+Huffman
 Time
 Throughput
 TQ
@@ -2994,6 +2997,7 @@ Bhxt
 BmGGo
 BDl
 BtEJ
+BST
 Java
 Jk
 Jb
@@ -3894,6 +3898,7 @@ yov
 yd
 yep
 ywM
+yellow
 eY
 eQ
 ee
@@ -4868,6 +4873,7 @@ oHg
 oyW
 oEY
 oß
+orange
 äL
 äI
 Üd
