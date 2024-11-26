@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/排序.9-简单选择排序.md",
+                "file": "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.11-归并排序(Merge Sort).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "排序.9-简单选择排序"
+              "title": "排序.11-归并排序(Merge Sort)"
             }
           }
         ]
@@ -176,8 +176,10 @@
   },
   "active": "04c14cdf570f986a",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.1-3-直接插入排序.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/排序.9-简单选择排序.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.1-3-直接插入排序(Interpolation sort).md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.11-归并排序(Merge Sort).md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/树.2哈夫曼树和哈夫曼编码.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.9-简单选择排序(Simple Selection Sort).md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126060152.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126060039.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126055550.png",
@@ -191,7 +193,6 @@
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/查找.4二叉搜索树(BST).md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/查找.5平衡二叉树.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/树.1二叉树遍历.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/树.2哈夫曼树和哈夫曼编码.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.5最小生成树.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.1图的存储-邻接矩阵.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.4图的广度优先遍历(BFS).md",
@@ -211,7 +212,6 @@
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/同余 (Congruence).md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/命题及命题的真值.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/※排列组合.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.3图的深度优先遍历(DFS).md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
