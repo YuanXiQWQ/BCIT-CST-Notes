@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.1错误检测与纠正-计算机数值表示和运算基础.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.3错误检测与纠正-无符号整数的表示和运算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1.1错误检测与纠正-计算机数值表示和运算基础"
+              "title": "3.1.3错误检测与纠正-无符号整数的表示和运算"
+            }
+          },
+          {
+            "id": "4da3249e13c5fcc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.4错误检测与纠正-带符号整数的表示和运算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1.4错误检测与纠正-带符号整数的表示和运算"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,11 +189,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7ba7f06bce1651af",
+  "active": "4da3249e13c5fcc8",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.1错误检测与纠正-计算机数值表示和运算基础.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.3错误检测与纠正-无符号整数的表示和运算.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.2错误检测与纠正-BCD码.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.3错误检测与纠正-无符号整数的表示和运算.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.4错误检测与纠正-带符号整数的表示和运算.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.1错误检测与纠正-计算机数值表示和运算基础.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.3计算机组成基础-计算机系统的层次结构.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.2※计算机组成基础-硬件的工作原理.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241125121842.png",
@@ -213,7 +229,6 @@
     "YuanXi-ColdNotes/C/41.全局变量与局部变量.md",
     "YuanXi-ColdNotes/C/34.typedef关键字.md",
     "YuanXi-ColdNotes/C/33.组合数据类型-结构体和联合体.md",
-    "YuanXi-ColdNotes/C/26.※数组.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/imgs",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/img",
