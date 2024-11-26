@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c3ece6af4ae0a993",
+        "id": "7c6685db051357a8",
         "type": "tabs",
         "children": [
           {
-            "id": "7ba7f06bce1651af",
+            "id": "bf39658642e9263c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.3错误检测与纠正-无符号整数的表示和运算.md",
+                "file": "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1图的存储-邻接矩阵.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1.3错误检测与纠正-无符号整数的表示和运算"
-            }
-          },
-          {
-            "id": "4da3249e13c5fcc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.4错误检测与纠正-带符号整数的表示和运算.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.1.4错误检测与纠正-带符号整数的表示和运算"
+              "title": "图论.1图的存储-邻接矩阵"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,11 +174,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4da3249e13c5fcc8",
+  "active": "bf39658642e9263c",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.2错误检测与纠正-BCD码.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125190518.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125184413.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241125183308.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119065534.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119024711.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119064224.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119064220.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119064242.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241119071823.png",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1图的存储-邻接矩阵.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1-基础定义.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.3错误检测与纠正-无符号整数的表示和运算.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/图的存储-邻接矩阵.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.2-树.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.4错误检测与纠正-带符号整数的表示和运算.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.2错误检测与纠正-BCD码.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.1错误检测与纠正-计算机数值表示和运算基础.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.3计算机组成基础-计算机系统的层次结构.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.2※计算机组成基础-硬件的工作原理.md",
@@ -202,14 +200,6 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.1计算机组成基础-硬件的基本组成.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.4※计算机组成基础-计算机的性能指标.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.时钟与流水线.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241122012936.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241120201634.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241120202827.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241122014322.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241122015029.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241122015754.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241122020047.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241125104136.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.1计算机组成基础-计算机的发展.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/7.总线与中断.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/8.微指令与微程序设计.md",
@@ -220,15 +210,10 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5-6.数字逻辑设计.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.存储系统.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1-基础定义.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.2-树.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1-图(Graph).md",
     "YuanXi-ColdNotes/C/57.※指针与动态内存分配.md",
     "YuanXi-ColdNotes/C/55.※文件操作.md",
     "YuanXi-ColdNotes/C/54.文件分解.md",
-    "YuanXi-ColdNotes/C/41.全局变量与局部变量.md",
-    "YuanXi-ColdNotes/C/34.typedef关键字.md",
-    "YuanXi-ColdNotes/C/33.组合数据类型-结构体和联合体.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/imgs",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/img",
