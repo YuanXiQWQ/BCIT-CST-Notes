@@ -3981,6 +3981,8 @@ FFR
 Factory
 Facade
 Flyweight
+FactoryA
+FactoryB
 Hz
 HE
 He
