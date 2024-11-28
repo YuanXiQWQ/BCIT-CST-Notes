@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.9-装饰器模式(Decorator Pattern).md",
+                "file": "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.6-适配器模式(Adapter Pattern).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.结构型模式.9-装饰器模式(Decorator Pattern)"
+              "title": "3.结构型模式.6-适配器模式(Adapter Pattern)"
             }
           }
         ]
@@ -174,11 +174,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d2dfbd10ccefd31",
+  "active": "1eaf05b002fd5058",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.6-适配器模式(Adapter Pattern).md",
-    "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.9-装饰器模式(Decorator Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.19-观察者模式(Observer Pattern).md",
+    "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.9-装饰器模式(Decorator Pattern).md",
+    "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.6-适配器模式(Adapter Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.14-命令模式(Command Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/2.创建型模式2.2-抽象工厂模式(Abstract Factory Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/2.创建型模式.2.1-工厂模式(Factory Pattern).md",
