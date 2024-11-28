@@ -1901,6 +1901,11 @@ Printer
 Printing
 Prototype
 Proxy
+Product
+Pizza
+PepperPizza
+ProductA
+ProductB
 Counter
 CU
 Control
@@ -2099,6 +2104,7 @@ ColorPrinter
 Composite
 Chain
 Checked
+CheesePizza
 IR
 Instruction
 IEEE
