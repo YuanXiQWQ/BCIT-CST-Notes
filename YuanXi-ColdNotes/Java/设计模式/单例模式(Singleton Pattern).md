@@ -215,3 +215,26 @@ class SingleTon {
 - 进行两次实例非空检查, 保证**效率**和**线程安全**
 - **懒加载**, 节省内存
 - 实际开发中使用的单例模式
+### 静态内部类
+- 饿汉式单例在类加载时就立即创建实例，无论该实例是否被实际使用。这意味着在应用程序启动或类被首次引用时，单例对象已经存在。就像一个“饿汉”总是处于“饥饿”状态，随时准备“进食”或“行动”，饿汉式单例也始终存在，随时可以被调用和使用。
+#### 步骤
+1. 构造器私有化 ( 防止通过 new 获得实例)
+2. 类的内部创建对象
+3. 向外暴露一个静态的公共方法以返回实例对象
+4. 代码实现
+```java 
+class SingleTon {
+    // 1.构造器私有化 ( 防止通过 new 获得实例)
+    private SingleTon() {}
+
+    // 2.类的内部创建对象
+    private final class SingletonInstance{
+    	private static final SingleTon INSTANCE = new SingleTon();
+    }
+
+    // 3.向外暴露一个静态的公共方法以返回实例对象
+    public static SingleTon getInstance() {
+        return SingletonInstance;
+    }
+}
+```
