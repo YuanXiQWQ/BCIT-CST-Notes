@@ -161,6 +161,7 @@ Mbf
 Method
 Mediator
 Memento
+Mask
 Address
 ACC
 Accumulator
@@ -1906,6 +1907,7 @@ Pizza
 PepperPizza
 ProductA
 ProductB
+Phone
 Counter
 CU
 Control
@@ -2317,6 +2319,7 @@ Itv
 Interpreter
 Iterator
 Initialization
+IPhone
 table
 thead
 tr
@@ -4171,6 +4174,7 @@ HOo
 Hhy
 HHHArJ
 Hello
+HuaWei
 Time
 Throughput
 TQ
