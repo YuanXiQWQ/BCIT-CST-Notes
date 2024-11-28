@@ -117,7 +117,33 @@ class SingleTon {
     private final static SingleTon instance;
 
     // 3.向外暴露一个静态的公共方法以仅初始时创建并返回实例对象
-    public static SingleTon getInstance() {
+    public static synchronized SingleTon getInstance() {
+    	// 懒汉式: 仅在真正调用方法的时候对实例进行初始创建
+    	if(instance == null){
+    		 instance = new SingleTon()
+    	}
+        return instance;
+    }
+}
+```
+#### 特点
+##### 优点
+- 起到了懒加载 (Lazy Loading) 效果, 仅在需要实例时创建实例, 类似在前端中学到的仅滚动到相应页面位置时才加载元素的懒加载方法
+##### 缺点
+- 只能在单线程下使用, 多线程下, 如果一个线程进入了 `if(instance == null)` 判断语句块, 还未来得及继续执行, 另一个线程就也进入该判断句, 就会造成产生多个实例
+#### 线程安全, 同步方法
+- 使用同步方法改进原本线程不安全的初始化实例方法
+```java
+class SingleTon {
+    // 1.构造器私有化 ( 防止通过 new 获得实例)
+    private SingleTon() {}
+
+    // 2.将未初始化的对象实例保留为字段
+    private final static SingleTon instance;
+
+    // 3.向外暴露一个静态的公共方法以仅初始时创建并返回实例对象
+    // 使用同步方法 synchronized
+    public static synchronized SingleTon getInstance() {
     	// 懒汉式: 仅在真正调用方法的时候对实例进行初始创建
     	if(instance == null){
     		 instance = new SingleTon()
