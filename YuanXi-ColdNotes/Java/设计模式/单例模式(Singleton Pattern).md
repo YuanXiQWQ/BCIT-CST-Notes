@@ -15,7 +15,6 @@
 - 懒汉式（Lazy Initialization）
 	- 线程不安全
 	- 线程安全, 同步方法
-	- 线程安全, 同步代码块
 - **双重检查（Double-Checked Locking）**
 - **静态内部类**
 - **枚举**
@@ -147,6 +146,52 @@ class SingleTon {
     	// 懒汉式: 仅在真正调用方法的时候对实例进行初始创建
     	if(instance == null){
     		 instance = new SingleTon()
+    	}
+        return instance;
+    }
+}
+```
+##### 特点
+- 效率过低
+- 每个线程在想要获得类实例时, 都要执行 ` getInstance ()` 方法
+	- 而只有第一次 ` getInstance ()` 是为了初始化实例后返回
+	- 往后只需要返回实例即可
+	- 但是每次都要对方法进行同步
+### 双重检查
+- 进行两次 `(instance == null)` 检查
+	- 检查 1: 避免在实例已经被创建后再次进入含同步锁的代码块, 提升性能
+	- 检查 2: 如果多个线程同时通过了检查 1, 通过同步锁保证了此时只有一条线程能够继续向下执行同步代码块, 此时会有两种情况:
+		- 此时 instance 未初始化, 通过检查 2, 对实例进行初始化
+		- 此时 instance 已经由第一个进入同步代码块的线程初始化, 未通过检查 2, 取消初始化
+#### 步骤
+1. 构造器私有化 ( 防止通过 new 获得实例)
+2. 将未初始化的对象实例保留为字段, 并
+	1. 禁止编译器对初始化该实例的指令重排序
+	2. 保证任何线程对该变量时其它线程的可见性
+3. 向外暴露一个静态的公共方法以返回实例对象
+4. 代码实现
+```java
+class SingleTon {
+    // 1.构造器私有化 ( 防止通过 new 获得实例)
+    private SingleTon() {}
+
+    // 2.将未初始化的对象实例保留为字段
+    // vloatile 禁止指令重排序, 并保证线程可见性
+    private final static volatile SingleTon instance;
+
+    // 3.向外暴露一个静态的公共方法以仅初始时创建并返回实例对象
+    public static SingleTon getInstance() {
+    	// 懒汉式: 仅在真正调用方法的时候对实例进行初始创建
+    	// 检查1:在初始化实例处执行同步, 保证同时只能有一个线程执行初始化
+    	if(instance == null){
+    		// 同步锁, 保证线程安全
+    		synchronized (Singleton.class){
+    			/* 检查2: 此时第二个线程如果意外进来了,第一个线程已经初始化好了, 线程2再检
+    			查就会不满足判断式而推出*/
+				if(instance == null){
+    				instance = new SingleTon()
+				}
+    		}
     	}
         return instance;
     }
