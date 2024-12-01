@@ -175,6 +175,7 @@ Many
 Methods
 Multiplicity
 Mwm
+Member
 Address
 ACC
 Accumulator
@@ -385,6 +386,9 @@ Aggregation
 Addr
 Associations
 Aggregations
+Age
+Admin
+Author
 Register
 Response
 RW
@@ -537,6 +541,11 @@ Relation
 Relationship
 RPP
 RgS
+Registration
+Record
+Return
+Relationships
+Relations
 Data
 DOS
 DH
@@ -743,6 +752,8 @@ Define
 Dependency
 Disjoint
 DFM
+Date
+Derived
 word
 width
 weight
@@ -1254,6 +1265,7 @@ Qeh
 QCP
 QJJ
 QHc
+Quantity
 and
 align
 ab
@@ -1636,6 +1648,7 @@ List
 Language
 LDe
 LIy
+Loan
 Unit
 UDM
 UHG
@@ -2020,6 +2033,8 @@ Provide
 Populate
 PaY
 Pixf
+Pages
+Publication
 Counter
 CU
 Control
@@ -2234,6 +2249,8 @@ Compositions
 Compensation
 CCC
 Codd
+Code
+Category
 IR
 Instruction
 IEEE
@@ -2457,6 +2474,8 @@ Isl
 IvI
 IZL
 IxE
+ISBN
+Involves
 table
 thead
 tr
@@ -3219,6 +3238,7 @@ relations
 result
 relationship
 referential
+references
 px
 padding
 ps
@@ -4279,6 +4299,7 @@ Functional
 For
 Form
 FUkJ
+Foreign
 Hz
 HE
 He
@@ -4471,6 +4492,7 @@ HuaWei
 Hub
 Highest
 HLB
+Has
 Time
 Throughput
 TQ
@@ -4631,6 +4653,7 @@ Task
 Transitive
 Take
 TAv
+Title
 Second
 SXV
 SB
@@ -4812,6 +4835,9 @@ Subclass
 Superclass
 Sil
 Sad
+Street
+Stock
+Specialization
 ns
 nD
 npS
@@ -5152,6 +5178,7 @@ Note
 Normal
 Normalization
 NkW
+Nationality
 ENIAC
 EUN
 ED
@@ -5696,6 +5723,10 @@ BvJ
 BEJ
 BxY
 Boyce
+Birth
+Book
+Belongs
+Borrows
 Java
 Jk
 Jb
@@ -6012,6 +6043,7 @@ While
 Wqp
 Wxc
 WgJ
+Writes
 GB
 GZ
 GU
@@ -6188,6 +6220,7 @@ Goal
 GWZ
 GXR
 GKdx
+Generalization
 Zx
 ZY
 Zt
@@ -6338,6 +6371,7 @@ Zrc
 ZzYs
 ZIG
 ZPP
+Zip
 YG
 YvM
 Yb
@@ -7627,6 +7661,7 @@ KLlu
 KJlmwv
 KAC
 KuT
+Keys
 hqu
 hF
 hq
