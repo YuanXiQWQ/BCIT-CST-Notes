@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d2dfbd10ccefd31",
+            "id": "1cb208be1163c134",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project_Technical_Report-All-Milestones-2024.md",
+                "file": "YuanXi-ColdNotes/Database/数据库范式-范式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project_Technical_Report-All-Milestones-2024"
+              "title": "数据库范式-范式"
             }
           },
           {
-            "id": "1cb208be1163c134",
+            "id": "0bf1229f43f71ae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "数据库范式-函数依赖"
             }
-          },
-          {
-            "id": "cff0642ee6990b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YuanXi-ColdNotes/Database/29.※数据库设计-ER模型转换关系模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "29.※数据库设计-ER模型转换关系模型"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,9 +190,9 @@
   },
   "active": "1cb208be1163c134",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
-    "YuanXi-ColdNotes/Database/数据库范式-范式.md",
     "YuanXi-ColdNotes/Database/数据库范式-函数依赖.md",
+    "YuanXi-ColdNotes/Database/数据库范式-范式.md",
+    "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
     "YuanXi-ColdNotes/Database/数据库范式-概述.md",
     "YuanXi-ColdNotes/Database/imgs/Pasted image 20241130003744.png",
     "Project_Technical_Report-All-Milestones-2024.md",

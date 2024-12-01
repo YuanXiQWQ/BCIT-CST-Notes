@@ -2233,6 +2233,7 @@ Composition
 Compositions
 Compensation
 CCC
+Codd
 IR
 Instruction
 IEEE
@@ -5694,6 +5695,7 @@ Bar
 BvJ
 BEJ
 BxY
+Boyce
 Java
 Jk
 Jb
