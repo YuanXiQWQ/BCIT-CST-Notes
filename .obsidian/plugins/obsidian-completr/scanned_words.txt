@@ -176,6 +176,12 @@ Methods
 Multiplicity
 Mwm
 Member
+Machine
+Minecraft
+Main
+MyGame
+MinecraftItem
+MaterialItem
 Address
 ACC
 Accumulator
@@ -546,6 +552,7 @@ Record
 Return
 Relationships
 Relations
+Recipe
 Data
 DOS
 DH
@@ -1470,6 +1477,7 @@ already
 aLb
 aGv
 aRK
+applications
 Logic
 LOAD
 Length
@@ -1649,6 +1657,8 @@ Language
 LDe
 LIy
 Loan
+Libraries
+Lambda
 Unit
 UDM
 UHG
@@ -2251,6 +2261,7 @@ CCC
 Codd
 Code
 Category
+CraftingItem
 IR
 Instruction
 IEEE
@@ -2476,6 +2487,9 @@ IZL
 IxE
 ISBN
 Involves
+InteliJ
+IDEA
+Item
 table
 thead
 tr
@@ -2642,6 +2656,7 @@ task
 tIX
 tI
 tQu
+txt
 style
 solid
 sT
@@ -3418,6 +3433,7 @@ primary
 please
 process
 preserved
+prompts
 vertical
 viv
 vtf
@@ -4300,6 +4316,7 @@ For
 Form
 FUkJ
 Foreign
+Files
 Hz
 HE
 He
@@ -4838,6 +4855,8 @@ Sad
 Street
 Stock
 Specialization
+Settings
+StringBuilder
 ns
 nD
 npS
@@ -5179,6 +5198,7 @@ Normal
 Normalization
 NkW
 Nationality
+NumberGame
 ENIAC
 EUN
 ED
@@ -5899,6 +5919,7 @@ JZq
 Jzg
 Jiarui
 Just
+JavaFX
 Word
 Windows
 WB
@@ -6044,6 +6065,7 @@ Wqp
 Wxc
 WgJ
 Writes
+Week
 GB
 GZ
 GU
@@ -6221,6 +6243,8 @@ GWZ
 GXR
 GKdx
 Generalization
+GUI
+GameController
 Zx
 ZY
 Zt
@@ -6816,6 +6840,7 @@ Vehicle
 Visitor
 Version
 VMU
+Virtual
 jtJ
 jl
 jb
