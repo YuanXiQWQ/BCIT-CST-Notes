@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.19-观察者模式(Observer Pattern).md",
+                "file": "Project_Technical_Report-All-Milestones-2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.行为型模式.19-观察者模式(Observer Pattern)"
+              "title": "Project_Technical_Report-All-Milestones-2024"
+            }
+          },
+          {
+            "id": "1cb208be1163c134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YuanXi-ColdNotes/Database/数据库范式-函数依赖.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库范式-函数依赖"
+            }
+          },
+          {
+            "id": "cff0642ee6990b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YuanXi-ColdNotes/Database/29.※数据库设计-ER模型转换关系模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "29.※数据库设计-ER模型转换关系模型"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373,
-    "collapsed": true
+    "width": 373
   },
   "right": {
     "id": "af0f8e24b6bed7e5",
@@ -175,15 +203,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d2dfbd10ccefd31",
+  "active": "1cb208be1163c134",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
+    "YuanXi-ColdNotes/Database/数据库范式-范式.md",
+    "YuanXi-ColdNotes/Database/数据库范式-函数依赖.md",
+    "YuanXi-ColdNotes/Database/数据库范式-概述.md",
+    "YuanXi-ColdNotes/Database/imgs/Pasted image 20241130003744.png",
+    "Project_Technical_Report-All-Milestones-2024.md",
+    "Project_Technical_Report-All-Milestones-2024-2024-11-30-05-40-45.png",
+    "YuanXi-ColdNotes/Database/29.※数据库设计-ER模型转换关系模型.md",
+    "YuanXi-ColdNotes/Database/28.※数据库设计-ER模型.md",
+    "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.14-命令模式(Command Pattern).md",
+    "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.19-观察者模式(Observer Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/2.创建型模式.1-单例模式(Singleton Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/2.创建型模式.2-简单工厂模式(Simple Factory Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/2.创建型模式.2.1-工厂模式(Factory Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.6-适配器模式(Adapter Pattern).md",
-    "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.19-观察者模式(Observer Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.9-装饰器模式(Decorator Pattern).md",
-    "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.14-命令模式(Command Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/2.创建型模式2.2-抽象工厂模式(Abstract Factory Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/1.设计模式-概述.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.存储系统.md",
@@ -204,15 +241,6 @@
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126055430.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126055348.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126055210.png",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126055002.png",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126054940.png",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/树.1二叉树遍历.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.5最小生成树.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.1图的存储-邻接矩阵.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.4图的广度优先遍历(BFS).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.2-树.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.1计算机组成基础-计算机的发展.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.1计算机组成基础-硬件的基本组成.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
