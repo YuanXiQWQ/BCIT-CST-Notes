@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/JavaFX/JavaFX.1-配置.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.7错误检测与纠正-定点小数（Fixed-point Decimal）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaFX.1-配置"
-            }
-          },
-          {
-            "id": "ceecedc4fbfaae2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt"
-            }
-          },
-          {
-            "id": "0bf1229f43f71ae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YuanXi-ColdNotes/Database/数据库范式-函数依赖.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数据库范式-函数依赖"
+              "title": "3.1.7错误检测与纠正-定点小数（Fixed-point Decimal）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,11 +174,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ceecedc4fbfaae2f",
+  "active": "1cb208be1163c134",
   "lastOpenFiles": [
-    "未命名.md",
-    "Prompt.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241207124031.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.6错误检测与纠正-移码（Excess Code）.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.7错误检测与纠正-定点小数（Fixed-point Decimal）.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.5错误检测与纠正-原反补码的特性对比.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.4错误检测与纠正-带符号整数的表示和运算.md",
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.1-配置.md",
+    "Prompt.md",
+    "prompt 2.md",
+    "未命名.md",
     "YuanXi-ColdNotes/Database/数据库范式-范式.md",
     "Project_Technical_Report-All-Milestones-2024.md",
     "YuanXi-ColdNotes/Database/数据库范式-函数依赖.md",
@@ -227,12 +204,6 @@
     "YuanXi-ColdNotes/Java/设计模式/2.创建型模式2.2-抽象工厂模式(Abstract Factory Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/1.设计模式-概述.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.存储系统.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1-基础定义.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/查找.5平衡二叉树.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/查找.4二叉搜索树(BST).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.9-简单选择排序(Simple Selection Sort).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.11-归并排序(Merge Sort).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/※排列组合.md",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126065915.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126060152.png",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs/Pasted image 20241126060039.png",
