@@ -239,6 +239,8 @@ MRBF
 Mwh
 MzQ
 MOk
+MZF
+MlUxO
 Address
 ACC
 Accumulator
@@ -497,6 +499,7 @@ Auc
 Ata
 AJo
 AyQ
+Aic
 Register
 Response
 RW
@@ -700,6 +703,9 @@ Rjs
 RGsS
 Rvp
 RIDAT
+RLO
+ROJ
+ROa
 Data
 DOS
 DH
@@ -1173,6 +1179,7 @@ wBvT
 wzEI
 wye
 wep
+whz
 bit
 border
 black
@@ -1624,6 +1631,7 @@ Qik
 QpG
 QovL
 QoU
+Qvd
 and
 align
 ab
@@ -1895,6 +1903,7 @@ aPh
 aVf
 aXZ
 aGpE
+aVaj
 Logic
 LOAD
 Length
@@ -2136,6 +2145,8 @@ Lqv
 LZxH
 LSW
 LtHK
+LHE
+LCY
 Unit
 UDM
 UHG
@@ -2353,6 +2364,8 @@ UZc
 Ugc
 Uvm
 Ucd
+ULG
+UDh
 PC
 Program
 Picosecond
@@ -2611,6 +2624,9 @@ Pfn
 PpnNe
 PLs
 Ptf
+PYy
+PCd
+PRTN
 Counter
 CU
 Control
@@ -2892,6 +2908,10 @@ CyZ
 Coe
 CcT
 CvD
+CGYu
+CJtw
+CchD
+CeD
 IR
 Instruction
 IEEE
@@ -3177,6 +3197,7 @@ ILP
 IqSpCq
 IWr
 IOu
+IuhQd
 table
 thead
 tr
@@ -3384,6 +3405,10 @@ tBl
 tFC
 tvLZ
 tHO
+tuVeV
+tZQ
+tQs
+tpK
 style
 solid
 sT
@@ -4806,6 +4831,7 @@ msgA
 mvr
 min
 mxb
+mvZ
 font
 ff
 ffc
@@ -5278,6 +5304,8 @@ gmg
 gLK
 gCv
 ggT
+grJ
+gcB
 Frequency
 Femtosecond
 FLOPS
@@ -5533,6 +5561,8 @@ FZL
 Fxh
 FsW
 FRkOa
+FNBv
+Fcr
 Hz
 HE
 He
@@ -5984,6 +6014,8 @@ TNa
 Tzq
 Tgg
 TTf
+Tyh
+Tdc
 Second
 SXV
 SB
@@ -6235,6 +6267,8 @@ SAgcp
 SNt
 SKPpt
 SBm
+SOBq
+SHG
 ns
 nD
 npS
@@ -6444,6 +6478,8 @@ nEuE
 nmK
 noY
 nzz
+nRl
+nmDh
 Nanosecond
 Nm
 Nd
@@ -6666,6 +6702,7 @@ NXl
 NtZ
 Nvg
 Ndm
+Nhd
 ENIAC
 EUN
 ED
@@ -7134,6 +7171,7 @@ Onz
 OAiv
 Oee
 ONu
+OOwW
 Bandwidth
 Bus
 Bps
@@ -7384,6 +7422,8 @@ BLjy
 BFW
 BxD
 BLX
+BCuA
+Bdg
 Java
 Jk
 Jb
@@ -7792,6 +7832,9 @@ WCu
 Wgv
 WXr
 Wzh
+Wch
+Wxh
+WKW
 GB
 GZ
 GU
@@ -8422,6 +8465,7 @@ YOY
 YYZ
 YtO
 YDr
+YUnI
 kS
 kH
 krS
@@ -8788,6 +8832,10 @@ VVa
 Vzf
 Vsx
 Vmk
+Voc
+VBn
+Vay
+VZF
 jtJ
 jl
 jb
@@ -8966,6 +9014,7 @@ jZU
 jZh
 jeT
 jVFZ
+jxF
 dA
 df
 dM
@@ -9202,6 +9251,9 @@ dIWi
 dGo
 dGJ
 dGl
+dxWK
+dHfy
+dTyZ
 yr
 yC
 yq
@@ -9423,6 +9475,8 @@ yKy
 yvd
 ygf
 yzz
+ygz
+yEW
 eY
 eQ
 ee
@@ -9644,6 +9698,7 @@ elüX
 eNO
 eGg
 emNw
+eJf
 KQ
 Kj
 Kq
@@ -10083,6 +10138,8 @@ hlL
 hdo
 hjSe
 hwxt
+hxm
+hHpQ
 lW
 lQ
 ld
@@ -10499,6 +10556,8 @@ uhz
 umvm
 uBw
 uAmJ
+uUP
+uZx
 qvl
 qf
 qZ
@@ -10683,6 +10742,7 @@ qwo
 qNl
 qvN
 qCf
+qtK
 XQ
 XM
 Xv
@@ -11122,6 +11182,8 @@ xItz
 xAY
 xfR
 xhtVH
+xGN
+xeP
 iN
 is
 iq
@@ -11349,6 +11411,7 @@ iWo
 ikd
 inX
 ikh
+izx
 zO
 zU
 zy
@@ -11518,6 +11581,8 @@ zuh
 zxWm
 ztE
 zge
+zhd
+zhfm
 oQ
 oW
 oh

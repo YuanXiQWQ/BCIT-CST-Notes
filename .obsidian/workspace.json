@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.4存储系统-双端口RAM和多模块存储器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2.3存储系统-ROM"
+              "title": "4.2.4存储系统-双端口RAM和多模块存储器"
             }
           }
         ]
@@ -176,7 +176,14 @@
   },
   "active": "1cb208be1163c134",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208141025.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.4存储系统-双端口RAM和多模块存储器.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208141254.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208134812.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208134809.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.2存储系统-SRAM和DRAM.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/7.1.1总线与中断-总线概述.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5-6.数字逻辑设计.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208060915.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208060905.png",
@@ -186,10 +193,6 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208053424.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.4※计算机组成基础-计算机的性能指标.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208053301.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208053230.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208053051.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208051523.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208051414.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.1存储系统-基本概念.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.0.1存储系统-数据的存储和排列.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.2错误检测与纠正-汉明码的纠错能力.md",
@@ -197,7 +200,6 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.0错误检测与纠正-奇偶校验码.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.3错误检测与纠正-无符号整数的表示和运算.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.时钟与流水线.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/7.1.1总线与中断-总线概述.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.2※计算机组成基础-硬件的工作原理.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/8.微指令与微程序设计.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.7错误检测与纠正-定点小数（Fixed-point Decimal）.md",
@@ -209,9 +211,6 @@
     "YuanXi-ColdNotes/Computer Organisation/汉明码.md",
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.1-配置.md",
     "Prompt.md",
-    "prompt 2.md",
-    "未命名.md",
-    "YuanXi-ColdNotes/Database/数据库范式-范式.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
