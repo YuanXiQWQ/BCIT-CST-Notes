@@ -927,6 +927,7 @@ DhT
 DAT
 Dlp
 Dqqq
+Dynamic
 word
 width
 weight
