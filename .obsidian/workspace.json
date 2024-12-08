@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.2存储系统-SRAM和DRAM.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2.2存储系统-SRAM和DRAM"
+              "title": "4.2.3存储系统-ROM"
             }
           }
         ]
@@ -176,12 +176,13 @@
   },
   "active": "1cb208be1163c134",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.2存储系统-SRAM和DRAM.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208060915.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208060905.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208060657.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208055705.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.1存储系统-主存储器的基本构成.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.2存储系统-SRAM和DRAM.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208053424.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.4※计算机组成基础-计算机的性能指标.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208053301.png",
@@ -189,7 +190,6 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208053051.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208051523.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208051414.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208051205.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.1存储系统-基本概念.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.0.1存储系统-数据的存储和排列.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.2错误检测与纠正-汉明码的纠错能力.md",
