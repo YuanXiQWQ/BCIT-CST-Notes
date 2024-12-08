@@ -774,6 +774,7 @@ Date
 Derived
 Dive
 Download
+Distance
 word
 width
 weight
@@ -1146,6 +1147,7 @@ because
 basic
 become
 both
+bits
 Quotient
 Ql
 QGA
@@ -2078,6 +2080,7 @@ Publication
 Polymorphism
 Paths
 Parallel
+Parity
 Counter
 CU
 Control
@@ -3525,6 +3528,7 @@ puzzle
 perfect
 puzzles
 pattern
+parity
 vertical
 viv
 vtf
@@ -3857,6 +3861,7 @@ materials
 master
 methods
 method
+message
 font
 ff
 ffc
@@ -4625,6 +4630,7 @@ Has
 Here
 How
 Handling
+Hamming
 Time
 Throughput
 TQ
@@ -5541,6 +5547,7 @@ EtT
 Exception
 Enhanced
 Executor
+Even
 Operations
 OM
 OI
@@ -5689,6 +5696,7 @@ Overlapping
 OgR
 OnH
 Overloading
+Odd
 Bandwidth
 Bus
 Bps
@@ -8676,6 +8684,7 @@ XTW
 XsG
 Xing
 XTuy
+XOR
 xUG
 xexY
 xW
