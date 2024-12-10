@@ -513,6 +513,7 @@ AFII
 AfawU
 AiK
 ALC
+Ababba
 Register
 Response
 RW
@@ -2227,6 +2228,7 @@ LDz
 LPk
 LVA
 LAC
+Lemma
 Unit
 UDM
 UHG
@@ -2724,6 +2726,7 @@ Pvey
 Ppf
 PZT
 PoB
+Pumping
 Counter
 CU
 Control
@@ -3018,6 +3021,7 @@ CSE
 Ckv
 CgX
 CLY
+Congruence
 IR
 Instruction
 IEEE
@@ -5770,6 +5774,8 @@ FVu
 Frt
 FhD
 FwE
+Finite
+FSM
 Hz
 HE
 He
@@ -7720,6 +7726,7 @@ BqD
 BVxx
 BkglhX
 BOt
+Baab
 Java
 Jk
 Jb
@@ -10302,6 +10309,7 @@ KGp
 KYI
 KPZ
 KjT
+Kleene
 hqu
 hF
 hq

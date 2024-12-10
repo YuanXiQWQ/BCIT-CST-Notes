@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt.md",
+                "file": "YuanXi-ColdNotes/Java/329.IO简介.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "329.IO简介"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373
+    "width": 290
   },
   "right": {
     "id": "af0f8e24b6bed7e5",
@@ -176,8 +176,23 @@
   },
   "active": "1cb208be1163c134",
   "lastOpenFiles": [
-    "未命名.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1-基础定义.md",
+    "YuanXi-ColdNotes/Java/329.IO简介.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.5最小生成树.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.2-树.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/查找.4二叉搜索树(BST).md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/查找.5平衡二叉树.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/树.1二叉树遍历.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.1-3-直接插入排序(Interpolation sort).md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.9-简单选择排序(Simple Selection Sort).md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.11-归并排序(Merge Sort).md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/树.2哈夫曼树和哈夫曼编码.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.1图的存储-邻接矩阵.md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.3图的深度优先遍历(DFS).md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.4图的广度优先遍历(BFS).md",
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/有限状态机.md",
     "Prompt.md",
+    "未命名.md",
     "prompt 2.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.6.1※存储系统-页式存储器.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.6.2※存储系统-虚拟存储器.md",
@@ -197,21 +212,6 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208194635.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208194536.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.1※存储系统-主存储器的基本构成.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.2存储系统-SRAM和DRAM.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.4存储系统-双端口RAM和多模块存储器.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.1※错误检测与纠正-汉明码的构建和纠错.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.2※错误检测与纠正-汉明码的纠错能力.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.2※计算机组成基础-硬件的工作原理.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5-6.数字逻辑设计.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.3.1存储系统-(未完成)主存储器与CPU的连接.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.4错误检测与纠正-带符号整数的表示和运算.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.5错误检测与纠正-原反补码的特性对比.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.1错误检测与纠正-计算机数值表示和运算基础.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.6错误检测与纠正-移码（Excess Code）.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.时钟与流水线.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/7.1.1总线与中断-总线概述.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.4※计算机组成基础-计算机的性能指标.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
