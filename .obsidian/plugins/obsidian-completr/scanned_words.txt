@@ -514,6 +514,7 @@ AfawU
 AiK
 ALC
 Ababba
+API
 Register
 Response
 RW
@@ -730,6 +731,7 @@ REY
 RToy
 RAN
 RCv
+Reader
 Data
 DOS
 DH
@@ -1004,6 +1006,8 @@ Dyt
 Del
 DgE
 DDv
+Dest
+DataInputStream
 word
 width
 weight
@@ -2458,6 +2462,7 @@ UgR
 UAst
 UJr
 UEPv
+Unicode
 PC
 Program
 Picosecond
@@ -3317,6 +3322,8 @@ Igf
 Ifo
 IDATQ
 IOzRw
+Information
+InputStream
 table
 thead
 tr
@@ -5776,6 +5783,10 @@ FhD
 FwE
 Finite
 FSM
+FileInputStream
+FileOutputStream
+FileReader
+FileWriter
 Hz
 HE
 He
@@ -6525,6 +6536,8 @@ SLLL
 SKm
 SOH
 Skv
+Source
+Stream
 ns
 nD
 npS
@@ -7468,6 +7481,7 @@ Oeii
 OFE
 OGqby
 Oiu
+OutputStream
 Bandwidth
 Bus
 Bps
@@ -7727,6 +7741,8 @@ BVxx
 BkglhX
 BOt
 Baab
+BufferedInputStream
+BufferedReader
 Java
 Jk
 Jb
@@ -8145,6 +8161,7 @@ WLM
 WpH
 WNKO
 Wac
+Writer
 GB
 GZ
 GU
