@@ -250,6 +250,7 @@ MpWR
 Mb
 MhN
 MqD
+MAX
 Address
 ACC
 Accumulator
@@ -515,6 +516,8 @@ AiK
 ALC
 Ababba
 API
+AnchorPane
+Application
 Register
 Response
 RW
@@ -1488,6 +1491,9 @@ bVn
 bAn
 bfy
 bjk
+button
+borderPane
+badPracticeBox
 Quotient
 Ql
 QGA
@@ -1981,6 +1987,7 @@ aBQ
 agy
 apJ
 akw
+anchorPane
 Logic
 LOAD
 Length
@@ -2233,6 +2240,8 @@ LPk
 LVA
 LAC
 Lemma
+Layouts
+Label
 Unit
 UDM
 UHG
@@ -3027,6 +3036,9 @@ Ckv
 CgX
 CLY
 Congruence
+Containers
+Click
+CSS
 IR
 Instruction
 IEEE
@@ -3324,6 +3336,9 @@ IDATQ
 IOzRw
 Information
 InputStream
+ImageView
+Image
+Insets
 table
 thead
 tr
@@ -3801,6 +3816,28 @@ sgD
 swg
 skx
 svu
+setText
+setPromptText
+scene
+setHgap
+setVgap
+setScene
+setTitle
+setTopAnchor
+setLeftAnchor
+setTop
+setLeft
+setCenter
+setRight
+setBottom
+start
+stage
+sky
+setStyle
+stackPane
+setPrefWidth
+setMaxWidth
+setPadding
 collapse
 center
 colspan
@@ -4110,6 +4147,8 @@ czc
 cMV
 cOh
 cdO
+commentsArea
+comments
 rowspan
 red
 rZ
@@ -4339,6 +4378,7 @@ rly
 rbh
 rlWN
 rß
+root
 px
 padding
 ps
@@ -4592,6 +4632,9 @@ pVr
 pwN
 pni
 pAt
+phoneLabel
+phoneField
+primaryStage
 vertical
 viv
 vtf
@@ -5273,6 +5316,9 @@ fPT
 fAZ
 fvq
 fOR
+fill
+fixedWidthButton
+flexibleWidthButton
 goldenrod
 gCd
 gO
@@ -5516,6 +5562,10 @@ gzmr
 gyC
 gXG
 gqatb
+getText
+getChildren
+goodPracticeBox
+get
 Frequency
 Femtosecond
 FLOPS
@@ -5787,6 +5837,7 @@ FileInputStream
 FileOutputStream
 FileReader
 FileWriter
+FXML
 Hz
 HE
 He
@@ -6049,6 +6100,8 @@ HTt
 HTV
 HuDd
 HQboLo
+HBox
+Horizontal
 Time
 Throughput
 TQ
@@ -6264,6 +6317,8 @@ TmlUY
 TWo
 TJZ
 Tdj
+TextField
+TextArea
 Second
 SXV
 SB
@@ -6538,6 +6593,9 @@ SOH
 Skv
 Source
 Stream
+Scene
+StackPane
+Stage
 ns
 nD
 npS
@@ -6754,6 +6812,8 @@ npV
 nLeO
 nQd
 noW
+nameLabel
+nameField
 Nanosecond
 Nm
 Nd
@@ -7254,6 +7314,7 @@ ERM
 ERAW
 Erb
 EWp
+Enter
 Operations
 OM
 OI
@@ -7743,6 +7804,9 @@ BOt
 Baab
 BufferedInputStream
 BufferedReader
+Box
+Button
+BorderPane
 Java
 Jk
 Jb
@@ -7972,6 +8036,7 @@ JYj
 Jni
 JkH
 JUB
+JavvaFX
 Word
 Windows
 WB
@@ -8406,6 +8471,7 @@ GNy
 GBQ
 GBn
 GLIG
+GridPane
 Zx
 ZY
 Zt
@@ -9203,6 +9269,10 @@ Vrf
 Vxp
 Vbg
 VGI
+VBox
+Vertical
+Vbox
+VALUE
 jtJ
 jl
 jb
@@ -9390,6 +9460,7 @@ jgI
 jGC
 jzJh
 jKjt
+jpg
 dA
 df
 dM
@@ -10097,6 +10168,8 @@ eYB
 eqs
 eKo
 ejM
+emailLabel
+emailField
 KQ
 Kj
 Kq
@@ -10749,6 +10822,7 @@ lFX
 ljV
 lzIaq
 lAut
+layout
 ukE
 uF
 ue
@@ -11412,6 +11486,7 @@ XPb
 Xqf
 XwW
 Xsb
+XML
 xUG
 xexY
 xW
@@ -11875,6 +11950,7 @@ iSc
 ivb
 iWb
 iXa
+imageView
 zO
 zU
 zy
@@ -12251,6 +12327,7 @@ oso
 oLrM
 oaee
 obatrIw
+overlayText
 äL
 äI
 äM
