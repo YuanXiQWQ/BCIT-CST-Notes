@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.1CPU-功能与基本结构.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.2CPU-指令周期的数据流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1CPU-功能与基本结构"
+              "title": "5.2CPU-指令周期的数据流"
             }
           }
         ]
@@ -176,11 +176,12 @@
   },
   "active": "1cb208be1163c134",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.1CPU-功能与基本结构.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.2CPU-指令周期的数据流.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025717.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025552.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025509.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211023731.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.1CPU-功能与基本结构.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211024006.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211023019.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022920.png",
@@ -211,7 +212,6 @@
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.5-线程 (Thread).md",
     "YuanXi-ColdNotes/Java/337.Scanner类.md",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241210054518.png",
-    "YuanXi-ColdNotes/Java/imgs/Pasted image 20241210051451.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
