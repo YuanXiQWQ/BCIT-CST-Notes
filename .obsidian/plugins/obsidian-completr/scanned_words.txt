@@ -252,6 +252,7 @@ MhN
 MqD
 MAX
 MROM
+MGw
 Address
 ACC
 Accumulator
@@ -519,6 +520,8 @@ Ababba
 API
 AnchorPane
 Application
+Alc
+Axq
 Register
 Response
 RW
@@ -738,6 +741,7 @@ RCv
 Reader
 Read
 Rays
+Rgr
 Data
 DOS
 DH
@@ -1015,6 +1019,7 @@ DDv
 Dest
 DataInputStream
 Drives
+Dhb
 word
 width
 weight
@@ -1235,6 +1240,8 @@ wLd
 wmVP
 wur
 wfn
+wWl
+wWz
 bit
 border
 black
@@ -1498,6 +1505,7 @@ bjk
 button
 borderPane
 badPracticeBox
+bBD
 Quotient
 Ql
 QGA
@@ -2246,6 +2254,8 @@ LAC
 Lemma
 Layouts
 Label
+LrJ
+LUdX
 Unit
 UDM
 UHG
@@ -2749,6 +2759,8 @@ PoB
 Pumping
 PROM
 Programmable
+Pxe
+PTn
 Counter
 CU
 Control
@@ -3047,6 +3059,9 @@ Congruence
 Containers
 Click
 CSS
+CfTE
+CjF
+CKV
 IR
 Instruction
 IEEE
@@ -3347,6 +3362,12 @@ InputStream
 ImageView
 Image
 Insets
+IdjA
+IDATX
+IMMU
+INm
+ILIE
+ITB
 table
 thead
 tr
@@ -3563,6 +3584,7 @@ tDm
 tTW
 tyb
 tMq
+tlqq
 style
 solid
 sT
@@ -3847,6 +3869,8 @@ setPrefWidth
 setMaxWidth
 setPadding
 sorted
+stM
+sWE
 collapse
 center
 colspan
@@ -4158,6 +4182,8 @@ cOh
 cdO
 commentsArea
 comments
+cFr
+cBD
 rowspan
 red
 rZ
@@ -4389,6 +4415,9 @@ rlWN
 rß
 root
 rap
+rMv
+rmN
+raM
 px
 padding
 ps
@@ -4645,6 +4674,8 @@ pAt
 phoneLabel
 phoneField
 primaryStage
+pje
+pix
 vertical
 viv
 vtf
@@ -4854,6 +4885,8 @@ vOy
 vuj
 vQf
 vnOI
+vXw
+vAx
 middle
 ms
 my
@@ -5078,6 +5111,8 @@ mQLf
 maDn
 mur
 map
+mNz
+mKWx
 font
 ff
 ffc
@@ -5331,6 +5366,8 @@ fill
 fixedWidthButton
 flexibleWidthButton
 filter
+fNzRI
+fpol
 goldenrod
 gCd
 gO
@@ -5578,6 +5615,9 @@ getText
 getChildren
 goodPracticeBox
 get
+gBOfBgN
+gWj
+gMZ
 Frequency
 Femtosecond
 FLOPS
@@ -5851,6 +5891,7 @@ FileReader
 FileWriter
 FXML
 Flash
+Frs
 Hz
 HE
 He
@@ -6115,6 +6156,8 @@ HuDd
 HQboLo
 HBox
 Horizontal
+HHNW
+HKI
 Time
 Throughput
 TQ
@@ -6332,6 +6375,8 @@ TJZ
 Tdj
 TextField
 TextArea
+TkgN
+Trr
 Second
 SXV
 SB
@@ -6610,6 +6655,9 @@ Scene
 StackPane
 Stage
 Solid
+SCkS
+SduT
+SOf
 ns
 nD
 npS
@@ -6828,6 +6876,7 @@ nQd
 noW
 nameLabel
 nameField
+nlv
 Nanosecond
 Nm
 Nd
@@ -7066,6 +7115,8 @@ NlU
 Nlx
 NRY
 Nlv
+NkB
+NSM
 ENIAC
 EUN
 ED
@@ -7333,6 +7384,9 @@ EPROM
 Erasable
 EEPROM
 Electrcally
+EQe
+EVe
+EQI
 Operations
 OM
 OI
@@ -7562,6 +7616,9 @@ OGqby
 Oiu
 OutputStream
 Only
+OxBq
+OEC
+Okv
 Bandwidth
 Bus
 Bps
@@ -7828,6 +7885,7 @@ Button
 BorderPane
 BIOS
 Basic
+Brj
 Java
 Jk
 Jb
@@ -8058,6 +8116,9 @@ Jni
 JkH
 JUB
 JavvaFX
+JNd
+JCTn
+JWl
 Word
 Windows
 WB
@@ -8248,6 +8309,10 @@ WpH
 WNKO
 Wac
 Writer
+Wxb
+WVm
+WdHd
+Wpr
 GB
 GZ
 GU
@@ -8493,6 +8558,7 @@ GBQ
 GBn
 GLIG
 GridPane
+Ggc
 Zx
 ZY
 Zt
@@ -8903,6 +8969,7 @@ Yoc
 YXs
 Ykx
 YNFi
+YLe
 kS
 kH
 krS
@@ -9104,6 +9171,8 @@ kXs
 kbs
 knY
 kVBs
+kmP
+kCv
 Vm
 Vq
 Vw
@@ -9294,6 +9363,9 @@ VBox
 Vertical
 Vbox
 VALUE
+VeD
+VSO
+VXL
 jtJ
 jl
 jb
@@ -9482,6 +9554,8 @@ jGC
 jzJh
 jKjt
 jpg
+jxf
+jBbn
 dA
 df
 dM
@@ -9727,6 +9801,7 @@ dNWNf
 dzw
 dpAkp
 dLeL
+dXch
 yr
 yC
 yq
@@ -9959,6 +10034,9 @@ ylJU
 yZX
 yHhV
 yjj
+yse
+yBm
+ydu
 eY
 eQ
 ee
@@ -10191,6 +10269,8 @@ eKo
 ejM
 emailLabel
 emailField
+eBmn
+eJP
 KQ
 Kj
 Kq
@@ -10421,6 +10501,9 @@ KYI
 KPZ
 KjT
 Kleene
+KVH
+KspX
+KVP
 hqu
 hF
 hq
@@ -10655,6 +10738,8 @@ hrR
 hrn
 hjO
 hbB
+harfX
+hsw
 lW
 lQ
 ld
@@ -10844,6 +10929,7 @@ ljV
 lzIaq
 lAut
 layout
+lqG
 ukE
 uF
 ue
@@ -11085,6 +11171,7 @@ uzz
 uVi
 uYk
 uBb
+uNx
 qvl
 qf
 qZ
@@ -11277,6 +11364,7 @@ qnW
 qUl
 qzv
 qMK
+qcU
 XQ
 XM
 Xv
@@ -11508,6 +11596,7 @@ Xqf
 XwW
 Xsb
 XML
+Xel
 xUG
 xexY
 xW
@@ -11735,6 +11824,11 @@ xsG
 xYf
 xtb
 xjj
+xaM
+xbq
+xRF
+xJJI
+xrf
 iN
 is
 iq
@@ -12150,6 +12244,9 @@ zQi
 zYBe
 zotJY
 zik
+zjV
+zaK
+zFb
 oQ
 oW
 oh
@@ -12349,6 +12446,8 @@ oLrM
 oaee
 obatrIw
 overlayText
+oshM
+opC
 äL
 äI
 äM

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.时钟与流水线.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.1CPU-功能与基本结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.时钟与流水线"
+              "title": "5.1CPU-功能与基本结构"
             }
           }
         ]
@@ -176,7 +176,17 @@
   },
   "active": "1cb208be1163c134",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5-6.数字逻辑设计.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025717.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025552.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025509.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211023731.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.1CPU-功能与基本结构.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211024006.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211023019.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022920.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022444.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022255.png",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.数字逻辑设计.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/7.1.1总线与中断-总线概述.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/8.微指令与微程序设计.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.1存储系统-Cache的基本概念和原理.md",
@@ -200,18 +210,8 @@
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.6-样式表.md",
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.5-线程 (Thread).md",
     "YuanXi-ColdNotes/Java/337.Scanner类.md",
-    "YuanXi-ColdNotes/Java/337.Random类.md",
-    "YuanXi-ColdNotes/Java/329.IO简介.md",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241210054518.png",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241210051451.png",
-    "YuanXi-ColdNotes/Java/imgs/Pasted image 20241210051141.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208201342.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208200958.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208200540.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208200425.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208195726.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208195417.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208194923.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
