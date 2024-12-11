@@ -251,6 +251,7 @@ Mb
 MhN
 MqD
 MAX
+MROM
 Address
 ACC
 Accumulator
@@ -735,6 +736,8 @@ RToy
 RAN
 RCv
 Reader
+Read
+Rays
 Data
 DOS
 DH
@@ -1011,6 +1014,7 @@ DgE
 DDv
 Dest
 DataInputStream
+Drives
 word
 width
 weight
@@ -2472,6 +2476,8 @@ UAst
 UJr
 UEPv
 Unicode
+UVEPROM
+Ultraviolet
 PC
 Program
 Picosecond
@@ -2741,6 +2747,8 @@ Ppf
 PZT
 PoB
 Pumping
+PROM
+Programmable
 Counter
 CU
 Control
@@ -3838,6 +3846,7 @@ stackPane
 setPrefWidth
 setMaxWidth
 setPadding
+sorted
 collapse
 center
 colspan
@@ -4379,6 +4388,7 @@ rbh
 rlWN
 rß
 root
+rap
 px
 padding
 ps
@@ -5067,6 +5077,7 @@ mJh
 mQLf
 maDn
 mur
+map
 font
 ff
 ffc
@@ -5319,6 +5330,7 @@ fOR
 fill
 fixedWidthButton
 flexibleWidthButton
+filter
 goldenrod
 gCd
 gO
@@ -5838,6 +5850,7 @@ FileOutputStream
 FileReader
 FileWriter
 FXML
+Flash
 Hz
 HE
 He
@@ -6596,6 +6609,7 @@ Stream
 Scene
 StackPane
 Stage
+Solid
 ns
 nD
 npS
@@ -7315,6 +7329,10 @@ ERAW
 Erb
 EWp
 Enter
+EPROM
+Erasable
+EEPROM
+Electrcally
 Operations
 OM
 OI
@@ -7543,6 +7561,7 @@ OFE
 OGqby
 Oiu
 OutputStream
+Only
 Bandwidth
 Bus
 Bps
@@ -7807,6 +7826,8 @@ BufferedReader
 Box
 Button
 BorderPane
+BIOS
+Basic
 Java
 Jk
 Jb

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Java/设计模式/2.创建型模式.1-单例模式(Singleton Pattern).md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.时钟与流水线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.创建型模式.1-单例模式(Singleton Pattern)"
+              "title": "2.时钟与流水线"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 362
   },
   "right": {
     "id": "af0f8e24b6bed7e5",
@@ -176,35 +176,35 @@
   },
   "active": "1cb208be1163c134",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5-6.数字逻辑设计.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/7.1.1总线与中断-总线概述.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/8.微指令与微程序设计.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.1存储系统-Cache的基本概念和原理.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.1※存储系统-主存储器的基本构成.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.1存储系统-基本概念.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.0.1存储系统-数据的存储和排列.md",
+    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.4-事件 (Events).md",
+    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.2-概述.md",
+    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.1-配置.md",
+    "YuanXi-ColdNotes/Java/设计模式/2.创建型模式.1-单例模式(Singleton Pattern).md",
+    "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.6-适配器模式(Adapter Pattern).md",
+    "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.14-命令模式(Command Pattern).md",
+    "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.9-装饰器模式(Decorator Pattern).md",
+    "YuanXi-ColdNotes/Java/337.Streaming 和 Filtering.md",
+    "YuanXi-ColdNotes/Java/332.Java IO流.md",
+    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.3-布局 (Layouts).md",
+    "YuanXi-ColdNotes/Java/337.Path类.md",
+    "YuanXi-ColdNotes/Java/设计模式/2.创建型模式2.2-抽象工厂模式(Abstract Factory Pattern).md",
+    "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.19-观察者模式(Observer Pattern).md",
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.6-样式表.md",
     "YuanXi-ColdNotes/Java/JavaFX/JavaFX.5-线程 (Thread).md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.4-事件 (Events).md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.3-布局 (Layouts).md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.2-概述.md",
-    "YuanXi-ColdNotes/Java/337.Streaming 和 Filtering.md",
     "YuanXi-ColdNotes/Java/337.Scanner类.md",
     "YuanXi-ColdNotes/Java/337.Random类.md",
-    "YuanXi-ColdNotes/Java/332.Java IO流.md",
     "YuanXi-ColdNotes/Java/329.IO简介.md",
-    "YuanXi-ColdNotes/Java/337.Path类.md",
-    "YuanXi-ColdNotes/Java/337.File类.md",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241210054518.png",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241210051451.png",
     "YuanXi-ColdNotes/Java/imgs/Pasted image 20241210051141.png",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.1-基础定义.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.5最小生成树.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图论.2-树.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/查找.4二叉搜索树(BST).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/查找.5平衡二叉树.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/树.1二叉树遍历.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.1-3-直接插入排序(Interpolation sort).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.9-简单选择排序(Simple Selection Sort).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/排序.11-归并排序(Merge Sort).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/树.2哈夫曼树和哈夫曼编码.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.1图的存储-邻接矩阵.md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.3图的深度优先遍历(DFS).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/图.4图的广度优先遍历(BFS).md",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/有限状态机.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208201342.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208200958.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241208200540.png",
