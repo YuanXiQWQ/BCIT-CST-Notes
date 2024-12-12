@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/C/58.栈和队列.md",
+                "file": "YuanXi-ColdNotes/C/泛型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "58.栈和队列"
+              "title": "泛型"
             }
           }
         ]
@@ -176,8 +176,12 @@
   },
   "active": "1cb208be1163c134",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/C/34.typedef关键字.md",
+    "YuanXi-ColdNotes/C/函数指针.md",
+    "YuanXi-ColdNotes/C/泛型.md",
     "YuanXi-ColdNotes/C/58.栈和队列.md",
+    "YuanXi-ColdNotes/C/imgs/循环队列.gif",
+    "YuanXi-ColdNotes/C/imgs",
+    "YuanXi-ColdNotes/C/34.typedef关键字.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.1存储系统-Cache的基本概念和原理.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.2※存储系统-Cache和主存的映射方式.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.3.数据通路-单总线结构.md",
@@ -198,7 +202,6 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211023019.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022920.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022444.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022255.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.数字逻辑设计.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.1※存储系统-主存储器的基本构成.md",
@@ -210,8 +213,6 @@
     "YuanXi-ColdNotes/Java/设计模式/2.创建型模式.1-单例模式(Singleton Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.6-适配器模式(Adapter Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.14-命令模式(Command Pattern).md",
-    "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.9-装饰器模式(Decorator Pattern).md",
-    "YuanXi-ColdNotes/Java/337.Streaming 和 Filtering.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
@@ -220,7 +221,6 @@
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论",
     "YuanXi-ColdNotes/Mathematics",
-    "YuanXi-ColdNotes/Java/设计模式/imgs",
-    "YuanXi-ColdNotes/Java/设计模式"
+    "YuanXi-ColdNotes/Java/设计模式/imgs"
   ]
 }
