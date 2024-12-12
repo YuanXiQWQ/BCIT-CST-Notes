@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.2CPU-指令周期的数据流.md",
+                "file": "YuanXi-ColdNotes/C/58.栈和队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2CPU-指令周期的数据流"
+              "title": "58.栈和队列"
             }
           }
         ]
@@ -176,8 +176,20 @@
   },
   "active": "1cb208be1163c134",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/C/34.typedef关键字.md",
+    "YuanXi-ColdNotes/C/58.栈和队列.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.1存储系统-Cache的基本概念和原理.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.2※存储系统-Cache和主存的映射方式.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.3.数据通路-单总线结构.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.1CPU-功能与基本结构.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.2CPU-指令周期的数据流.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/8.微指令与微程序设计.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/7.1.1总线与中断-总线概述.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.4※计算机组成基础-计算机的性能指标.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.3计算机组成基础-计算机系统的层次结构.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.2※计算机组成基础-硬件的工作原理.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.1计算机组成基础-硬件的基本组成.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211031759.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025717.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025552.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025509.png",
@@ -188,9 +200,6 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022444.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022255.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.数字逻辑设计.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/7.1.1总线与中断-总线概述.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/8.微指令与微程序设计.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.1存储系统-Cache的基本概念和原理.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.1※存储系统-主存储器的基本构成.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.1存储系统-基本概念.md",
@@ -203,15 +212,6 @@
     "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.14-命令模式(Command Pattern).md",
     "YuanXi-ColdNotes/Java/设计模式/3.结构型模式.9-装饰器模式(Decorator Pattern).md",
     "YuanXi-ColdNotes/Java/337.Streaming 和 Filtering.md",
-    "YuanXi-ColdNotes/Java/332.Java IO流.md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.3-布局 (Layouts).md",
-    "YuanXi-ColdNotes/Java/337.Path类.md",
-    "YuanXi-ColdNotes/Java/设计模式/2.创建型模式2.2-抽象工厂模式(Abstract Factory Pattern).md",
-    "YuanXi-ColdNotes/Java/设计模式/4.行为型模式.19-观察者模式(Observer Pattern).md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.6-样式表.md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.5-线程 (Thread).md",
-    "YuanXi-ColdNotes/Java/337.Scanner类.md",
-    "YuanXi-ColdNotes/Java/imgs/Pasted image 20241210054518.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
