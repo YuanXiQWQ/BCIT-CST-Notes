@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/C/链表.md",
+                "file": "prompt 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "链表"
+              "title": "prompt 2"
+            }
+          },
+          {
+            "id": "44108ecbefe1fd76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025.5.2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -174,28 +190,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1cb208be1163c134",
+  "active": "44108ecbefe1fd76",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/C/搜索算法.md",
-    "YuanXi-ColdNotes/C/链表.md",
-    "YuanXi-ColdNotes/C/错误处理.md",
-    "YuanXi-ColdNotes/C/泛型.md",
-    "YuanXi-ColdNotes/C/函数指针.md",
-    "YuanXi-ColdNotes/C/58.栈和队列.md",
-    "YuanXi-ColdNotes/C/imgs/循环队列.gif",
-    "YuanXi-ColdNotes/C/imgs",
-    "YuanXi-ColdNotes/C/34.typedef关键字.md",
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.2.md",
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记",
+    "prompt 2.md",
+    "未命名.md",
+    "未命名",
+    "Prompt.md",
+    "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
+    "YuanXi-ColdNotes/Database/28.※数据库设计-ER模型.md",
+    "YuanXi-ColdNotes/Database/29.※数据库设计-ER模型转换关系模型.md",
+    "文字・語彙.md",
+    "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
+    "YuanXi-ColdNotes/Database/14.关系代数-运算符优先级.md",
+    "YuanXi-ColdNotes/Database/16.SQL-概述.md",
+    "YuanXi-ColdNotes/Database/17.※SQL-数据定义语言DDL.md",
+    "YuanXi-ColdNotes/Database/18.SQL-查询.md",
+    "YuanXi-ColdNotes/Database/数据库范式-概述.md",
+    "YuanXi-ColdNotes/Database/数据库范式-范式.md",
+    "YuanXi-ColdNotes/Database/数据库范式-函数依赖.md",
+    "YuanXi-ColdNotes/Database/高级数据查询.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.1※存储系统-主存储器的基本构成.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.2存储系统-SRAM和DRAM.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.4存储系统-双端口RAM和多模块存储器.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.3.1存储系统-(未完成)主存储器与CPU的连接.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.1存储系统-Cache的基本概念和原理.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.2※存储系统-Cache和主存的映射方式.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.3.数据通路-单总线结构.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.1CPU-功能与基本结构.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/5.2CPU-指令周期的数据流.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/8.微指令与微程序设计.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/7.1.1总线与中断-总线概述.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.4※计算机组成基础-计算机的性能指标.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.3计算机组成基础-计算机系统的层次结构.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.2※计算机组成基础-硬件的工作原理.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/1.2.1计算机组成基础-硬件的基本组成.md",
+    "YuanXi-ColdNotes/C/57.※指针与动态内存分配.md",
+    "YuanXi-ColdNotes/C/55.※文件操作.md",
+    "YuanXi-ColdNotes/C/imgs/循环队列.gif",
+    "YuanXi-ColdNotes/C/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211031759.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025717.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025552.png",
@@ -205,22 +231,12 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211023019.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022920.png",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022444.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/2.数字逻辑设计.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.1※存储系统-主存储器的基本构成.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.1存储系统-基本概念.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.0.1存储系统-数据的存储和排列.md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.4-事件 (Events).md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.2-概述.md",
-    "YuanXi-ColdNotes/Java/JavaFX/JavaFX.1-配置.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/imgs",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/img",
     "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论",
-    "YuanXi-ColdNotes/Mathematics",
-    "YuanXi-ColdNotes/Java/设计模式/imgs"
+    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论"
   ]
 }
