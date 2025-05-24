@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.23 错误纠正码.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.23 ECC 错误纠正码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025.5.23 错误纠正码"
+              "title": "2025.5.23 ECC 错误纠正码"
             }
           }
         ]
@@ -177,7 +177,8 @@
   },
   "active": "27fc17ccee41cfac",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.23 错误纠正码.md",
+    "LICENSE",
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.23 ECC 错误纠正码.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.2 计算机语言层级.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记",
     "prompt 2.md",
@@ -204,7 +205,6 @@
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.3.1存储系统-(未完成)主存储器与CPU的连接.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.1存储系统-Cache的基本概念和原理.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.2※存储系统-Cache和主存的映射方式.md",
-    "YuanXi-ColdNotes/C/57.※指针与动态内存分配.md",
     "YuanXi-ColdNotes/C/imgs/循环队列.gif",
     "YuanXi-ColdNotes/C/imgs",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211031759.png",
