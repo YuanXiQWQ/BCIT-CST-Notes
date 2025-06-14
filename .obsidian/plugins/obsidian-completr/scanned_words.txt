@@ -1047,6 +1047,7 @@ Database
 DBD
 DBA
 DBMS
+Dataword
 word
 width
 weight
@@ -3115,6 +3116,7 @@ Ccredit
 COUNT
 Condition
 Cartesian
+Codeword
 IR
 Instruction
 IEEE
@@ -4252,6 +4254,7 @@ comments
 cFr
 cBD
 char
+codeword
 rowspan
 red
 rZ
@@ -9924,6 +9927,7 @@ dLeL
 dXch
 decimal
 datetime
+dataword
 yr
 yC
 yq

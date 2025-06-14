@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "ef0638192e34a2ba",
+    "id": "e66a8e92c692eace",
     "type": "split",
     "children": [
       {
-        "id": "cff4a991bc53ede4",
+        "id": "dfd28f221656733d",
         "type": "tabs",
         "children": [
           {
-            "id": "27fc17ccee41cfac",
+            "id": "e1481814d1d04e78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f9a7f2211c132d41",
+    "id": "efb5c00151907af6",
     "type": "split",
     "children": [
       {
-        "id": "99cfd5ad66276e77",
+        "id": "3e4830382779447e",
         "type": "tabs",
         "children": [
           {
-            "id": "1eaf05b002fd5058",
+            "id": "eaf0b3edccd330ff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "06310d2e39d83d04",
+            "id": "b5e1c2e951852ff7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "27a5516446a00d2c",
+            "id": "8bebd2096383979f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362
+    "width": 300
   },
   "right": {
-    "id": "af0f8e24b6bed7e5",
+    "id": "f9bd2541f0dbfca2",
     "type": "split",
     "children": [
       {
-        "id": "28d5744ed279720e",
+        "id": "9458127e67ff7eb9",
         "type": "tabs",
         "children": [
           {
-            "id": "747a8106d58a6f6b",
+            "id": "e3a6f6b6a0cd0a67",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YuanXi-ColdNotes/Discrete Mathematics/※排列组合.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.23 ECC 错误纠正码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,60 +104,54 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "※排列组合 的反向链接列表"
+              "title": "2025.5.23 ECC 错误纠正码 的反向链接列表"
             }
           },
           {
-            "id": "4f3fa2650f0f7609",
+            "id": "1b2d35330400913c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YuanXi-ColdNotes/Discrete Mathematics/※排列组合.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.23 ECC 错误纠正码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "※排列组合 的出链列表"
+              "title": "2025.5.23 ECC 错误纠正码 的出链列表"
             }
           },
           {
-            "id": "db4d219a13b1c107",
+            "id": "914f591d5b3436e2",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
           },
           {
-            "id": "80e5ff828536ee05",
+            "id": "8089352193a079c8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "YuanXi-ColdNotes/Discrete Mathematics/※排列组合.md"
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.23 ECC 错误纠正码.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "※排列组合 的大纲"
-            }
-          },
-          {
-            "id": "71820b2949661824",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "2025.5.23 ECC 错误纠正码 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,62 +160,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27fc17ccee41cfac",
+  "active": "e1481814d1d04e78",
   "lastOpenFiles": [
-    "LICENSE",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.6错误检测与纠正-移码（Excess Code）.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.0错误检测与纠正-奇偶校验码.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.2※错误检测与纠正-汉明码的纠错能力.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.1※错误检测与纠正-汉明码的构建和纠错.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.3错误检测与纠正-无符号整数的表示和运算.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.2错误检测与纠正-BCD码.md",
+    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.1错误检测与纠正-计算机数值表示和运算基础.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.23 ECC 错误纠正码.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.2 计算机语言层级.md",
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记",
-    "prompt 2.md",
-    "未命名.md",
-    "未命名",
-    "Prompt.md",
-    "YuanXi-ColdNotes/Database/30.※数据库设计-UML模型.md",
-    "YuanXi-ColdNotes/Database/28.※数据库设计-ER模型.md",
-    "YuanXi-ColdNotes/Database/29.※数据库设计-ER模型转换关系模型.md",
-    "文字・語彙.md",
-    "YuanXi-ColdNotes/Database/27.数据库设计-数据库设计步骤.md",
-    "YuanXi-ColdNotes/Database/14.关系代数-运算符优先级.md",
-    "YuanXi-ColdNotes/Database/16.SQL-概述.md",
-    "YuanXi-ColdNotes/Database/17.※SQL-数据定义语言DDL.md",
-    "YuanXi-ColdNotes/Database/18.SQL-查询.md",
-    "YuanXi-ColdNotes/Database/数据库范式-概述.md",
-    "YuanXi-ColdNotes/Database/数据库范式-范式.md",
-    "YuanXi-ColdNotes/Database/数据库范式-函数依赖.md",
-    "YuanXi-ColdNotes/Database/高级数据查询.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.1※存储系统-主存储器的基本构成.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.2存储系统-SRAM和DRAM.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.3存储系统-ROM.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.2.4存储系统-双端口RAM和多模块存储器.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.3.1存储系统-(未完成)主存储器与CPU的连接.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.1存储系统-Cache的基本概念和原理.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.2※存储系统-Cache和主存的映射方式.md",
-    "YuanXi-ColdNotes/C/imgs/循环队列.gif",
-    "YuanXi-ColdNotes/C/imgs",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211031759.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025717.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025552.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211025509.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211023731.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211024006.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211023019.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022920.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs/Pasted image 20241211022444.png",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/imgs",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论/imgs",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/imgs",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/img",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论/图论",
-    "YuanXi-ColdNotes/Mathematics/Discrete Mathematics/集合论"
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.9 流水线（Pipeline）.md"
   ]
 }
