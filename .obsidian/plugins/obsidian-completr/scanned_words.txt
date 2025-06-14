@@ -255,6 +255,9 @@ MROM
 MGw
 Mapped
 MIN
+MAT
+Mean
+Miss
 Address
 ACC
 Accumulator
@@ -753,6 +756,8 @@ Rays
 Rgr
 REVOKE
 REFERENCES
+Rotational
+RPM
 Data
 DOS
 DH
@@ -1048,6 +1053,7 @@ DBD
 DBA
 DBMS
 Dataword
+Disk
 word
 width
 weight
@@ -2290,6 +2296,7 @@ LUdX
 Linked
 Linear
 LIKE
+Latency
 Unit
 UDM
 UHG
@@ -3117,6 +3124,7 @@ COUNT
 Condition
 Cartesian
 Codeword
+Cylinder
 IR
 Instruction
 IEEE
@@ -3648,6 +3656,7 @@ tMq
 tlqq
 typedef
 tinyint
+track
 style
 solid
 sT
@@ -3940,6 +3949,7 @@ sgender
 sdept
 sbirth
 smallint
+sector
 collapse
 center
 colspan
@@ -6238,6 +6248,8 @@ Horizontal
 HHNW
 HKI
 HAVING
+Hit
+Har
 Time
 Throughput
 TQ
@@ -6463,6 +6475,7 @@ Table
 TABLE
 Types
 TIME
+Track
 Second
 SXV
 SB
@@ -6756,6 +6769,8 @@ Sage
 Sdept
 SUM
 StudentCount
+Sector
+Seek
 ns
 nD
 npS
