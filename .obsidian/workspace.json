@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "e66a8e92c692eace",
+    "id": "83612ea6b1ce9a00",
     "type": "split",
     "children": [
       {
-        "id": "dfd28f221656733d",
+        "id": "119366a2a7e5b300",
         "type": "tabs",
         "children": [
           {
-            "id": "e1481814d1d04e78",
+            "id": "050f207012708cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.30 存储系统.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.6.20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025.5.30 存储系统"
+              "title": "2025.6.20"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "efb5c00151907af6",
+    "id": "07b468939145b9e6",
     "type": "split",
     "children": [
       {
-        "id": "3e4830382779447e",
+        "id": "b4f0261abe46fe95",
         "type": "tabs",
         "children": [
           {
-            "id": "eaf0b3edccd330ff",
+            "id": "f47a5cc966c9d183",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "b5e1c2e951852ff7",
+            "id": "09baed3f7f8b2915",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8bebd2096383979f",
+            "id": "c27f5161646bc4f0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "f9bd2541f0dbfca2",
+    "id": "464af7bf05405e75",
     "type": "split",
     "children": [
       {
-        "id": "9458127e67ff7eb9",
+        "id": "551210a37fef2058",
         "type": "tabs",
         "children": [
           {
-            "id": "e3a6f6b6a0cd0a67",
+            "id": "bb735f751564ae4e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.30 存储系统.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.6.20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025.5.30 存储系统 的反向链接列表"
+              "title": "2025.6.20 的反向链接列表"
             }
           },
           {
-            "id": "1b2d35330400913c",
+            "id": "9db1ffd04f1322ee",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.30 存储系统.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.6.20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025.5.30 存储系统 的出链列表"
+              "title": "2025.6.20 的出链列表"
             }
           },
           {
-            "id": "914f591d5b3436e2",
+            "id": "ed178d46a05059a2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,18 +137,18 @@
             }
           },
           {
-            "id": "8089352193a079c8",
+            "id": "f8eef50f2f00201b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.30 存储系统.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.6.20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025.5.30 存储系统 的大纲"
+              "title": "2025.6.20 的大纲"
             }
           }
         ]
@@ -170,18 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1481814d1d04e78",
+  "active": "050f207012708cfe",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.23 ECC 错误纠正码.md",
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.9 流水线（Pipeline）.md",
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.2 计算机语言层级.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.5.30 存储系统.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.6错误检测与纠正-移码（Excess Code）.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.0错误检测与纠正-奇偶校验码.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.2※错误检测与纠正-汉明码的纠错能力.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.2.1※错误检测与纠正-汉明码的构建和纠错.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.3错误检测与纠正-无符号整数的表示和运算.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.2错误检测与纠正-BCD码.md",
-    "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/3.1.1错误检测与纠正-计算机数值表示和运算基础.md"
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.6.20.md"
   ]
 }
