@@ -258,6 +258,7 @@ MIN
 MAT
 Mean
 Miss
+MHz
 Address
 ACC
 Accumulator
@@ -534,6 +535,7 @@ Alter
 AVG
 AND
 ASC
+ADDRESS
 Register
 Response
 RW
@@ -758,6 +760,7 @@ REVOKE
 REFERENCES
 Rotational
 RPM
+Request
 Data
 DOS
 DH
@@ -1054,6 +1057,7 @@ DBA
 DBMS
 Dataword
 Disk
+DATA
 word
 width
 weight
@@ -6476,6 +6480,8 @@ TABLE
 Types
 TIME
 Track
+THz
+Timing
 Second
 SXV
 SB
@@ -6771,6 +6777,8 @@ SUM
 StudentCount
 Sector
 Seek
+Synchronized
+Synchronize
 ns
 nD
 npS
@@ -8693,6 +8701,7 @@ Ggc
 GRANT
 Grade
 GROUP
+GHz
 Zx
 ZY
 Zt
@@ -9309,6 +9318,7 @@ knY
 kVBs
 kmP
 kCv
+kHz
 Vm
 Vq
 Vw
