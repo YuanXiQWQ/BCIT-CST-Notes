@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.07.04 内存寻址.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.07.04 内存结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025.07.04 内存寻址"
+              "title": "2025.07.04 内存结构"
             }
           }
         ]
@@ -176,7 +176,7 @@
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.05.23 ECC 错误纠正码.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.05.30 存储系统.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.06.20 同步总线读取时序分析.md",
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.07.04 内存寻址.md",
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.07.04 内存结构.md",
     "YuanXi-ColdNotes/Computer Organisation/汇编语言入门/2. add, sun, lw, sw.md",
     "YuanXi-ColdNotes/Computer Organisation/汇编语言入门/3. 分支，跳转指令.md",
     "YuanXi-ColdNotes/Computer Organisation/汇编语言入门/4. 位移，逻辑运算.md",
