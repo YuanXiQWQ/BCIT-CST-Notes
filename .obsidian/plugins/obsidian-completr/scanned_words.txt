@@ -259,6 +259,7 @@ MAT
 Mean
 Miss
 MHz
+MOV
 Address
 ACC
 Accumulator
@@ -761,6 +762,7 @@ REFERENCES
 Rotational
 RPM
 Request
+RAX
 Data
 DOS
 DH
@@ -1058,6 +1060,7 @@ DBMS
 Dataword
 Disk
 DATA
+DEBUG
 word
 width
 weight
@@ -1280,6 +1283,7 @@ wur
 wfn
 wWl
 wWz
+words
 bit
 border
 black
@@ -1545,6 +1549,7 @@ borderPane
 badPracticeBox
 bBD
 bigint
+byte
 Quotient
 Ql
 QGA
@@ -2301,6 +2306,7 @@ Linked
 Linear
 LIKE
 Latency
+LINE
 Unit
 UDM
 UHG
@@ -2814,6 +2820,8 @@ PTn
 PSW
 PRIMARY
 Point
+PUSH
+Pointer
 Counter
 CU
 Control
@@ -3441,6 +3449,7 @@ Index
 INDEX
 Integer
 Intersection
+Intel
 table
 thead
 tr
@@ -3954,6 +3963,7 @@ sdept
 sbirth
 smallint
 sector
+shift
 collapse
 center
 colspan
@@ -4269,6 +4279,8 @@ cFr
 cBD
 char
 codeword
+cell
+core
 rowspan
 red
 rZ
@@ -4504,6 +4516,7 @@ rMv
 rmN
 raM
 real
+rotate
 px
 padding
 ps
@@ -5201,6 +5214,7 @@ mur
 map
 mNz
 mKWx
+mapped
 font
 ff
 ffc
@@ -5985,6 +5999,7 @@ Frs
 FuncPtr
 FOREIGN
 FROM
+Flags
 Hz
 HE
 He
@@ -6254,6 +6269,7 @@ HKI
 HAVING
 Hit
 Har
+Hex
 Time
 Throughput
 TQ
@@ -6482,6 +6498,9 @@ TIME
 Track
 THz
 Timing
+TAG
+Tag
+Text
 Second
 SXV
 SB
@@ -6779,6 +6798,7 @@ Sector
 Seek
 Synchronized
 Synchronize
+Segment
 ns
 nD
 npS
@@ -7519,6 +7539,15 @@ EKNF
 ETNF
 External
 Exact
+Extra
+EAX
+ECX
+EDX
+EIP
+ESP
+EBP
+ESI
+EDI
 Operations
 OM
 OI
@@ -8023,6 +8052,8 @@ Basic
 Brj
 BirthYear
 BETWEEN
+Byte
+Bin
 Java
 Jk
 Jb
@@ -8452,6 +8483,7 @@ WVm
 WdHd
 Wpr
 WHERE
+WORD
 GB
 GZ
 GU
@@ -9953,6 +9985,7 @@ dXch
 decimal
 datetime
 dataword
+direct
 yr
 yC
 yq
@@ -11083,6 +11116,8 @@ lAut
 layout
 lqG
 lvl
+lines
+line
 ukE
 uF
 ue
