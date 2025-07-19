@@ -2307,6 +2307,7 @@ Linear
 LIKE
 Latency
 LINE
+Linux
 Unit
 UDM
 UHG
@@ -2822,6 +2823,7 @@ PRIMARY
 Point
 PUSH
 Pointer
+Pass
 Counter
 CU
 Control
@@ -3450,6 +3452,7 @@ INDEX
 Integer
 Intersection
 Intel
+INT
 table
 thead
 tr
@@ -6799,6 +6802,7 @@ Seek
 Synchronized
 Synchronize
 Segment
+Syscall
 ns
 nD
 npS
