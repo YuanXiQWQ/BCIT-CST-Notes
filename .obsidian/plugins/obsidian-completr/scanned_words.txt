@@ -763,6 +763,8 @@ Rotational
 RPM
 Request
 RAX
+Rate
+Recently
 Data
 DOS
 DH
@@ -1550,6 +1552,7 @@ badPracticeBox
 bBD
 bigint
 byte
+block
 Quotient
 Ql
 QGA
@@ -2308,6 +2311,9 @@ LIKE
 Latency
 LINE
 Linux
+LRU
+Least
+Line
 Unit
 UDM
 UHG
@@ -2545,6 +2551,7 @@ UPDATE
 User
 UNIQUE
 Union
+Used
 PC
 Program
 Picosecond
@@ -2824,6 +2831,7 @@ Point
 PUSH
 Pointer
 Pass
+PASS
 Counter
 CU
 Control
@@ -3139,6 +3147,7 @@ Condition
 Cartesian
 Codeword
 Cylinder
+Contains
 IR
 Instruction
 IEEE
@@ -4284,6 +4293,7 @@ char
 codeword
 cell
 core
+cells
 rowspan
 red
 rZ
@@ -4520,6 +4530,7 @@ rmN
 raM
 real
 rotate
+rate
 px
 padding
 ps
@@ -8058,6 +8069,7 @@ BirthYear
 BETWEEN
 Byte
 Bin
+Bytes
 Java
 Jk
 Jb
@@ -8488,6 +8500,7 @@ WdHd
 Wpr
 WHERE
 WORD
+Which
 GB
 GZ
 GU
