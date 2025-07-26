@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.06.20 同步总线读取时序分析.md",
+                "file": "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.07.18 内存命中率.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025.06.20 同步总线读取时序分析"
+              "title": "2025.07.18 内存命中率"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "464af7bf05405e75",
@@ -171,14 +172,14 @@
   },
   "active": "050f207012708cfe",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.07.04 内存结构.md",
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.06.20 同步总线读取时序分析.md",
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/期末换算、公式汇总.md",
+    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.07.18 内存命中率.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.05.30 存储系统.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.05.23 ECC 错误纠正码.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.05.09 流水线（Pipeline）.md",
     "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.05.02 计算机语言层级.md",
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.06.20 同步总线读取时序分析.md",
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.07.18 内存命中率.md",
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/2025.07.04 内存结构.md",
-    "YuanXi-ColdNotes/Computer Organisation/2825课堂笔记/期末换算、公式汇总.md",
     "YuanXi-ColdNotes/Computer Organisation/计算机组成原理/4.5.2※存储系统-Cache和主存的映射方式.md",
     "YuanXi-ColdNotes/Computer Organisation/汇编语言/5. 寻址模式.md",
     "YuanXi-ColdNotes/Computer Organisation/汇编语言/4. 系统调用.md",
