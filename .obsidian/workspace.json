@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/Lecture2 基本概念.md",
+                "file": "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/Lecture 1 算法分析基本概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture2 基本概念"
+              "title": "Lecture 1 算法分析基本概念"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "464af7bf05405e75",
@@ -161,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -172,11 +172,13 @@
   },
   "active": "050f207012708cfe",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/Lecture2 基本概念.md",
+    "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/Lecture 1 算法分析基本概念.md",
+    "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250909101915.png",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250909100850.png",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs",
     "YuanXi-ColdNotes/Term2/Computer Organisation/2825课堂笔记/2025.07.18 内存命中率.md",
-    "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/Lecture2 基本概念.md",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学",
     "YuanXi-ColdNotes/Term3/未命名.md",
     "YuanXi-ColdNotes/Term2",

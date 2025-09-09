@@ -260,6 +260,9 @@ Mean
 Miss
 MHz
 MOV
+Measure
+Measures
+Median
 Address
 ACC
 Accumulator
@@ -765,6 +768,7 @@ Request
 RAX
 Rate
 Recently
+Range
 Data
 DOS
 DH
@@ -1063,6 +1067,7 @@ Dataword
 Disk
 DATA
 DEBUG
+Deviation
 word
 width
 weight
@@ -1762,6 +1767,7 @@ QAPE
 Qpb
 Queue
 Query
+Quartiles
 and
 align
 ab
@@ -2832,6 +2838,12 @@ PUSH
 Pointer
 Pass
 PASS
+Parameters
+Proportion
+Population
+Position
+Percentiles
+Plot
 Counter
 CU
 Control
@@ -3148,6 +3160,7 @@ Cartesian
 Codeword
 Cylinder
 Contains
+Centre
 IR
 Instruction
 IEEE
@@ -3462,6 +3475,8 @@ Integer
 Intersection
 Intel
 INT
+Interquartile
+IQR
 table
 thead
 tr
@@ -6014,6 +6029,7 @@ FuncPtr
 FOREIGN
 FROM
 Flags
+Fence
 Hz
 HE
 He
@@ -6814,6 +6830,9 @@ Synchronized
 Synchronize
 Segment
 Syscall
+Statistics
+Sample
+Standard
 ns
 nD
 npS
@@ -7798,6 +7817,7 @@ Okv
 Office
 Object
 ORDER
+Outliers
 Bandwidth
 Bus
 Bps
@@ -8501,6 +8521,8 @@ Wpr
 WHERE
 WORD
 Which
+Whisker
+Whiskers
 GB
 GZ
 GU
@@ -8751,6 +8773,7 @@ GRANT
 Grade
 GROUP
 GHz
+Grouped
 Zx
 ZY
 Zt
@@ -9563,6 +9586,7 @@ VSO
 VXL
 View
 VIEW
+Variation
 jtJ
 jl
 jb
