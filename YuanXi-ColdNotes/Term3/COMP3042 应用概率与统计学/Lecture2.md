@@ -1,13 +1,14 @@
 # Statistics and Parameters（统计数据和参数）
 对于变量 X
-## Statistics 统计数据
-### 表示：$N$
-- 变量的总值
-- 例：BCIT 总人数
 ## Parameters 参数
 ### 表示： $n$
 - 变量的样本数据
 - 例：每科选取五个人后的数据
+## Statistics 统计数据
+### 表示：$N$
+- 变量的总值
+- 例：BCIT 总人数
+
 ---
 # Measure of Proportion （比例的度量）
 描述某部分在整体中占比多少
@@ -73,7 +74,8 @@ $$
 ## Outliers 离群值
 - 有可能是数据错误
 - 同时也可能是极端情况
-### Interquartile Range (IQR) 四分位距法
+### Interquartile Range 四分位距法
+#### 表示：$IQR$
 使用四分位距法判断异常值
 1. 计算四分位距
 $$
@@ -119,3 +121,44 @@ $$
 $$
 \sigma = \sqrt{\frac{\sum{(X - \mu)^2}}{N}}
 $$
+## Coefficient of Variation 离散系数
+标准差表示数据的绝对离散程度，如果比较不同量纲或不同均值水平的数据，只看标准差不公平
+### 表示：$CV$
+### Sample
+$$
+CV = \frac{S}{\bar{X}} \times 100\%
+$$
+### Population
+$$
+CV = \frac{\sigma}{\mu} \times 100\%
+$$
+## Skewness 偏度
+- 描述一个分布相对于对称分布（如正态分布）的偏斜成都
+- 如果数据完全对称（均值=中位数=众数），$Sk \approx 0$
+- 如果不对称，就会出现正负偏移
+### 表示：Sk
+#### Sample
+$$
+Sk = \frac{3(\bar{X}-Q——{2})}{s}
+$$
+#### Population
+$$
+Sk = \frac{3(\mu-Q_{2})}{\sigma}
+$$
+### 分布情况：
+![[Pasted image 20250911031002.png]]
+- Positive Skew 右偏/正偏态
+	- $Sk > 1$
+	- $\text{均值} > \text{中位数} > \text{众数}$
+	- 图像尾巴在右边较长
+![[Pasted image 20250911031150.png]]
+- Symmetrical Distribution 对称分布
+	- $\text{均值} = \text{中位数} = \text{众数}$
+	- $Sk \approx 0$
+![[Pasted image 20250911031201.png]]
+- Negative Skew 左偏/负偏态
+	- $Sk < 1$
+	- $\text{均值} < \text{中位数} < \text{众数}$
+	- 图像尾巴在左边较长
+## Standar Deviation 标准差
+### 表示：$\sigma$

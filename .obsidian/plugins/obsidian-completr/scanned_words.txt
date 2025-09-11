@@ -3161,6 +3161,7 @@ Codeword
 Cylinder
 Contains
 Centre
+Coefficient
 IR
 Instruction
 IEEE
@@ -6833,6 +6834,7 @@ Syscall
 Statistics
 Sample
 Standard
+Skewness
 ns
 nD
 npS
