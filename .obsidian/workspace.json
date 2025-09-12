@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "464af7bf05405e75",
@@ -172,6 +173,11 @@
   },
   "active": "050f207012708cfe",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250912085343.png",
+    "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250912085243.png",
+    "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250912085237.png",
+    "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250912085236.png",
+    "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250912085020.png",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250911234614.png",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/Lecture1.md",
@@ -184,11 +190,8 @@
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250911031002.png",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250911004958.png",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250910230655.png",
-    "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250910224608.png",
     "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/Lecture 1 算法分析基本概念.md",
     "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计",
-    "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250909101915.png",
-    "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250909100850.png",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs",
     "YuanXi-ColdNotes/Term2/Computer Organisation/2825课堂笔记/2025.07.18 内存命中率.md",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学",
@@ -208,8 +211,6 @@
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/3. 寄存器.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/1. 基本语法.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/2. 内存段.md",
-    "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/imgs/Pasted image 20250713055605.png",
-    "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/imgs/Pasted image 20250713055151.png",
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/imgs",
     "YuanXi-ColdNotes/Computer Organisation/汇编语言/1. 基础知识.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言",

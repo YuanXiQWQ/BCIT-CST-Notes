@@ -131,4 +131,63 @@ $$
 包括：
 - 消息格式和顺序
 - 通信双方在发送、接受时的动作
-## 协议分层原则
+## Protocol Layering 协议分层
+将复杂的通信任务分为多个独立且简单的任务，每一层的服务指的是该层向上一层提供的服务
+- 例如应用层（HTTP）要传网页，会利用传输层（TCP）来保证可靠运输，而传输层又会利用网络层（IP）来找到目标地址
+### Principles 分层的原则
+- **First Principle 第一原则**：为了实现 **Bidirectional Communication 双向通信**，**每一层**必须都能够完成相反的任务
+- **Second Principle 第二原则**：两个站点的每一层下对应的内容都是 **Identical 相同的**
+### 分层的优点
+- Separating the services from the implementation 分离服务实现，简化复杂任务
+- Simpler and less expensive intermediate systems 更简单和更低成本的中间系统
+- Modularity 模块化：方便维护、更新，修改一层不需要改变整个系统（黑箱，其它实现无需关心如何修改）
+### 计算机网络操作模型
+两种主要模型来描述计算机的工作：
+- TCP/IP Protocol Suite TCP/IP 协议套件（或 TCP/IP 协议栈）：互联网用的模型，包括五层（按照数据发出顺序，接收时反过来）：
+![[Pasted image 20250912085020.png]]
+1. **Physical 物理层**
+	- 应用 - 网卡
+	- 通过数据链路从一个节点向下一个节点传输比特
+	- 只关心比特如何运输，不关心内容
+	- 如，浏览器发送请求，最后一定要变成“电压/光/电磁波”的模拟/数字信号才能传出去
+2. **Data Link 数据链路层**
+	- 主机 - 路由器/交换机
+	- 在相邻设备之间可靠地传输数据
+	- Protocol Data Unit (PDU) 传输单位：Frame 帧，是在协议栈的不同层传递的数据单元
+	- 如，Ethernet 以太网、Wi-Fi
+3. **Network 网络层**
+	- 主机 - 主机
+	- 决定数据从源主机到目标主机如何走
+	- PDU 传输单位：数据报 Datagram/Packet
+	- 如：IP、ICMP、ARP、DHCP
+4. **Transport 运输层**
+	- 系统 - 应用
+	- 保证不同应用间能正确通信
+	- PDU 传输单位：Segment 段（TCP）、Datagram 数据报（UDP）
+	- TCP 提供可靠运输，UDP 提供快速运输
+5. **Application 应用层**
+	- 应用 - 用户
+	- 面向用户的层
+	- PDU 传输单位：Message 消息
+	- 如：HTTP/HTTPS（网页）、FTP（文件传输）、SMTP/IMAP（邮件）、DNS（域名解析）
+- OSI Model OSI 模型
+	- 国际标准化组织 ISO 提出的理论模型
+		- 包括七层，比 TCP/IP 更细致：应用层、表示层、会话层、传输层、网络层、数据链路层、物理层
+		- 与 TCP/IP 相比，在运输层和应用层之间分了 Session Layer 会话层和 Presentation Layer 表示层
+### Encapsulation and Decapsulation 封装与解封装
+![[Pasted image 20250912085243.png]]
+封装：上层数据加上本层的 Header 后交给下层
+解封：反过来
+### 传输示例
+![[Pasted image 20250912085343.png]]
+### 层级地址
+在 TCP/IP 协议中，网络使用四层地址
+- **应用层：Names**（URL、邮件地址）
+- **传输层：Port numbers 端口号**：标识一个主机上的进程
+- **网络层：Logical addresses 逻辑地址**：一个 IP 地址在互联网上唯一地标识主机
+- **链路层：Link-layer addresses 链路地址**：在 LAN/WAN网络中标识了指定的主机/路由器
+物理层和链路层一般由 Network Inerface Card (NIC) 网卡实现
+- 只处理了设备与设备之间的直接通信
+主机（终端）实现了 TCP/IP 的全部五层
+
+

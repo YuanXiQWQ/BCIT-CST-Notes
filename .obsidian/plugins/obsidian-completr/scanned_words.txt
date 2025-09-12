@@ -263,6 +263,10 @@ MOV
 Measure
 Measures
 Median
+Message
+Medium
+Multipoint
+Mesh
 Address
 ACC
 Accumulator
@@ -540,6 +544,10 @@ AVG
 AND
 ASC
 ADDRESS
+Analog
+Accuracy
+Area
+Accessing
 Register
 Response
 RW
@@ -770,6 +778,11 @@ Rate
 Recently
 Range
 Relative
+Reliability
+Recovery
+Robustness
+Ring
+RFC
 Data
 DOS
 DH
@@ -1070,6 +1083,10 @@ DATA
 DEBUG
 Deviation
 Distribution
+Digital
+Delivery
+Delay
+Dial
 word
 width
 weight
@@ -2323,6 +2340,8 @@ LRU
 Least
 Line
 Leaf
+LAN
+Local
 Unit
 UDM
 UHG
@@ -2561,6 +2580,7 @@ User
 UNIQUE
 Union
 Used
+Unique
 PC
 Program
 Picosecond
@@ -2848,6 +2868,10 @@ Position
 Percentiles
 Plot
 Positive
+Protocol
+Performance
+Physical
+Providers
 Counter
 CU
 Control
@@ -3167,6 +3191,13 @@ Contains
 Centre
 Coefficient
 Cumulative
+Communications
+Communication
+Capacity
+Core
+Cable
+Connection
+Comments
 IR
 Instruction
 IEEE
@@ -3483,6 +3514,12 @@ Intel
 INT
 Interquartile
 IQR
+Identifier
+Internet
+Internetwork
+ISPs
+ISP
+IETF
 table
 thead
 tr
@@ -3997,6 +4034,8 @@ sbirth
 smallint
 sector
 shift
+shared
+systems
 collapse
 center
 colspan
@@ -5507,6 +5546,7 @@ fNzRI
 fpol
 float
 filename
+flow
 goldenrod
 gCd
 gO
@@ -6036,6 +6076,9 @@ FOREIGN
 FROM
 Flags
 Fence
+Full
+Failure
+Force
 Hz
 HE
 He
@@ -6307,6 +6350,7 @@ Hit
 Har
 Hex
 Histograms
+Half
 Time
 Throughput
 TQ
@@ -6538,6 +6582,11 @@ Timing
 TAG
 Tag
 Text
+Telecommunication
+Timeliness
+Transmission
+Timeshared
+Topology
 Second
 SXV
 SB
@@ -6844,6 +6893,15 @@ Skewness
 Skew
 Symmetrical
 Stem
+Sender
+Simplex
+Security
+Spatially
+Star
+Switched
+Service
+Subscriber
+Standards
 ns
 nD
 npS
@@ -7064,6 +7122,7 @@ nameLabel
 nameField
 nlv
 numeric
+network
 Nanosecond
 Nm
 Nd
@@ -7309,6 +7368,7 @@ Node
 NULL
 Numeric
 Negative
+Network
 ENIAC
 EUN
 ED
@@ -7594,6 +7654,8 @@ ESP
 EBP
 ESI
 EDI
+End
+Engineering
 Operations
 OM
 OI
@@ -8337,6 +8399,7 @@ JNd
 JCTn
 JWl
 Join
+Jitter
 Word
 Windows
 WB
@@ -8536,6 +8599,10 @@ WORD
 Which
 Whisker
 Whiskers
+WLAN
+Wireless
+WAN
+Wide
 GB
 GZ
 GU
@@ -10040,6 +10107,8 @@ decimal
 datetime
 dataword
 direct
+duplex
+delivery
 yr
 yC
 yq
