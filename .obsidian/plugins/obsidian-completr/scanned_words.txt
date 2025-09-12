@@ -769,6 +769,7 @@ RAX
 Rate
 Recently
 Range
+Relative
 Data
 DOS
 DH
@@ -1068,6 +1069,7 @@ Disk
 DATA
 DEBUG
 Deviation
+Distribution
 word
 width
 weight
@@ -2320,6 +2322,7 @@ Linux
 LRU
 Least
 Line
+Leaf
 Unit
 UDM
 UHG
@@ -2844,6 +2847,7 @@ Population
 Position
 Percentiles
 Plot
+Positive
 Counter
 CU
 Control
@@ -3162,6 +3166,7 @@ Cylinder
 Contains
 Centre
 Coefficient
+Cumulative
 IR
 Instruction
 IEEE
@@ -6301,6 +6306,7 @@ HAVING
 Hit
 Har
 Hex
+Histograms
 Time
 Throughput
 TQ
@@ -6835,6 +6841,9 @@ Statistics
 Sample
 Standard
 Skewness
+Skew
+Symmetrical
+Stem
 ns
 nD
 npS
@@ -7299,6 +7308,7 @@ NewTypeName
 Node
 NULL
 Numeric
+Negative
 ENIAC
 EUN
 ED
@@ -7820,6 +7830,7 @@ Office
 Object
 ORDER
 Outliers
+Ogive
 Bandwidth
 Bus
 Bps

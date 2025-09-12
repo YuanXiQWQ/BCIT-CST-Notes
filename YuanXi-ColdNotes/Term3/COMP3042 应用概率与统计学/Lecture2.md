@@ -160,5 +160,3 @@ $$
 	- $Sk < 1$
 	- $\text{均值} < \text{中位数} < \text{众数}$
 	- 图像尾巴在左边较长
-## Standar Deviation 标准差
-### 表示：$\sigma$
