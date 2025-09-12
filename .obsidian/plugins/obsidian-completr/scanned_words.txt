@@ -267,6 +267,7 @@ Message
 Medium
 Multipoint
 Mesh
+Modularity
 Address
 ACC
 Accumulator
@@ -548,6 +549,7 @@ Analog
 Accuracy
 Area
 Accessing
+ARP
 Register
 Response
 RW
@@ -1087,6 +1089,10 @@ Digital
 Delivery
 Delay
 Dial
+Datagram
+DHCP
+DNS
+Decapsulation
 word
 width
 weight
@@ -2074,6 +2080,7 @@ agy
 apJ
 akw
 anchorPane
+addresses
 Logic
 LOAD
 Length
@@ -2342,6 +2349,10 @@ Line
 Leaf
 LAN
 Local
+Layering
+Link
+Layer
+Logical
 Unit
 UDM
 UHG
@@ -2581,6 +2592,8 @@ UNIQUE
 Union
 Used
 Unique
+UDP
+URL
 PC
 Program
 Picosecond
@@ -2872,6 +2885,11 @@ Protocol
 Performance
 Physical
 Providers
+Principles
+PDU
+Packet
+Presentation
+Port
 Counter
 CU
 Control
@@ -3198,6 +3216,7 @@ Core
 Cable
 Connection
 Comments
+Card
 IR
 Instruction
 IEEE
@@ -3520,6 +3539,11 @@ Internetwork
 ISPs
 ISP
 IETF
+Identical
+ICMP
+IMAP
+ISO
+Inerface
 table
 thead
 tr
@@ -6079,6 +6103,8 @@ Fence
 Full
 Failure
 Force
+Frame
+FTP
 Hz
 HE
 He
@@ -6351,6 +6377,9 @@ Har
 Hex
 Histograms
 Half
+HTTP
+HTTPS
+Header
 Time
 Throughput
 TQ
@@ -6587,6 +6616,8 @@ Timeliness
 Transmission
 Timeshared
 Topology
+TCP
+Transport
 Second
 SXV
 SB
@@ -6902,6 +6933,11 @@ Switched
 Service
 Subscriber
 Standards
+Separating
+Simpler
+Suite
+SMTP
+Session
 ns
 nD
 npS
@@ -7369,6 +7405,8 @@ NULL
 Numeric
 Negative
 Network
+Names
+NIC
 ENIAC
 EUN
 ED
@@ -7656,6 +7694,8 @@ ESI
 EDI
 End
 Engineering
+Ethernet
+Encapsulation
 Operations
 OM
 OI
@@ -7893,6 +7933,7 @@ Object
 ORDER
 Outliers
 Ogive
+OSI
 Bandwidth
 Bus
 Bps
@@ -8165,6 +8206,7 @@ BETWEEN
 Byte
 Bin
 Bytes
+Bidirectional
 Java
 Jk
 Jb
@@ -10578,6 +10620,7 @@ emailLabel
 emailField
 eBmn
 eJP
+expensive
 KQ
 Kj
 Kq
@@ -11241,6 +11284,8 @@ lqG
 lvl
 lines
 line
+less
+layer
 ukE
 uF
 ue
@@ -12377,6 +12422,8 @@ ivb
 iWb
 iXa
 imageView
+implementation
+intermediate
 zO
 zU
 zy
