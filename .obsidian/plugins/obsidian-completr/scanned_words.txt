@@ -2895,6 +2895,7 @@ PDU
 Packet
 Presentation
 Port
+Put
 Counter
 CU
 Control
@@ -6629,6 +6630,7 @@ Timeshared
 Topology
 TCP
 Transport
+Tell
 Second
 SXV
 SB
@@ -8910,6 +8912,7 @@ Grade
 GROUP
 GHz
 Grouped
+Get
 Zx
 ZY
 Zt
