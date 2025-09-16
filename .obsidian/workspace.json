@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Term3/COMP3721 数据通信/Lecture 1 基本概念.md",
+                "file": "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/Lecture 1 算法分析基本概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 基本概念"
+              "title": "Lecture 1 算法分析基本概念"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#n",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,6 +173,9 @@
   },
   "active": "050f207012708cfe",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Term3/COMP3522 C++/2-文件IO、数组、随机数生成器、指针.md",
+    "YuanXi-ColdNotes/Term3/COMP3522 C++",
+    "YuanXi-ColdNotes/Term3/COMP3721 数据通信/Lecture 1 基本概念.md",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250912085343.png",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250912085243.png",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250912085237.png",
@@ -181,7 +184,6 @@
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs/Pasted image 20250911234614.png",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/Lecture1.md",
-    "YuanXi-ColdNotes/Term3/COMP3721 数据通信/Lecture 1 基本概念.md",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信",
     "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/COM",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/Lecture2.md",
@@ -189,13 +191,11 @@
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250911031150.png",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250911031002.png",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250911004958.png",
-    "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250910230655.png",
     "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/Lecture 1 算法分析基本概念.md",
     "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs",
     "YuanXi-ColdNotes/Term2/Computer Organisation/2825课堂笔记/2025.07.18 内存命中率.md",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学",
-    "YuanXi-ColdNotes/Term3/未命名.md",
     "YuanXi-ColdNotes/Term2",
     "YuanXi-ColdNotes/Term3",
     "YuanXi-ColdNotes/Term2/Computer Organisation/2825课堂笔记/2025.07.04 内存结构.md",
@@ -213,7 +213,6 @@
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/2. 内存段.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/imgs",
     "YuanXi-ColdNotes/Computer Organisation/汇编语言/1. 基础知识.md",
-    "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言",
     "YuanXi-ColdNotes/Computer Organisation/未命名.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/计算机组成原理/4.5.3存储系统-(未完成)Cache替换算法.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/计算机组成原理/4.6.1※存储系统-页式存储器.md",

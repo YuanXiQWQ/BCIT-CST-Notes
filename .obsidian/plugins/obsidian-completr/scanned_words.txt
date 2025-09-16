@@ -550,6 +550,7 @@ Accuracy
 Area
 Accessing
 ARP
+Algorithm
 Register
 Response
 RW
@@ -1316,6 +1317,7 @@ wfn
 wWl
 wWz
 words
+within
 bit
 border
 black
@@ -1583,6 +1585,8 @@ bBD
 bigint
 byte
 block
+buffer
+bitmask
 Quotient
 Ql
 QGA
@@ -2081,6 +2085,7 @@ apJ
 akw
 anchorPane
 addresses
+append
 Logic
 LOAD
 Length
@@ -3217,6 +3222,7 @@ Cable
 Connection
 Comments
 Card
+Char
 IR
 Instruction
 IEEE
@@ -3764,6 +3770,7 @@ tlqq
 typedef
 tinyint
 track
+truncate
 style
 solid
 sT
@@ -4378,6 +4385,9 @@ codeword
 cell
 core
 cells
+cin
+cout
+cerr
 rowspan
 red
 rZ
@@ -6938,6 +6948,7 @@ Simpler
 Suite
 SMTP
 Session
+Seeking
 ns
 nD
 npS
@@ -7934,6 +7945,7 @@ ORDER
 Outliers
 Ogive
 OSI
+Openmod
 Bandwidth
 Bus
 Bps
@@ -12806,6 +12818,7 @@ obatrIw
 overlayText
 oshM
 opC
+operations
 äL
 äI
 äM
