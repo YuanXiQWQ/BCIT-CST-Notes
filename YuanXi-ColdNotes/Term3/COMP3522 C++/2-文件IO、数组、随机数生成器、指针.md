@@ -116,3 +116,5 @@ while ((ch = in.get()) != EOF) {
 }
 ```
 ## Seeking within a file 文件内定位
+- `tellp()` (Tell Put) 在输出流返回当前字符位置
+- `tellg()` (Tell Get) 在输入流返回

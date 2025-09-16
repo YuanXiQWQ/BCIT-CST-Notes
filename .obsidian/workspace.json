@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/Lecture 1 算法分析基本概念.md",
+                "file": "YuanXi-ColdNotes/Term3/COMP3522 C++/2-文件IO、数组、随机数生成器、指针.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 算法分析基本概念"
+              "title": "2-文件IO、数组、随机数生成器、指针"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "050f207012708cfe",
   "lastOpenFiles": [
+    "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/Lecture 1 算法分析基本概念.md",
     "YuanXi-ColdNotes/Term3/COMP3522 C++/2-文件IO、数组、随机数生成器、指针.md",
     "YuanXi-ColdNotes/Term3/COMP3522 C++",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/Lecture 1 基本概念.md",
@@ -191,7 +192,6 @@
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250911031150.png",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250911031002.png",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs/Pasted image 20250911004958.png",
-    "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/Lecture 1 算法分析基本概念.md",
     "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计",
     "YuanXi-ColdNotes/Term3/COMP3042 应用概率与统计学/imgs",
     "YuanXi-ColdNotes/Term2/Computer Organisation/2825课堂笔记/2025.07.18 内存命中率.md",
