@@ -116,5 +116,38 @@ while ((ch = in.get()) != EOF) {
 }
 ```
 ## Seeking within a file 文件内定位
-- `tellp()` (Tell Put) 在输出流返回当前字符位置
-- `tellg()` (Tell Get) 在输入流返回
+### 打开模式
+- `ios::beg` 指相对于文件开始位置
+- `ios::cur` 指针相对于当前位置
+- `ios::end` 指针相对于结束位置
+### 定位
+- `tellp()` (Tell Put) 在输出流返回当前字符指针的位置
+```cpp
+ofstream myFile("1.txt", ios::app);
+cout << myFile.tellp() << endl;  // 返回值为末位		
+```
+- `tellg()` (Tell Get) 在输入流返回当前字符指针的位置
+```cpp
+ifstream myFile("123.txt");
+cout << myFile.tellg() << endl;  // 返回值为 0，因为默认是从开头读取
+```
+- `seekp()` (Seek Put) 移动写指针
+```cpp
+seekp(0); // 把写指针移动到文件的绝对位置 0
+seekp(1, ios:beg); // 把写指针从文件开头向后移动 1
+```
+- `seekg()` (Seek Get) 移动读指针
+```cpp
+seekg(1, ios::cur); // 把读指针从当前位置向后移动 1
+seekg(-10, ios::end); // 把读指针从文件末尾向前移动 10
+```
+---
+
+# 数组
+```cpp
+float valuse[3]; // 能放 3 个 float 的数组
+char *names[32]; // 能放 32 个 char 的指针的数组
+
+int scores[] = {1, 2, 3, 4}; // 根据初始值定义长度的 int 数组
+int scores1[8] = {1, 2, 3, 4}; // 余下位置会填入 0
+```
