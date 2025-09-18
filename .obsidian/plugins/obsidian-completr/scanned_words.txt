@@ -273,6 +273,8 @@ MFe
 MQv
 MXu
 Mqx
+Mosaic
+MosiacData
 Address
 ACC
 Accumulator
@@ -564,6 +566,7 @@ AMl
 AzV
 AzF
 Ayy
+Array
 Register
 Response
 RW
@@ -807,6 +810,7 @@ REj
 RXL
 Rrz
 RStudio
+Runners
 Data
 DOS
 DH
@@ -1628,6 +1632,7 @@ boM
 bYa
 bcb
 bFX
+byrow
 Quotient
 Ql
 QGA
@@ -2139,6 +2144,9 @@ aIq
 acq
 aCe
 aRR
+apply
+aperm
+aXp
 Logic
 LOAD
 Length
@@ -2422,6 +2430,7 @@ Lvv
 Lqs
 LYKYu
 LwQ
+Lab
 Unit
 UDM
 UHG
@@ -2979,6 +2988,7 @@ PNA
 PHOK
 PYY
 Packages
+Pie
 Counter
 CU
 Control
@@ -3314,6 +3324,8 @@ CzK
 CEq
 CyQ
 CTRL
+CId
+Charts
 IR
 Instruction
 IEEE
@@ -3649,6 +3661,7 @@ IBr
 IQa
 IVQ
 ITzM
+IntVector
 table
 thead
 tr
@@ -3877,6 +3890,7 @@ tLX
 tMz
 tKLf
 tWUWWW
+transpose
 style
 solid
 sT
@@ -4179,6 +4193,8 @@ sWC
 szX
 skf
 sSvu
+slow
+sLS
 collapse
 center
 colspan
@@ -4503,6 +4519,7 @@ cerr
 cyrM
 cCu
 cgt
+col
 rowspan
 red
 rZ
@@ -4744,6 +4761,7 @@ rJwE
 ruZd
 rOH
 rqy
+runners
 px
 padding
 ps
@@ -5009,6 +5027,7 @@ pUZ
 ppb
 prqk
 pPyZ
+pknD
 vertical
 viv
 vtf
@@ -5454,6 +5473,7 @@ mapped
 mlq
 mDq
 mFY
+mosaic
 font
 ff
 ffc
@@ -5716,6 +5736,8 @@ fTM
 fXQ
 frA
 fri
+frame
+fast
 goldenrod
 gCd
 gO
@@ -6261,6 +6283,7 @@ Fws
 FiI
 FzQ
 FyH
+FALSE
 Hz
 HE
 He
@@ -6545,6 +6568,7 @@ HjX
 HjWu
 HVV
 Help
+HNU
 Time
 Throughput
 TQ
@@ -6793,6 +6817,9 @@ TKW
 TNYi
 TOY
 TAB
+TRUE
+TenMileRace
+Tbg
 Second
 SXV
 SB
@@ -7121,6 +7148,7 @@ SliR
 STt
 SVVJ
 SHIFT
+Szc
 ns
 nD
 npS
@@ -7346,6 +7374,9 @@ nCs
 nYK
 nnO
 neq
+nrow
+ncol
+net
 Nanosecond
 Nm
 Nd
@@ -7897,6 +7928,7 @@ EdJlC
 Esf
 EiuK
 ENTER
+Excel
 Operations
 OM
 OI
@@ -8142,6 +8174,7 @@ Omu
 ONL
 Ooj
 OjJ
+OwN
 Bandwidth
 Bus
 Bps
@@ -8421,6 +8454,7 @@ BnA
 BeiL
 BnB
 BKG
+BEo
 Java
 Jk
 Jb
@@ -8874,6 +8908,7 @@ Wop
 WPZV
 WRRZE
 WeJ
+WET
 GB
 GZ
 GU
@@ -9136,6 +9171,8 @@ GrB
 Giy
 Gtb
 GTot
+GFoU
+GoU
 Zx
 ZY
 Zt
@@ -9563,6 +9600,7 @@ YUXa
 YXZ
 YFi
 YNJ
+YKp
 kS
 kH
 krS
@@ -9979,6 +10017,7 @@ VaX
 Vdu
 VFM
 VBd
+VBo
 jtJ
 jl
 jb
@@ -10434,6 +10473,9 @@ delivery
 dEx
 dbz
 dRb
+dimnames
+dim
+datasets
 yr
 yC
 yq
@@ -11164,6 +11206,7 @@ KSp
 Kge
 Kfu
 Kwpz
+KnT
 hqu
 hF
 hq
@@ -11600,6 +11643,7 @@ less
 layer
 lQq
 lve
+labels
 ukE
 uF
 ue
@@ -12278,6 +12322,7 @@ XKp
 Xyn
 Xih
 XcEh
+Xqy
 xUG
 xexY
 xW
@@ -13161,6 +13206,7 @@ oRZ
 obvj
 ogL
 oQI
+oeRob
 äL
 äI
 äM

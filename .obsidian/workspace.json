@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "119366a2a7e5b300",
+        "id": "b4d5de3a112adb22",
         "type": "tabs",
         "children": [
           {
-            "id": "050f207012708cfe",
+            "id": "e9bc9f1f08831857",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/2-基本数据类型.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2-基本数据类型"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "464af7bf05405e75",
@@ -171,10 +166,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "050f207012708cfe",
+  "active": "e9bc9f1f08831857",
   "lastOpenFiles": [
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/1-R、RStudio 入门基础.md",
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/2-基本数据类型.md",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/6-折线图、散点图.md",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/4-数据框操作.md",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/Lab 笔记/Lab2.md",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/Lab 笔记/imgs/Pasted image 20250917230438.png",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/Lab 笔记/imgs/Pasted image 20250917230454.png",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/Lab 笔记/imgs",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/Lab 笔记/Lab1.md",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/3-复杂数据类型.md",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/1-R、RStudio 入门基础.md",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/Lab 笔记",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/2-基本数据类型.md",
     "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/Lectures/Lecture2.md",
     "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/Lectures/Lecture1.md",
     "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/Lectures/imgs/Pasted image 20250910230655.png",
@@ -183,13 +188,11 @@
     "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/Lectures/imgs/Pasted image 20250909101915.png",
     "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/Lectures/imgs/Pasted image 20250909100850.png",
     "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/Lectures",
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/imgs/Pasted image 20250917164304.png",
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/imgs/Pasted image 20250917164234.png",
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/imgs/Pasted image 20250917164143.png",
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/imgs/Pasted image 20250917164124.png",
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/imgs/Pasted image 20250917164008.png",
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/imgs/Pasted image 20250917163937.png",
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/imgs",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/imgs/Pasted image 20250917164304.png",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/imgs/Pasted image 20250917164234.png",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/imgs/Pasted image 20250917164143.png",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/imgs/Pasted image 20250917164124.png",
+    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R/哔哩哔哩大学笔记/imgs",
     "YuanXi-ColdNotes/Term3/COMP3522 C++/2-文件IO、数组、随机数生成器、指针.md",
     "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/R",
     "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/Lecture 1 算法分析基本概念.md",
@@ -197,9 +200,6 @@
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/Lecture 1 基本概念.md",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信/imgs",
     "YuanXi-ColdNotes/Term3/COMP3721 数据通信",
-    "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计/COM",
-    "YuanXi-ColdNotes/Term3/COMP3760 算法分析与设计",
-    "YuanXi-ColdNotes/Term3/MATH3042 应用概率与统计学/Lectures/imgs",
     "YuanXi-ColdNotes/Term2/Computer Organisation/2825课堂笔记/2025.07.18 内存命中率.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/2825课堂笔记/2025.07.04 内存结构.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/2825课堂笔记/2025.06.20 同步总线读取时序分析.md",
@@ -213,11 +213,6 @@
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/4. 系统调用.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/3. 寄存器.md",
     "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/1. 基本语法.md",
-    "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/2. 内存段.md",
-    "YuanXi-ColdNotes/Computer Organisation/汇编语言/1. 基础知识.md",
-    "YuanXi-ColdNotes/Computer Organisation/未命名.md",
-    "YuanXi-ColdNotes/Term2/Computer Organisation/计算机组成原理/4.5.3存储系统-(未完成)Cache替换算法.md",
-    "YuanXi-ColdNotes/Term2/Computer Organisation/计算机组成原理/4.6.1※存储系统-页式存储器.md",
-    "YuanXi-ColdNotes/Term2/Computer Organisation/计算机组成原理/4.6.2※存储系统-虚拟存储器.md"
+    "YuanXi-ColdNotes/Term2/Computer Organisation/汇编语言/2. 内存段.md"
   ]
 }
