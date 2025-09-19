@@ -145,7 +145,7 @@ $$
 ![[Pasted image 20250919092755.png]]
 - 对周期复合信号做分解，得到的是一串离散的频率分量
 ## 常见周期波形的傅里叶级数关系
-- **方波**
+- **Square Signal 方波**
 ![[Pasted image 20250919092935.png]]
 - **Sawtooth Signal 锯齿波**
 ![[Pasted image 20250919093035.png]]
