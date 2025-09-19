@@ -276,6 +276,7 @@ Mqx
 Mosaic
 MosiacData
 MASS
+Megahertz
 Address
 ACC
 Accumulator
@@ -568,6 +569,7 @@ AzV
 AzF
 Ayy
 Array
+Aperiodic
 Register
 Response
 RW
@@ -1127,6 +1129,7 @@ DaA
 DJt
 DND
 Distributions
+Discrete
 word
 width
 weight
@@ -2150,6 +2153,7 @@ apply
 aperm
 aXp
 analog
+amplitude
 Logic
 LOAD
 Length
@@ -2993,6 +2997,10 @@ PYY
 Packages
 Pie
 Plots
+Periodic
+Period
+Peak
+Phase
 Counter
 CU
 Control
@@ -3332,6 +3340,7 @@ CId
 Charts
 Characteristics
 Characteristcs
+Continuous
 IR
 Instruction
 IEEE
@@ -4770,6 +4779,7 @@ ruZd
 rOH
 rqy
 runners
+rad
 px
 padding
 ps
@@ -6294,6 +6304,7 @@ FzQ
 FyH
 FALSE
 Frequencies
+Fundamental
 Hz
 HE
 He
@@ -6579,6 +6590,7 @@ HjWu
 HVV
 Help
 HNU
+Hertz
 Time
 Throughput
 TQ
@@ -6830,6 +6842,7 @@ TAB
 TRUE
 TenMileRace
 Tbg
+Terahertz
 Second
 SXV
 SB
@@ -7161,6 +7174,7 @@ SHIFT
 Szc
 Scatterplots
 Signal
+Sine
 ns
 nD
 npS
@@ -7644,6 +7658,7 @@ NFn
 NSJ
 Nth
 NPx
+Nonperiodic
 ENIAC
 EUN
 ED
@@ -7941,6 +7956,7 @@ Esf
 EiuK
 ENTER
 Excel
+Electiomagnetic
 Operations
 OM
 OI
@@ -8923,6 +8939,7 @@ WPZV
 WRRZE
 WeJ
 WET
+Wave
 GB
 GZ
 GU
@@ -9188,6 +9205,7 @@ GTot
 GFoU
 GoU
 Graphs
+Gigahertz
 Zx
 ZY
 Zt
@@ -11223,6 +11241,7 @@ Kge
 Kfu
 Kwpz
 KnT
+Kilohertz
 hqu
 hF
 hq

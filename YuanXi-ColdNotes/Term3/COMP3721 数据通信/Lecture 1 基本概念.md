@@ -48,7 +48,7 @@
 - **Reliability 可靠性**：Accuracy of delivery 准确性、Failure rate 故障率、Recovery Time 恢复能力、Robustness 耐操性
 - **Security 安全性**：数据防护、防止未授权访问，并指定恢复政策
 ## 连接类型
-- **Point-to-Point (P2P)  点对点**：两个设备之间的专用连接
+- **Point-to-Point (P 2 P)  点对点**：两个设备之间的专用连接
 	- 该链路的 Capacity 容量（带宽）专门用于两台设备之间的数据传输
 - **Multipoint 多点**：多于两台设备共用一条链路
 	- 该链路的容量是共享的。由于只有一条链路，因此有两种共享方式
@@ -92,7 +92,7 @@ $$
 - 将网络设备（如交换机、路由器和调制解调器🐱）相互连接
 - 由通信公司创建并运营，然后由使用该服务的机构租赁
 - 包含两种类型：
-	- P2P WAN 点对点广域网：只连接两个设备，如两个城市间的专线
+	- P 2 P WAN 点对点广域网：只连接两个设备，如两个城市间的专线
 	- Switched WAN 交换式广域网：多个设备共享互联，能灵活切换连接对象，如互联网的骨干网
 	- 如今的全球互联网骨干网就是基于交换式广域网搭建的
 # Internet 互联网
@@ -185,7 +185,7 @@ $$
 - **应用层：Names**（URL、邮件地址）
 - **传输层：Port numbers 端口号**：标识一个主机上的进程
 - **网络层：Logical addresses 逻辑地址**：一个 IP 地址在互联网上唯一地标识主机
-- **链路层：Link-layer addresses 链路地址**：在 LAN/WAN网络中标识了指定的主机/路由器
+- **链路层：Link-layer addresses 链路地址**：在 LAN/WAN 网络中标识了指定的主机/路由器
 物理层和链路层一般由 Network Inerface Card (NIC) 网卡实现
 - 只处理了设备与设备之间的直接通信
 主机（终端）实现了 TCP/IP 的全部五层
