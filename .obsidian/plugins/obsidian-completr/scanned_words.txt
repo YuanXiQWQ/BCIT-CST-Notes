@@ -275,6 +275,7 @@ MXu
 Mqx
 Mosaic
 MosiacData
+MASS
 Address
 ACC
 Accumulator
@@ -1125,6 +1126,7 @@ DIa
 DaA
 DJt
 DND
+Distributions
 word
 width
 weight
@@ -2147,6 +2149,7 @@ aRR
 apply
 aperm
 aXp
+analog
 Logic
 LOAD
 Length
@@ -2989,6 +2992,7 @@ PHOK
 PYY
 Packages
 Pie
+Plots
 Counter
 CU
 Control
@@ -3326,6 +3330,8 @@ CyQ
 CTRL
 CId
 Charts
+Characteristics
+Characteristcs
 IR
 Instruction
 IEEE
@@ -4195,6 +4201,8 @@ skf
 sSvu
 slow
 sLS
+survey
+signals
 collapse
 center
 colspan
@@ -5028,6 +5036,7 @@ ppb
 prqk
 pPyZ
 pknD
+periodic
 vertical
 viv
 vtf
@@ -6284,6 +6293,7 @@ FiI
 FzQ
 FyH
 FALSE
+Frequencies
 Hz
 HE
 He
@@ -7149,6 +7159,8 @@ STt
 SVVJ
 SHIFT
 Szc
+Scatterplots
+Signal
 ns
 nD
 npS
@@ -8175,6 +8187,7 @@ ONL
 Ooj
 OjJ
 OwN
+Ogives
 Bandwidth
 Bus
 Bps
@@ -8455,6 +8468,7 @@ BeiL
 BnB
 BKG
 BEo
+Back
 Java
 Jk
 Jb
@@ -9173,6 +9187,7 @@ Gtb
 GTot
 GFoU
 GoU
+Graphs
 Zx
 ZY
 Zt
@@ -10476,6 +10491,7 @@ dRb
 dimnames
 dim
 datasets
+digital
 yr
 yC
 yq

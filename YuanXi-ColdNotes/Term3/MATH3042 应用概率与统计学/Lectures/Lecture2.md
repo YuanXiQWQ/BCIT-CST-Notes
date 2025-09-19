@@ -139,7 +139,7 @@ $$
 ### 表示：Sk
 #### Sample
 $$
-Sk = \frac{3(\bar{X}-Q——{2})}{s}
+Sk = \frac{3(\bar{X}-Q_{2})}{s}
 $$
 #### Population
 $$
@@ -157,6 +157,6 @@ $$
 	- $Sk \approx 0$
 ![[Pasted image 20250911031201.png]]
 - Negative Skew 左偏/负偏态
-	- $Sk < 1$
+	- $Sk < -1$
 	- $\text{均值} < \text{中位数} < \text{众数}$
 	- 图像尾巴在左边较长
